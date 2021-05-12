@@ -1,0 +1,8325 @@
+{
+  "t-5c8734382a7fd08a4bf5d79835331b5c623c7fb8": {
+    "cost": [
+      {
+        "id": "pack_of_sugar",
+        "count": 2
+      },
+      {
+        "id": "purified_water",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "fierce_hatchling_moonshine",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Booze generator",
+      "level": 1
+    },
+    "time": 183
+  },
+  "t-cdf7480e2419ceda291804e4dbd6729a729fbe9e": {
+    "cost": [
+      {
+        "id": "broken_gphone",
+        "count": 1
+      },
+      {
+        "id": "broken_gphone_x",
+        "count": 1
+      },
+      {
+        "id": "ssd_drive",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "secure_flash_drive",
+      "count": 3
+    },
+    "trader": {
+      "trader": "Intelligence Center",
+      "level": 2
+    },
+    "time": 2053
+  },
+  "t-3d04c415ed3133c839ef76860c180878b58767b0": {
+    "cost": [
+      {
+        "id": "military_circuit_board",
+        "count": 2
+      },
+      {
+        "id": "pc_cpu",
+        "count": 2
+      },
+      {
+        "id": "capacitors",
+        "count": 5
+      }
+    ],
+    "reward": {
+      "id": "virtex_programmable_processor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Intelligence Center",
+      "level": 2
+    },
+    "time": 2257
+  },
+  "t-74b5e83e33fd9116784c0792dfb327dec0118878": {
+    "cost": [
+      {
+        "id": "broken_gphone_x",
+        "count": 1
+      },
+      {
+        "id": "powerbank",
+        "count": 1
+      },
+      {
+        "id": "military_circuit_board",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "military_cofdm_wireless_signal_transmitter",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Intelligence Center",
+      "level": 2
+    },
+    "time": 2333
+  },
+  "t-e7651504076e200e4741548600da5c80e2300c0d": {
+    "cost": [
+      {
+        "id": "ram",
+        "count": 3
+      },
+      {
+        "id": "ssd_drive",
+        "count": 1
+      },
+      {
+        "id": "broken_gphone",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "vpx_flash_storage_module",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Intelligence Center",
+      "level": 2
+    },
+    "time": 2750
+  },
+  "t-23e85e8161cf9e5732597d65fedd8cf7f39e6cec": {
+    "cost": [
+      {
+        "id": "terragroup_labs_access_keycard",
+        "count": 1
+      },
+      {
+        "id": "signal_jammer",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "uhf_rfid_reader",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Intelligence Center",
+      "level": 2
+    },
+    "time": 3200
+  },
+  "t-1d64fd2639a8224785d20ccb01db467d31132a08": {
+    "cost": [
+      {
+        "id": "uhf_rfid_reader",
+        "count": 1
+      },
+      {
+        "id": "secure_flash_drive",
+        "count": 3
+      },
+      {
+        "id": "vpx_flash_storage_module",
+        "count": 1
+      },
+      {
+        "id": "object_21ws_keycard",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "object_11sr_keycard",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Intelligence Center",
+      "level": 2
+    },
+    "time": 3933
+  },
+  "t-f2c0eb548c33e230fecc8019901482d9eb7f539c": {
+    "cost": [
+      {
+        "id": "printed_circuit_board",
+        "count": 8
+      },
+      {
+        "id": "pc_cpu",
+        "count": 4
+      },
+      {
+        "id": "cpu_fan",
+        "count": 2
+      },
+      {
+        "id": "vpx_flash_storage_module",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "graphics_card",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Intelligence Center",
+      "level": 2
+    },
+    "time": 4150
+  },
+  "t-276aee3c5429213ab2fda833124f6d8d5c4e432c": {
+    "cost": [
+      {
+        "id": "secure_flash_drive",
+        "count": 3
+      },
+      {
+        "id": "printer_paper",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "folder_with_intelligence",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Intelligence Center",
+      "level": 3
+    },
+    "time": 1900
+  },
+  "t-0623a127a693c3da98fcfa6030c697ea8d2e2e98": {
+    "cost": [
+      {
+        "id": "uhf_rfid_reader",
+        "count": 1
+      },
+      {
+        "id": "terragroup_labs_access_keycard",
+        "count": 12
+      },
+      {
+        "id": "lab_yellow_keycard",
+        "count": 3
+      },
+      {
+        "id": "folder_with_intelligence",
+        "count": 7
+      },
+      {
+        "id": "magnet",
+        "count": 3
+      }
+    ],
+    "reward": {
+      "id": "lab_violet_keycard",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Intelligence Center",
+      "level": 3
+    },
+    "time": 6267
+  },
+  "t-d073e7003b082283c11099246f2a2826d9d0a26e": {
+    "cost": [
+      {
+        "id": "gp_5_gasmask",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "air_filter_for_gas_mask",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-b1ef37454b9565937a2004d548d3d9b4f2cfe41f": {
+    "cost": [
+      {
+        "id": "aseptic_bandage",
+        "count": 5
+      },
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "army_bandage",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-07099c5ef25172a7700d8f0cb581cc1be05d271d": {
+    "cost": [
+      {
+        "id": "printer_paper",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "toilet_paper",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-736aeb198d394c93d790de913a838b452fa5d229": {
+    "cost": [
+      {
+        "id": "fleece_cloth",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "aseptic_bandage",
+      "count": 6
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-054fd084abda347b990e28e42d8047d02f1131ea": {
+    "cost": [
+      {
+        "id": "paca_soft_armor",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "aramid_fiber_cloth",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-cf4217cdd5ecd9e774c82947aad86516286d9fd2": {
+    "cost": [
+      {
+        "id": "security_vest",
+        "count": 3
+      }
+    ],
+    "reward": {
+      "id": "polyamide_fabric_cordura",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-a88f16f636a278df6f88166502c2ed4e8049da4d": {
+    "cost": [
+      {
+        "id": "scav_vest",
+        "count": 3
+      }
+    ],
+    "reward": {
+      "id": "ripstop_cloth",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-f5f9a82862d4db61d4d193869a735ab222856b8e": {
+    "cost": [
+      {
+        "id": "tactical_sling_bag",
+        "count": 4
+      }
+    ],
+    "reward": {
+      "id": "polyamide_fabric_cordura",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-490cfb80d0ca80bb06bd34f1211287459ed38177": {
+    "cost": [
+      {
+        "id": "mf_untar_armor_vest",
+        "count": 1
+      },
+      {
+        "id": "metal_cutting_scissors",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "immobilizing_splint_alu",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-3f9e8b1d4ed691054e0d892a43efb0ac3c739137": {
+    "cost": [
+      {
+        "id": "fleece_cloth",
+        "count": 1
+      },
+      {
+        "id": "06l_water_bottle",
+        "count": 1
+      },
+      {
+        "id": "flyye_mbss_backpack",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "scav_backpack",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-068d69cf95c3d4011e345568564045bb2abad467": {
+    "cost": [
+      {
+        "id": "aramid_fiber_cloth",
+        "count": 3
+      },
+      {
+        "id": "ripstop_cloth",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "paca_soft_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": 74
+  },
+  "t-1ee914d4888438b20d2b3205854727d1c3aacb69": {
+    "cost": [
+      {
+        "id": "tac_kek_fast_mt_helmet_non_ballistic_replica",
+        "count": 2
+      },
+      {
+        "id": "duct_tape",
+        "count": 1
+      },
+      {
+        "id": "aramid_fiber_cloth",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "lzsh_light_helmet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 1
+    },
+    "time": 83
+  },
+  "t-48285d6180416c4b1d269301ffc89aeb6c4e8a5f": {
+    "cost": [
+      {
+        "id": "soap",
+        "count": 1
+      },
+      {
+        "id": "06l_water_bottle",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "schaman_shampoo",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": null
+  },
+  "t-39c5f00bf6f7c45338c92c02b3a568af1dcf4a8c": {
+    "cost": [
+      {
+        "id": "soap",
+        "count": 1
+      },
+      {
+        "id": "heat_exchange_alkali_surface_washer",
+        "count": 1
+      },
+      {
+        "id": "sodium_bicarbonate",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "ox_bleach",
+      "count": 5
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": null
+  },
+  "t-78fca85ce503bd923ab8592a878a0a2b244e2d45": {
+    "cost": [
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": 1
+      },
+      {
+        "id": "schaman_shampoo",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "clin_wiper",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": null
+  },
+  "t-6eca63b18f8c5fb947a23026a78734a315d849a4": {
+    "cost": [
+      {
+        "id": "ux_pro_beanie",
+        "count": 4
+      }
+    ],
+    "reward": {
+      "id": "fleece_cloth",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": null
+  },
+  "t-f395d63f82019d2556dc46c07e40ea974c072fb3": {
+    "cost": [
+      {
+        "id": "polyamide_fabric_cordura",
+        "count": 1
+      },
+      {
+        "id": "ripstop_cloth",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "splav_tarzan_m22_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": null
+  },
+  "t-b7d79867ba77af994aeed58e72c6d5d56111c594": {
+    "cost": [
+      {
+        "id": "aramid_fiber_cloth",
+        "count": 2
+      },
+      {
+        "id": "ripstop_cloth",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "module_3m_bodyarmor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": null
+  },
+  "t-2079cdc6b38a3ab64219677763924778938634f4": {
+    "cost": [
+      {
+        "id": "splav_tarzan_m22_rig",
+        "count": 1
+      },
+      {
+        "id": "ripstop_cloth",
+        "count": 1
+      },
+      {
+        "id": "polyamide_fabric_cordura",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "blackrock_chest_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": null
+  },
+  "t-61828d00ea175f7ef70236f96add4e9e391f5644": {
+    "cost": [
+      {
+        "id": "zibbo_lighter",
+        "count": 10
+      },
+      {
+        "id": "crickent_lighter",
+        "count": 10
+      }
+    ],
+    "reward": {
+      "id": "expeditionary_fuel_tank",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 62
+  },
+  "t-320dd01cdeda9f69d9ee256021617ccdf64618e9": {
+    "cost": [
+      {
+        "id": "duct_tape",
+        "count": 2
+      },
+      {
+        "id": "insulating_tape",
+        "count": 2
+      },
+      {
+        "id": "clin_wiper",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "kektape_duct_tape",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 80
+  },
+  "t-74088db3324f9233b34fdb4caa5032e04e54e479": {
+    "cost": [
+      {
+        "id": "30_round_6l23_545x39_magazine_for_ak_74_and_compatibles",
+        "count": 4
+      },
+      {
+        "id": "kektape_duct_tape",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "60_round_6l31_545x39_magazine_for_ak_74_and_compatibles",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 83
+  },
+  "t-8fa57ae1068d8ac2e277e00afbf92f91c4fc709e": {
+    "cost": [
+      {
+        "id": "wd_40_400ml",
+        "count": 1
+      },
+      {
+        "id": "metal_cutting_scissors",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "wd_40_100ml",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 150
+  },
+  "t-58baad8f725f7504ff22d99900f9e93dc54376fa": {
+    "cost": [
+      {
+        "id": "polyamide_fabric_cordura",
+        "count": 1
+      },
+      {
+        "id": "construction_measuring_tape",
+        "count": 1
+      },
+      {
+        "id": "lk_3f_transfer_tourist_backpack",
+        "count": 4
+      }
+    ],
+    "reward": {
+      "id": "pilgrim_tourist_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 163
+  },
+  "t-bab55d4f5c3ad4bb06eab2cb05548215f6460716": {
+    "cost": [
+      {
+        "id": "silicone_tube",
+        "count": 1
+      },
+      {
+        "id": "wires",
+        "count": 3
+      },
+      {
+        "id": "insulating_tape",
+        "count": 3
+      }
+    ],
+    "reward": {
+      "id": "corrugated_hose",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 202
+  },
+  "t-8ed7087c418daa2d4482a787b87972a15e3ca076": {
+    "cost": [
+      {
+        "id": "duffle_bag",
+        "count": 5
+      },
+      {
+        "id": "crickent_lighter",
+        "count": 1
+      },
+      {
+        "id": "bars_a_2607_95x18",
+        "count": 1
+      },
+      {
+        "id": "wires",
+        "count": 3
+      }
+    ],
+    "reward": {
+      "id": "paracord",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 258
+  },
+  "t-f23b1c7b36f7a3e22160c7550da8a607849ca5c2": {
+    "cost": [
+      {
+        "id": "expeditionary_fuel_tank",
+        "count": 2
+      },
+      {
+        "id": "metal_cutting_scissors",
+        "count": 1
+      },
+      {
+        "id": "bolts",
+        "count": 3
+      },
+      {
+        "id": "screw_nut",
+        "count": 3
+      }
+    ],
+    "reward": {
+      "id": "magazine_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 293
+  },
+  "t-c4198c39f8a8f9bfd094c81d1970752848db759d": {
+    "cost": [
+      {
+        "id": "air_filter_for_gas_mask",
+        "count": 4
+      },
+      {
+        "id": "metal_cutting_scissors",
+        "count": 1
+      },
+      {
+        "id": "printer_paper",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "water_filter",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 593
+  },
+  "t-f74cffc63a6de37ef2d1e0cf05c7be74afa24a6d": {
+    "cost": [
+      {
+        "id": "magazine_case",
+        "count": 3
+      },
+      {
+        "id": "metal_cutting_scissors",
+        "count": 1
+      },
+      {
+        "id": "bolts",
+        "count": 6
+      },
+      {
+        "id": "kektape_duct_tape",
+        "count": 3
+      }
+    ],
+    "reward": {
+      "id": "lucky_scav_junkbox",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 683
+  },
+  "t-e3f3d00a0bebb9785639df5293284a5d51561524": {
+    "cost": [
+      {
+        "id": "metal_fuel_tank",
+        "count": 2
+      },
+      {
+        "id": "metal_cutting_scissors",
+        "count": 1
+      },
+      {
+        "id": "screw_nut",
+        "count": 5
+      },
+      {
+        "id": "bolts",
+        "count": 5
+      },
+      {
+        "id": "wrench",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "grenade_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 2
+    },
+    "time": 1000
+  },
+  "t-bb7a748e998aeb598efc22e21fc3c8b2fbe70d45": {
+    "cost": [
+      {
+        "id": "triton_m43_a_chest_harness",
+        "count": 2
+      },
+      {
+        "id": "kektape_duct_tape",
+        "count": 1
+      },
+      {
+        "id": "ox_bleach",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "velocity_systems_multi_purpose_patrol_vest",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 3
+    },
+    "time": 130
+  },
+  "t-79112318a5bb7abf30ea70a26ae9ffbb2b78bfd1": {
+    "cost": [
+      {
+        "id": "vkbo_army_bag",
+        "count": 4
+      },
+      {
+        "id": "paracord",
+        "count": 1
+      },
+      {
+        "id": "ripstop_cloth",
+        "count": 2
+      },
+      {
+        "id": "leatherman_multitool",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "6sh118_raid_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 3
+    },
+    "time": 133
+  },
+  "t-1b713feaed2d41fc0db0a3ec0a8e0b1f31e51bc8": {
+    "cost": [
+      {
+        "id": "air_filter_for_gas_mask",
+        "count": 2
+      },
+      {
+        "id": "water_filter",
+        "count": 2
+      },
+      {
+        "id": "a_set_of_tools",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "fp_100_filter_absorber",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Lavatory",
+      "level": 3
+    },
+    "time": 157
+  },
+  "t-26b581a30e92be7f93e3fd998431ceccddfd22e0": {
+    "cost": [
+      {
+        "id": "pile_of_meds",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "ai_2_medikit",
+      "count": 3
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-1db921c3230d9783afe951ec0af058044a9b03ac": {
+    "cost": [
+      {
+        "id": "hydrogen_peroxide",
+        "count": 2
+      },
+      {
+        "id": "pile_of_meds",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "calok_b_hemostatic",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-2752624f3d3da128be3ada0da416f50e810b7ee5": {
+    "cost": [
+      {
+        "id": "analgin_painkillers",
+        "count": 2
+      },
+      {
+        "id": "aseptic_bandage",
+        "count": 2
+      },
+      {
+        "id": "calok_b_hemostatic",
+        "count": 1
+      },
+      {
+        "id": "esmarch_tourniquet",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "salewa_first_aid_kit",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-2806ba4e32b570a54969b005d6aaeeb3e3d9a1b3": {
+    "cost": [
+      {
+        "id": "silicone_tube",
+        "count": 1
+      },
+      {
+        "id": "disposable_syringe",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "medical_bloodset",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 2
+    },
+    "time": null
+  },
+  "t-47e36eac6cdc5afd01b8f78aaea07919ea50bca7": {
+    "cost": [
+      {
+        "id": "ai_2_medikit",
+        "count": 1
+      },
+      {
+        "id": "aseptic_bandage",
+        "count": 1
+      },
+      {
+        "id": "augmentin_antibiotic_pills",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "pile_of_meds",
+      "count": 3
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 2
+    },
+    "time": null
+  },
+  "t-9f1a38551c9390227f667e25f6e2502cd6475c1a": {
+    "cost": [
+      {
+        "id": "pile_of_meds",
+        "count": 2
+      },
+      {
+        "id": "army_bandage",
+        "count": 2
+      },
+      {
+        "id": "esmarch_tourniquet",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "ifak_personal_tactical_first_aid_kit",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 2
+    },
+    "time": null
+  },
+  "t-64da5277ae215da65223059ada6fd31110a0c836": {
+    "cost": [
+      {
+        "id": "adrenaline_injector",
+        "count": 1
+      },
+      {
+        "id": "ai_2_medikit",
+        "count": 2
+      },
+      {
+        "id": "pile_of_meds",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "antidote_xtg_12",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 2
+    },
+    "time": 70
+  },
+  "t-6f114e3ff62efbc7f73c3b6e2a5b4c3a7fdc6f5a": {
+    "cost": [
+      {
+        "id": "pile_of_meds",
+        "count": 1
+      },
+      {
+        "id": "analgin_painkillers",
+        "count": 1
+      },
+      {
+        "id": "disposable_syringe",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "morphine_injector",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 2
+    },
+    "time": 73
+  },
+  "t-211ba95e766013df51deb731be0e9df40019370c": {
+    "cost": [
+      {
+        "id": "pile_of_meds",
+        "count": 7
+      },
+      {
+        "id": "saline_solution",
+        "count": 2
+      },
+      {
+        "id": "propital",
+        "count": 3
+      },
+      {
+        "id": "morphine_injector",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "combat_stimulant_injector_sj1_tglabs",
+      "count": 5
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 2
+    },
+    "time": 83
+  },
+  "t-09cb3947f92c742180e0a47a78e37e70672cfa1b": {
+    "cost": [
+      {
+        "id": "hemostatic_drug_zagustin",
+        "count": 1
+      },
+      {
+        "id": "morphine_injector",
+        "count": 1
+      },
+      {
+        "id": "max_energy",
+        "count": 2
+      },
+      {
+        "id": "pile_of_meds",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "mule_stimulator",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 2
+    },
+    "time": 92
+  },
+  "t-c5950b0f7ccfed91564328e6f29d9f02307fec61": {
+    "cost": [
+      {
+        "id": "magnet",
+        "count": 2
+      },
+      {
+        "id": "wires",
+        "count": 3
+      },
+      {
+        "id": "capacitors",
+        "count": 4
+      },
+      {
+        "id": "powerbank",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "portable_defibrillator",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 2
+    },
+    "time": 315
+  },
+  "t-586f413d410e3375f2241b29b9be4f06014996a1": {
+    "cost": [
+      {
+        "id": "soap",
+        "count": 3
+      },
+      {
+        "id": "schaman_shampoo",
+        "count": 2
+      },
+      {
+        "id": "pile_of_meds",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "vaseline",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 3
+    },
+    "time": null
+  },
+  "t-40f64021497460ca8a424148bab1948bc316412b": {
+    "cost": [
+      {
+        "id": "pile_of_meds",
+        "count": 8
+      }
+    ],
+    "reward": {
+      "id": "grizzly_first_aid_kit",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 3
+    },
+    "time": 74
+  },
+  "t-83fcdb2e8f5727f3d6abe9b4449568da76e4b1f2": {
+    "cost": [
+      {
+        "id": "pile_of_meds",
+        "count": 6
+      },
+      {
+        "id": "a_set_of_tools",
+        "count": 1
+      },
+      {
+        "id": "esmarch_tourniquet",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "surv12_field_surgical_kit",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 3
+    },
+    "time": 77
+  },
+  "t-f413b227a158c5931c579854853088b10015c7a0": {
+    "cost": [
+      {
+        "id": "combat_stimulant_injector_sj1_tglabs",
+        "count": 1
+      },
+      {
+        "id": "pile_of_meds",
+        "count": 2
+      },
+      {
+        "id": "saline_solution",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "combat_stimulant_injector_sj6_tglabs",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 3
+    },
+    "time": 85
+  },
+  "t-09cc19538682f73f043c0b2aff1a8f38d9f07b2c": {
+    "cost": [
+      {
+        "id": "ibuprofen_painkillers",
+        "count": 1
+      },
+      {
+        "id": "golden_star_balm",
+        "count": 1
+      },
+      {
+        "id": "pile_of_meds",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "propital",
+      "count": 7
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 3
+    },
+    "time": 115
+  },
+  "t-5aff5be4193d1e5e995ed35978ca30a61b332deb": {
+    "cost": [
+      {
+        "id": "ophthalmoscope",
+        "count": 2
+      },
+      {
+        "id": "magnet",
+        "count": 3
+      },
+      {
+        "id": "uhf_rfid_reader",
+        "count": 3
+      },
+      {
+        "id": "powerbank",
+        "count": 3
+      },
+      {
+        "id": "portable_defibrillator",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "ledx_skin_transilluminator",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Medstation",
+      "level": 3
+    },
+    "time": 2333
+  },
+  "t-4978fc84698d63e11032a226448eff0232a2ee94": {
+    "cost": [
+      {
+        "id": "army_crackers",
+        "count": 2
+      },
+      {
+        "id": "can_of_beef_stew",
+        "count": 1
+      },
+      {
+        "id": "squash_spread",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "iskra_lunch_box",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-10cca276753fbfa3e7c53601ab7d79888aa0d5ef": {
+    "cost": [
+      {
+        "id": "06l_water_bottle",
+        "count": 2
+      },
+      {
+        "id": "emelya_rye_croutons",
+        "count": 4
+      }
+    ],
+    "reward": {
+      "id": "premium_kvass_norvinskiy_yadreniy_06l_bottle",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 1
+    },
+    "time": 63
+  },
+  "t-3c0692fc6ba0f70f4e2fde1d49998346c9ad83f7": {
+    "cost": [
+      {
+        "id": "can_of_delicious_beef_stew",
+        "count": 1
+      },
+      {
+        "id": "squash_spread",
+        "count": 1
+      },
+      {
+        "id": "rye_croutons",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "can_of_beef_stew",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 1
+    },
+    "time": 79
+  },
+  "t-5b2e20382300fabec2e63abd4b555cc34608d854": {
+    "cost": [
+      {
+        "id": "tarcola",
+        "count": 1
+      },
+      {
+        "id": "coffee_majaica",
+        "count": 1
+      },
+      {
+        "id": "06l_water_bottle",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "max_energy",
+      "count": 4
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 1
+    },
+    "time": 108
+  },
+  "t-95ea31cd086b16e124397dafe8b4f9ae67f85ebb": {
+    "cost": [
+      {
+        "id": "alyonka_chocolate_bar",
+        "count": 1
+      },
+      {
+        "id": "pack_of_oat_flakes",
+        "count": 1
+      },
+      {
+        "id": "army_crackers",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "slickers_bar",
+      "count": 7
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 2
+    },
+    "time": 72
+  },
+  "t-281227fe8b94b6293badb6388f7b6c00fb58e0fd": {
+    "cost": [
+      {
+        "id": "pack_of_sugar",
+        "count": 1
+      },
+      {
+        "id": "pack_of_milk",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "condensed_milk",
+      "count": 3
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 2
+    },
+    "time": 82
+  },
+  "t-a4f53ae2e12f2f07cf93db79438e7aaab4ecc5b6": {
+    "cost": [
+      {
+        "id": "alyonka_chocolate_bar",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "pack_of_sugar",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 2
+    },
+    "time": 83
+  },
+  "t-db69859599c3d8eab750e8511639a96ec836ef25": {
+    "cost": [
+      {
+        "id": "apollon_soyuz_cigarettes",
+        "count": 1
+      },
+      {
+        "id": "42nd_signature_blend_english_tea",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "wilston_cigarettes",
+      "count": 5
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 2
+    },
+    "time": 102
+  },
+  "t-08592580870a7af478dd29218303107dd51371f3": {
+    "cost": [
+      {
+        "id": "fierce_hatchling_moonshine",
+        "count": 1
+      },
+      {
+        "id": "06l_water_bottle",
+        "count": 5
+      }
+    ],
+    "reward": {
+      "id": "bottle_of_vodka_tarkovskaya",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 3
+    },
+    "time": 96
+  },
+  "t-b497bc73f5dcdd500be8a6f613fc68b05d098168": {
+    "cost": [
+      {
+        "id": "06l_water_bottle",
+        "count": 2
+      },
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": 2
+      },
+      {
+        "id": "alyonka_chocolate_bar",
+        "count": 1
+      },
+      {
+        "id": "42nd_signature_blend_english_tea",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "bottle_of_dan_jackiel_whiskey",
+      "count": 3
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 3
+    },
+    "time": 107
+  },
+  "t-56838e27bbcdf4e812c827921e6c1a5489100ee1": {
+    "cost": [
+      {
+        "id": "purified_water",
+        "count": 1
+      },
+      {
+        "id": "silicone_tube",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "water_bottle_with_a_filter_aquamari",
+      "count": 8
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 3
+    },
+    "time": 111
+  },
+  "t-8a5ff75d14dbff80fe17e5a375ad3815c1f7c3de": {
+    "cost": [
+      {
+        "id": "purified_water",
+        "count": 1
+      },
+      {
+        "id": "pack_of_sugar",
+        "count": 1
+      },
+      {
+        "id": "coffee_majaica",
+        "count": 1
+      },
+      {
+        "id": "42nd_signature_blend_english_tea",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "hot_rod",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Nutrition unit",
+      "level": 3
+    },
+    "time": 315
+  },
+  "t-97cbe513a96195a775cbe1fc50e48801d7a948d6": {
+    "cost": [
+      {
+        "id": "working_lcd",
+        "count": 4
+      },
+      {
+        "id": "screwdriver",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "broken_lcd",
+      "count": 4
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-6e5140127efdb75ea42edea3def97ab1ee90075e": {
+    "cost": [
+      {
+        "id": "flat_screwdriver",
+        "count": 1
+      },
+      {
+        "id": "dvd_drive",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "printed_circuit_board",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-e717670e614568f41be26ca31d2facdcef687dcd": {
+    "cost": [
+      {
+        "id": "t_shaped_plug",
+        "count": 2
+      },
+      {
+        "id": "wires",
+        "count": 2
+      },
+      {
+        "id": "insulating_tape",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "powercord",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-dc6900cd7be851da8be8c3b81de05ad65383b18b": {
+    "cost": [
+      {
+        "id": "gunpowder_kite",
+        "count": 1
+      },
+      {
+        "id": "gunpowder_eagle",
+        "count": 1
+      },
+      {
+        "id": "classic_matches",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "gunpowder_hawk",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-aacf590eb24a2c9e9dbf67bc538c1dcbdfe11ebe": {
+    "cost": [
+      {
+        "id": "damaged_hard_drive",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "magnet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-131316d62e46eb26900cb2abe0cbcb339695fdc5": {
+    "cost": [
+      {
+        "id": "gas_analyzer",
+        "count": 1
+      },
+      {
+        "id": "screwdriver",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "printed_circuit_board",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-48f4a0e7d731304d4a07621696122bbd8d779411": {
+    "cost": [
+      {
+        "id": "a_pack_of_nails",
+        "count": 1
+      },
+      {
+        "id": "powercord",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "t_shaped_plug",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": null
+  },
+  "t-da898b50660b0f54dd2f03283071844059503934": {
+    "cost": [
+      {
+        "id": "40_mm_vog_25",
+        "count": 5
+      },
+      {
+        "id": "uzrgm_grenade_fuze",
+        "count": 5
+      }
+    ],
+    "reward": {
+      "id": "vog_25_khattabka_grenade",
+      "count": 8
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": 67
+  },
+  "t-cf36b8d04408dfedaa96dce19f4c4e9dedbb28d2": {
+    "cost": [
+      {
+        "id": "vepr_akm_vpo_209_366tkm_carbine",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "weapon_parts",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": 78
+  },
+  "t-cfe9ef166452d6d97d29fefa30465ff386735208": {
+    "cost": [
+      {
+        "id": "weapon_parts",
+        "count": 1
+      },
+      {
+        "id": "wooden_ak_74_handguard_6p20_sb6",
+        "count": 1
+      },
+      {
+        "id": "izhmash_wooden_ak_74_stock_6p20_sb5",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "ak_74n_545x39_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": 82
+  },
+  "t-a0256590f31d7b690357fdff8f9b8e7aaefb89df": {
+    "cost": [
+      {
+        "id": "vepr_km_vpo_136_762x39_carbine",
+        "count": 1
+      },
+      {
+        "id": "leatherman_multitool",
+        "count": 1
+      },
+      {
+        "id": "izhmash_762x39_akm_muzzle_brake_&amp;_compensator_6p1_0_14",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "akm_762x39_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": 85
+  },
+  "t-f5e53368325b6f82b19ff91e39e8b8f9b846767b": {
+    "cost": [
+      {
+        "id": "545x39_mm_ps",
+        "count": 70
+      }
+    ],
+    "reward": {
+      "id": "gunpowder_kite",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": 89
+  },
+  "t-04b717702d2e6a83156eaa2ebe1ca03ae60f16f2": {
+    "cost": [
+      {
+        "id": "gunpowder_kite",
+        "count": 1
+      },
+      {
+        "id": "classic_matches",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "12_70_85_mm_magnum_buckshot",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": 92
+  },
+  "t-621b1175422f5b9c473b2135d1f843ef1cb4dd83": {
+    "cost": [
+      {
+        "id": "broken_gphone_x",
+        "count": 1
+      },
+      {
+        "id": "broken_lcd",
+        "count": 1
+      },
+      {
+        "id": "long_flat_screwdriver",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "broken_gphone",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": 99
+  },
+  "t-e303942079d7facbd73671a3323acdbdbb89e024": {
+    "cost": [
+      {
+        "id": "gunpowder_kite",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "9x18_pm_mm_rg028_gzh",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": 103
+  },
+  "t-fbf126864997cb7b4ddd74d43e30627895b1210a": {
+    "cost": [
+      {
+        "id": "powercord",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "wires",
+      "count": 8
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": 118
+  },
+  "t-e3fd2e728da247f04e69656e4df9056eaccf5de6": {
+    "cost": [
+      {
+        "id": "power_supply_unit",
+        "count": 1
+      },
+      {
+        "id": "screwdriver",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "capacitors",
+      "count": 8
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 1
+    },
+    "time": 124
+  },
+  "t-cadd835d5a311b6b737ea85e507d47c99e2a1c07": {
+    "cost": [
+      {
+        "id": "flat_screwdriver",
+        "count": 1
+      },
+      {
+        "id": "powerbank",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "rechargeable_battery",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 73
+  },
+  "t-eeae084fa403a8a50db13ac1514b327a8b706676": {
+    "cost": [
+      {
+        "id": "uzrgm_grenade_fuze",
+        "count": 5
+      },
+      {
+        "id": "gunpowder_kite",
+        "count": 1
+      },
+      {
+        "id": "rdg_2b_smoke_grenade",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "zarya_stun_grenade",
+      "count": 5
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 78
+  },
+  "t-ff763854c5fcba3d580553a26f24b945efdef1a4": {
+    "cost": [
+      {
+        "id": "electric_drill",
+        "count": 2
+      },
+      {
+        "id": "flat_screwdriver",
+        "count": 1
+      },
+      {
+        "id": "screwdriver",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "electric_motor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 80
+  },
+  "t-bfa661360163abc2e366a0f48a1bd2b75ab87294": {
+    "cost": [
+      {
+        "id": "weapon_parts",
+        "count": 1
+      },
+      {
+        "id": "polymer_ak_74_foregrip_6p20_sb9",
+        "count": 1
+      },
+      {
+        "id": "polymer_stock_for_ak_74m_6p34_sb15",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "ak_74m_545x39_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 83
+  },
+  "t-4943e6dc187382531508ee32a1a7bd32457e30d3": {
+    "cost": [
+      {
+        "id": "gas_analyzer",
+        "count": 1
+      },
+      {
+        "id": "wires",
+        "count": 1
+      },
+      {
+        "id": "capacitors",
+        "count": 1
+      },
+      {
+        "id": "aa_battery",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "geiger_muller_counter",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 92
+  },
+  "t-3a7b902419a2a33c5601de7702651f1a6adad461": {
+    "cost": [
+      {
+        "id": "m67_hand_grenade",
+        "count": 2
+      },
+      {
+        "id": "rdg_2b_smoke_grenade",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "gunpowder_eagle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 98
+  },
+  "t-602c42d6e1a6efc2c91e828d27e40116ec7d3c5a": {
+    "cost": [
+      {
+        "id": "ofz_30x160mm_shell",
+        "count": 1
+      },
+      {
+        "id": "gunpowder_kite",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "gunpowder_hawk",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 113
+  },
+  "t-3d90512a5d6ef05b1840fff488d7e4fc81d1115c": {
+    "cost": [
+      {
+        "id": "screw_nut",
+        "count": 1
+      },
+      {
+        "id": "bolts",
+        "count": 1
+      },
+      {
+        "id": "survl_survivor_lighter",
+        "count": 1
+      },
+      {
+        "id": "pliers",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "spark_plug",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 115
+  },
+  "t-e03e19b45fedfbac514d6ef929afddb5e9d6fd71": {
+    "cost": [
+      {
+        "id": "gunpowder_hawk",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "762x54r_snb",
+      "count": 8
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 118
+  },
+  "t-1562b3fbbf7208314b33a8dbd4cad5669b054f32": {
+    "cost": [
+      {
+        "id": "metal_fuel_tank",
+        "count": 1
+      },
+      {
+        "id": "gunpowder_kite",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "12_70_flechette",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 125
+  },
+  "t-4eb81020f3260cad1ed0c14f85e179f5f7885731": {
+    "cost": [
+      {
+        "id": "gunpowder_kite",
+        "count": 2
+      },
+      {
+        "id": "9x18_mm_pm_pst_gzh",
+        "count": 200
+      }
+    ],
+    "reward": {
+      "id": "9x18_mm_pm_pbm",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 133
+  },
+  "t-3fee4a146504230d0ebe3b345e92f3e0ec21098e": {
+    "cost": [
+      {
+        "id": "technical_documentation",
+        "count": 1
+      },
+      {
+        "id": "weapon_parts",
+        "count": 1
+      },
+      {
+        "id": "gunpowder_kite",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "12_70_hp_slug_superformance",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 133
+  },
+  "t-d0dae2986872984242e244bf094038a65f2805ea": {
+    "cost": [
+      {
+        "id": "printed_circuit_board",
+        "count": 6
+      },
+      {
+        "id": "pc_cpu",
+        "count": 2
+      },
+      {
+        "id": "capacitors",
+        "count": 5
+      },
+      {
+        "id": "ram",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "military_circuit_board",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 137
+  },
+  "t-a33621f4cd343d5d85dd9aa5def886eda3e0c25f": {
+    "cost": [
+      {
+        "id": "wifi_camera",
+        "count": 1
+      },
+      {
+        "id": "piece_of_plexiglas",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "nixxor_lens",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 152
+  },
+  "t-77d925f8d5a2e101ee46c1dc7b03ef44153b6e36": {
+    "cost": [
+      {
+        "id": "9x39_mm_sp_6",
+        "count": 50
+      },
+      {
+        "id": "762x39_mm_ps",
+        "count": 100
+      }
+    ],
+    "reward": {
+      "id": "366_ap",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 153
+  },
+  "t-db037aab5c7a660f6f60ba0ba80b9d1acf4263fd": {
+    "cost": [
+      {
+        "id": "6_sten_140_m_military_battery",
+        "count": 1
+      },
+      {
+        "id": "leatherman_multitool",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "car_battery",
+      "count": 5
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 167
+  },
+  "t-fe94b420e938b6f3e59120d71a774384f6ff7cb2": {
+    "cost": [
+      {
+        "id": "545x39_mm_ps",
+        "count": 200
+      },
+      {
+        "id": "bolts",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "545x39_mm_pp",
+      "count": 4
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 215
+  },
+  "t-6f1afd30820f44269a57f7205e55cbf0af0e1a81": {
+    "cost": [
+      {
+        "id": "9x19_mm_pst_gzh",
+        "count": 200
+      },
+      {
+        "id": "gunpowder_hawk",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "9x19_mm_ap_63",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 225
+  },
+  "t-c513c7ad8a23021573831b07882a8a27c28ecbf7": {
+    "cost": [
+      {
+        "id": "762x39_mm_hp",
+        "count": 120
+      },
+      {
+        "id": "gunpowder_eagle",
+        "count": 2
+      },
+      {
+        "id": "xenomorph_sealing_foam",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "9x39_mm_sp_6",
+      "count": 4
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 270
+  },
+  "t-d464dfd9a87923a253d258f96c6d1de9644d697a": {
+    "cost": [
+      {
+        "id": "556x45_mm_m855",
+        "count": 180
+      },
+      {
+        "id": "gunpowder_hawk",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "556x45_mm_m856a1",
+      "count": 3
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 298
+  },
+  "t-fb4cf5341cbdabe54294a3b5caa671f1707ccc78": {
+    "cost": [
+      {
+        "id": "nixxor_lens",
+        "count": 3
+      },
+      {
+        "id": "military_thermal_vision_module_iridium",
+        "count": 2
+      },
+      {
+        "id": "virtex_programmable_processor",
+        "count": 1
+      },
+      {
+        "id": "sas_drive",
+        "count": 2
+      },
+      {
+        "id": "powerbank",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "flir_rs_32_225_9x_35mm_60hz_thermal_riflescope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 2
+    },
+    "time": 370
+  },
+  "t-88b84c219be03412d2cfb042c5f0df662f64ddf7": {
+    "cost": [
+      {
+        "id": "ofz_30x160mm_shell",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "rgd_5_hand_grenade",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 88
+  },
+  "t-2c1f7d5a1e42f03276f5b393b734fb5a065dfd70": {
+    "cost": [
+      {
+        "id": "gunpowder_hawk",
+        "count": 1
+      },
+      {
+        "id": "wires",
+        "count": 4
+      }
+    ],
+    "reward": {
+      "id": "9x19_mm_rip",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 125
+  },
+  "t-4e0df958b223724964d7566236f9a4e89396312d": {
+    "cost": [
+      {
+        "id": "gunpowder_hawk",
+        "count": 1
+      },
+      {
+        "id": "damaged_hard_drive",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "12_70_ap_20_slug",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 148
+  },
+  "t-9c3856eb6f9fe2578c9001effc7edbd3d43c0447": {
+    "cost": [
+      {
+        "id": "gunpowder_eagle",
+        "count": 1
+      },
+      {
+        "id": "survl_survivor_lighter",
+        "count": 5
+      },
+      {
+        "id": "gunpowder_kite",
+        "count": 1
+      },
+      {
+        "id": "zarya_stun_grenade",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "23x75mm_star",
+      "count": 7
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 208
+  },
+  "t-446eaaaffebe9d0f2344f409d10c50926bdc7f6c": {
+    "cost": [
+      {
+        "id": "gunpowder_kite",
+        "count": 4
+      },
+      {
+        "id": "gunpowder_eagle",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "556x45_mm_warmage",
+      "count": 4
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 283
+  },
+  "t-5928744f388a7cbdcbf19a052a948df23647c0a8": {
+    "cost": [
+      {
+        "id": "9x21_mm_sp13",
+        "count": 150
+      },
+      {
+        "id": "gunpowder_kite",
+        "count": 1
+      },
+      {
+        "id": "leatherman_multitool",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "9x39_mm_7n9_spp",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 297
+  },
+  "t-0622ecc3a204ff2920c3506bf8b2f973aae39d54": {
+    "cost": [
+      {
+        "id": "gunpowder_eagle",
+        "count": 2
+      },
+      {
+        "id": "gunpowder_kite",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "762x39_mm_bp",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": null
+  },
+  "t-78843bfa928dff2cc3e220afd85b7740a198ca31": {
+    "cost": [
+      {
+        "id": "military_power_filter",
+        "count": 2
+      },
+      {
+        "id": "gunpowder_hawk",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "9x39_mm_7n12_bp",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 320
+  },
+  "t-2c699e75cb89611f80af3b6969fa5ded2b07a7e3": {
+    "cost": [
+      {
+        "id": "gunpowder_hawk",
+        "count": 6
+      },
+      {
+        "id": "radiator_helix",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "762x51_mm_m61",
+      "count": 3
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 349
+  },
+  "t-ca4773565202de8e726646d2c00e877d9e0fb90c": {
+    "cost": [
+      {
+        "id": "gunpowder_eagle",
+        "count": 2
+      },
+      {
+        "id": "ofz_30x160mm_shell",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "556x45_mm_m995",
+      "count": 3
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 343
+  },
+  "t-bad00de75a6c954f12e910e364cd932da63896e6": {
+    "cost": [
+      {
+        "id": "gunpowder_kite",
+        "count": 2
+      },
+      {
+        "id": "gunpowder_eagle",
+        "count": 2
+      },
+      {
+        "id": "gunpowder_hawk",
+        "count": 2
+      }
+    ],
+    "reward": {
+      "id": "545x39_mm_7n39_igolnik",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 371
+  },
+  "t-28a9ed491552fcb197b207b83f0773c922b92464": {
+    "cost": [
+      {
+        "id": "bronze_lion",
+        "count": 1
+      },
+      {
+        "id": "rdg_2b_smoke_grenade",
+        "count": 5
+      },
+      {
+        "id": "gunpowder_hawk",
+        "count": 2
+      },
+      {
+        "id": "gunpowder_eagle",
+        "count": 1
+      }
+    ],
+    "reward": {
+      "id": "ofz_30x160mm_shell",
+      "count": 2
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 400
+  },
+  "t-97e1b8c4d5b92734481b572352b62b8dea0ba16d": {
+    "cost": [
+      {
+        "id": "gunpowder_eagle",
+        "count": 3
+      },
+      {
+        "id": "gunpowder_kite",
+        "count": 4
+      },
+      {
+        "id": "9x19_mm_pst_gzh",
+        "count": 300
+      },
+      {
+        "id": "a_pack_of_nails",
+        "count": 4
+      }
+    ],
+    "reward": {
+      "id": "9x19_mm_7n31",
+      "count": 3
+    },
+    "trader": {
+      "trader": "Workbench",
+      "level": 3
+    },
+    "time": 452
+  },
+  "t-f51e3c813abf27216cf789881aac2ed9286d0809": {
+    "cost": [
+      {
+        "id": "clin_wiper",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "30_pcs_545x39_bp_gs_ammo_pack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-0ead96e76cb15f1b6ae4cf5ac0fb9d2811eb48c1": {
+    "cost": [
+      {
+        "id": "can_of_delicious_beef_stew",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "30_pcs_545x39_bt_gs_ammo_pack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-6e9081fb9e14431fc5ee9dce7887c298227b34db": {
+    "cost": [
+      {
+        "id": "energy_saving_lamp",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "f_1_hand_grenade",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-0e72425b485efd35ab3031edeb014a872bf838dc": {
+    "cost": [
+      {
+        "id": "round_pliers",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "standard_9x18pm_30_round_magazine_for_pp_91",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-e81fdf46d6091af9b7b2badb4b32100e6ad1ab72": {
+    "cost": [
+      {
+        "id": "spark_plug",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "zenit_belomo_pso_1m2_1_4x24_scope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-eb8d31d29765dc9cbe6e593bb12ee5aa519be65b": {
+    "cost": [
+      {
+        "id": "horse_figurine",
+        "count": "1"
+      },
+      {
+        "id": "smoked_chimney_drain_cleaner",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "kalashnikov_aks_74u_545x39",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-268cbf2fce7b704e8a78862c4009af91347a3a65": {
+    "cost": [
+      {
+        "id": "bolts",
+        "count": "1"
+      },
+      {
+        "id": "screw_nut",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "pm_9x18pm_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-502ba55f7476c634ee37545aef2e358479483bba": {
+    "cost": [
+      {
+        "id": "a_pack_of_screws",
+        "count": "1"
+      },
+      {
+        "id": "bolts",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "stechkin_automatic_pistol_9x18pm",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-7e2427b6e6b360c84b7b84b05c290e21df6bed2f": {
+    "cost": [
+      {
+        "id": "can_of_beef_stew",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "akm_762x39_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-1cbbc79e7c33f70988cab90e3644ab0ddb95f698": {
+    "cost": [
+      {
+        "id": "t_shaped_plug",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "submachinegun_pp_19_01_vityaz_sn_9x19",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-cd9a7318cb78626731cbdc74d3f96cd867e5ae4c": {
+    "cost": [
+      {
+        "id": "can_of_pacific_saury",
+        "count": "2"
+      },
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "sssh_95_sfera_s_sphere_s",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-c3f9eda9a6b5022a9240e901cc21adef6acc6700": {
+    "cost": [
+      {
+        "id": "d_size_battery",
+        "count": "5"
+      },
+      {
+        "id": "aa_battery",
+        "count": "8"
+      }
+    ],
+    "reward": {
+      "id": "mosin_bolt_action_sniper_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-4d5dc9fc3532adc03ee3c28a2d52d5064719e5a9": {
+    "cost": [
+      {
+        "id": "5l_propane_tank",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "6b23_1_armor_digital_flora_pattern",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-c014c0d0259ffc8deef92042834a51b08af9dd8a": {
+    "cost": [
+      {
+        "id": "aa_battery",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "vkbo_army_bag",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-937ad43e4f7c345b39ee9c754604a5896e07e839": {
+    "cost": [
+      {
+        "id": "pack_of_milk",
+        "count": "1"
+      },
+      {
+        "id": "pack_of_oat_flakes",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "umtbs_6sh112_scout_sniper",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "1"
+    }
+  },
+  "t-0068c3dd21f6608b585653f1fb0f6e2877ec4006": {
+    "cost": [
+      {
+        "id": "dry_fuel",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "30_pcs_545x39_bt_gs_ammo_pack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-324ffafc1195c7bd558d5d6a8c0f14dc38d35f6a": {
+    "cost": [
+      {
+        "id": "energy_saving_lamp",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "rgd_5_hand_grenade",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-13ff511794c3d3643fe24d2a8195e533a10bc405": {
+    "cost": [
+      {
+        "id": "analog_thermometer",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "60_round_6l31_545x39_magazine_for_ak_74_and_compatibles",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-79c1f1296bbf96cf32d611bb695274fa187b5719": {
+    "cost": [
+      {
+        "id": "spark_plug",
+        "count": "1"
+      },
+      {
+        "id": "wrench",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "6l18_45_round_545x39_magazine_for_ak_74_and_compatible_weapons",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-a5749788ded69ebcaa8b4370e1d6589277dbac3a": {
+    "cost": [
+      {
+        "id": "weapon_parts",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "71_round_762x25_magazine_for_ppsh_41",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-25717e751788ff9792f1613ed50e8fe0f2a3ae7a": {
+    "cost": [
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": "2"
+      },
+      {
+        "id": "mre_lunch_box",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "valday_ps_320_1x_6x_scope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-4eec4f25cf399fe768feda32a1978f149836ecce": {
+    "cost": [
+      {
+        "id": "pc_cpu",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "yarygin_mp_443_grach_9x19_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-f2a0c288842516de4f0228938bfa9a96140e94ea": {
+    "cost": [
+      {
+        "id": "gunpowder_kite",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "9x21_serdyukov_automatic_pistol_sr1mp_gyurza",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-eba4713e304e944ffb9d180bf4b899dbc7861ed9": {
+    "cost": [
+      {
+        "id": "pompon_hat",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "mpl_50_entrenching_tool",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-4b52d9c92c1721d749bdd7fd1af4aae1abe17c44": {
+    "cost": [
+      {
+        "id": "apollon_soyuz_cigarettes",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "ak_74n_545x39_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-f81a9d7f6570d07b7e2736a56cb437d1b5157309": {
+    "cost": [
+      {
+        "id": "cat_figurine",
+        "count": "1"
+      },
+      {
+        "id": "usb_adapter",
+        "count": "2"
+      },
+      {
+        "id": "malboro_cigarettes",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "kalashnikov_aks_74ub_545x39",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-46d9eaa2d2744ae676a0759a9ae94e2f69d9ad30": {
+    "cost": [
+      {
+        "id": "toilet_paper",
+        "count": "2"
+      },
+      {
+        "id": "toothpaste",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "ak_74_545x39_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-b2a5cc93446479c53bc8d5673a493b773dcdc0db": {
+    "cost": [
+      {
+        "id": "construction_measuring_tape",
+        "count": "4"
+      },
+      {
+        "id": "t_shaped_plug",
+        "count": "4"
+      },
+      {
+        "id": "usb_adapter",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "toz_ks_23m_23x75mm_shotgun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-39a1dceb7dc5389d3827c156035bae06f1323738": {
+    "cost": [
+      {
+        "id": "apollon_soyuz_cigarettes",
+        "count": "5"
+      },
+      {
+        "id": "malboro_cigarettes",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "sv_98_bolt_action_sniper_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-66d32a53c4c9bc49e31d638d5719976fa8c0db2a": {
+    "cost": [
+      {
+        "id": "5l_propane_tank",
+        "count": "2"
+      },
+      {
+        "id": "fuel_conditioner",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "metal_fuel_tank",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "2"
+    }
+  },
+  "t-85fb4f640cc59b3bad12b1f9bf7f0330d978d020": {
+    "cost": [
+      {
+        "id": "hot_rod",
+        "count": "2"
+      },
+      {
+        "id": "malboro_cigarettes",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "30_pcs_545x39_bs_gs_ammo_pack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "3"
+    }
+  },
+  "t-9235f9115302cb6d226891f83647e487f0169056": {
+    "cost": [
+      {
+        "id": "insulating_tape",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "8_pcs_pack_of_9x39_7n9_spp_ammo",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "3"
+    }
+  },
+  "t-5706d5a9b70e66ea5ec01b787e56311efe9be566": {
+    "cost": [
+      {
+        "id": "pliers",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "30_round_sr3m130_9x39_sr3m_magazine",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "3"
+    }
+  },
+  "t-82a1d3ecc9844ea900fe15e9f2ddee8fd252cb7d": {
+    "cost": [
+      {
+        "id": "heat_exchange_alkali_surface_washer",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "95_round_545x39_magazine_for_rpk_16_and_compatibles",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "3"
+    }
+  },
+  "t-9dad0fd8f6ecddb32727f599956107523a722281": {
+    "cost": [
+      {
+        "id": "gunpowder_kite",
+        "count": "2"
+      },
+      {
+        "id": "weapon_parts",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "rpk_16_545x39_light_machine_gun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "3"
+    }
+  },
+  "t-adc953c23245d6e9148d917be100fdadd1025752": {
+    "cost": [
+      {
+        "id": "water_bottle_with_a_filter_aquamari",
+        "count": "2"
+      },
+      {
+        "id": "air_filter_for_gas_mask",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "6h5_bayonet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "3"
+    }
+  },
+  "t-bdbed51c420fd2d83c95e426c4f8911dff45508f": {
+    "cost": [
+      {
+        "id": "air_filter_for_gas_mask",
+        "count": "10"
+      },
+      {
+        "id": "respirator",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "special_sniper_rifle_vss_vintorez",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "3"
+    }
+  },
+  "t-0fe4a681ea79cf80e5a5d57686b0086285dc9648": {
+    "cost": [
+      {
+        "id": "diary",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "bnti_korund_vm_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "3"
+    }
+  },
+  "t-3055a737c6959382dea0dbf64fc5f3beafdfd898": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "9"
+      }
+    ],
+    "reward": {
+      "id": "6sh118_raid_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "3"
+    }
+  },
+  "t-c0a0993f246fc3c5900f484bc31f0c0a96c549d1": {
+    "cost": [
+      {
+        "id": "strike_cigarettes",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "8_pcs_pack_of_9x39_7n12_bp_ammo",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "4"
+    }
+  },
+  "t-56748dca6d0d335242354c25ffba627a3d903e92": {
+    "cost": [
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "ash_12_127x55_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "4"
+    }
+  },
+  "t-ec40f71fabd883c581be741b2a78d6df01f3e938": {
+    "cost": [
+      {
+        "id": "military_circuit_board",
+        "count": "1"
+      },
+      {
+        "id": "wires",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "ash_12_127x55_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "4"
+    }
+  },
+  "t-3474bff72f765a04b931c799cbec6f0a6887c7f0": {
+    "cost": [
+      {
+        "id": "metal_cutting_scissors",
+        "count": "4"
+      },
+      {
+        "id": "long_flat_screwdriver",
+        "count": "7"
+      }
+    ],
+    "reward": {
+      "id": "special_sniper_rifle_vss_vintorez",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "4"
+    }
+  },
+  "t-1c38e7c9ef0a142ae7c2cb689130c129315ddb39": {
+    "cost": [
+      {
+        "id": "military_cable",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "6sh118_raid_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Prapor",
+      "level": "4"
+    }
+  },
+  "t-3fec196d4bc3076b379e2e261c6e1718c339edf2": {
+    "cost": [
+      {
+        "id": "classic_matches",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "analgin_painkillers",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "1"
+    }
+  },
+  "t-e778af975f8a99ed72b45bf167796c9ca03f6bfe": {
+    "cost": [
+      {
+        "id": "a_pack_of_screws",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "calok_b_hemostatic",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "1"
+    }
+  },
+  "t-b7a9b5e0d8a52c821687d4c5104c3b981c4922e4": {
+    "cost": [
+      {
+        "id": "paid_antiroach",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "salewa_first_aid_kit",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "1"
+    }
+  },
+  "t-ec990acacbf98413e901bf28fac09625ad5ffa73": {
+    "cost": [
+      {
+        "id": "duct_tape",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "car_first_aid_kit",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "1"
+    }
+  },
+  "t-ace3a4c0d2fc9e902456ec28d2b4802d4d5a2612": {
+    "cost": [
+      {
+        "id": "crickent_lighter",
+        "count": "3"
+      },
+      {
+        "id": "classic_matches",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "pile_of_meds",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "1"
+    }
+  },
+  "t-38dea01fe6b272484e6e96dad95124f8e08854de": {
+    "cost": [
+      {
+        "id": "vita_juice",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "slickers_bar",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "1"
+    }
+  },
+  "t-2b9301801b766ba1f335fa8660a98b4db9947f4e": {
+    "cost": [
+      {
+        "id": "classic_matches",
+        "count": "1"
+      },
+      {
+        "id": "crickent_lighter",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "can_of_pacific_saury",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "1"
+    }
+  },
+  "t-d81e04026f5569eae9729e6a47115ca7a156f630": {
+    "cost": [
+      {
+        "id": "toothpaste",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "humpback_salmon",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "1"
+    }
+  },
+  "t-72652d2a08297f051c2b7603b40c59bbd5c4bc6d": {
+    "cost": [
+      {
+        "id": "disposable_syringe",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "iskra_lunch_box",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "1"
+    }
+  },
+  "t-b9b49900d0a0320ed0a1d415edba30bceceb69d9": {
+    "cost": [
+      {
+        "id": "hydrogen_peroxide",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "06l_water_bottle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "1"
+    }
+  },
+  "t-da97cfdbf7949ef48b817a146ebe3b5fedbbdb89": {
+    "cost": [
+      {
+        "id": "disposable_syringe",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "immobilizing_splint_alu",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-07de0eb1698cbc80e2269002186759b59b9f39bc": {
+    "cost": [
+      {
+        "id": "repellent",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "cms_kit",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-8578da3ffe4eb5439155fb68b4552d243960df88": {
+    "cost": [
+      {
+        "id": "gas_analyzer",
+        "count": "1"
+      },
+      {
+        "id": "ultraviolet_lamp",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "grizzly_first_aid_kit",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-25e96da6cefa50420faaf287c2fbade2cfdb7b40": {
+    "cost": [
+      {
+        "id": "sodium_bicarbonate",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "ifak_personal_tactical_first_aid_kit",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-d0d7142b94cd33e0636eecc7f7a5e937d68a64c3": {
+    "cost": [
+      {
+        "id": "disposable_syringe",
+        "count": "1"
+      },
+      {
+        "id": "ultraviolet_lamp",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "adrenaline_injector",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-1e0313c0a4495b99463d1de2944a40232e9b16ee": {
+    "cost": [
+      {
+        "id": "green_ice",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "42nd_signature_blend_english_tea",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-37da9e776bbe00dbeaa1ce21340abb2bdc4532b5": {
+    "cost": [
+      {
+        "id": "emelya_rye_croutons",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "rye_croutons",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-05182a4956625e905919e6083e241a14433566c4": {
+    "cost": [
+      {
+        "id": "golden_neck_chain",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "customs_office_key",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-f2727b33692c740203b6b33a2740355bd097e8fc": {
+    "cost": [
+      {
+        "id": "pack_of_chlorine",
+        "count": "8"
+      }
+    ],
+    "reward": {
+      "id": "west_wing_room_221_key",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-2fe4d60ea56866691149e1dd20ef7d5f6876cd2c": {
+    "cost": [
+      {
+        "id": "purified_water",
+        "count": "1"
+      },
+      {
+        "id": "russian_army_pineapple_juice",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "expeditionary_fuel_tank",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-54131f9732be35b1dc0d6f7c16c089d9a9af6101": {
+    "cost": [
+      {
+        "id": "pile_of_meds",
+        "count": "6"
+      },
+      {
+        "id": "disposable_syringe",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "pistol_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-dda257cbbb048591a35dfde5680fc0f3988704c2": {
+    "cost": [
+      {
+        "id": "cat_figurine",
+        "count": "1"
+      },
+      {
+        "id": "bronze_lion",
+        "count": "1"
+      },
+      {
+        "id": "horse_figurine",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "documents_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-502ef4448474c6e194f94e2de190e4721f91b8b5": {
+    "cost": [
+      {
+        "id": "hydrogen_peroxide",
+        "count": "10"
+      },
+      {
+        "id": "saline_solution",
+        "count": "10"
+      },
+      {
+        "id": "pack_of_chlorine",
+        "count": "10"
+      }
+    ],
+    "reward": {
+      "id": "keytool",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-f2cebb25875a36106364db59341b1d4db0072371": {
+    "cost": [
+      {
+        "id": "medical_bloodset",
+        "count": "7"
+      },
+      {
+        "id": "disposable_syringe",
+        "count": "7"
+      },
+      {
+        "id": "vaseline",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "meds_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-af427bcff72f5f07a6f428d0f76c36089a9eae04": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "100"
+      }
+    ],
+    "reward": {
+      "id": "lucky_scav_junkbox",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "2"
+    }
+  },
+  "t-80ef1fabd4874e7bf8cf299a0bf8383a23d059d5": {
+    "cost": [
+      {
+        "id": "disposable_syringe",
+        "count": "1"
+      },
+      {
+        "id": "hydrogen_peroxide",
+        "count": "1"
+      },
+      {
+        "id": "sodium_bicarbonate",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "combat_stimulant_injector_sj1_tglabs",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "3"
+    }
+  },
+  "t-d3fe1ae32e70ffc99e3fc8edbdcab15caf5a596d": {
+    "cost": [
+      {
+        "id": "schaman_shampoo",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "regenerative_stimulant_injector_etg_change",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "3"
+    }
+  },
+  "t-a92391692cef6271471cf7a37310fc043fefaf36": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "20"
+      },
+      {
+        "id": "dogtag",
+        "count": "140"
+      }
+    ],
+    "reward": {
+      "id": "ledx_skin_transilluminator",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "3"
+    }
+  },
+  "t-eb3a73ef92063eba0c1996dab63c7be558e8e2e5": {
+    "cost": [
+      {
+        "id": "purified_water",
+        "count": "4"
+      },
+      {
+        "id": "water_filter",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "rb_ak_key",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "3"
+    }
+  },
+  "t-5b2f893a38ca9027b509d69e53d0a9f86575ff89": {
+    "cost": [
+      {
+        "id": "ophthalmoscope",
+        "count": "20"
+      },
+      {
+        "id": "pile_of_meds",
+        "count": "15"
+      }
+    ],
+    "reward": {
+      "id": "items_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "3"
+    }
+  },
+  "t-73a44229e8b038a3fb70c1d5d19ad00b3f861533": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "150"
+      }
+    ],
+    "reward": {
+      "id": "items_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "3"
+    }
+  },
+  "t-dfe255bb48a00bccd2be4c21e5a1a8953b96606f": {
+    "cost": [
+      {
+        "id": "augmentin_antibiotic_pills",
+        "count": "2"
+      },
+      {
+        "id": "vaseline",
+        "count": "2"
+      },
+      {
+        "id": "surv12_field_surgical_kit",
+        "count": "2"
+      },
+      {
+        "id": "pile_of_meds",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "lbt_2670_slim_field_med_pack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "3"
+    }
+  },
+  "t-8d55f38c4e4cf05ab578aa8a8e419fa6714fe208": {
+    "cost": [
+      {
+        "id": "medical_bloodset",
+        "count": "1"
+      },
+      {
+        "id": "pile_of_meds",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "ibuprofen_painkillers",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "4"
+    }
+  },
+  "t-52661af2649b7e2dc361a35b2f413105d12add76": {
+    "cost": [
+      {
+        "id": "saline_solution",
+        "count": "2"
+      },
+      {
+        "id": "hydrogen_peroxide",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "combat_stimulant_injector_sj6_tglabs",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "4"
+    }
+  },
+  "t-4bcbb267df7d4bedee8ee166f7fd01272b8b57cb": {
+    "cost": [
+      {
+        "id": "pile_of_meds",
+        "count": "6"
+      }
+    ],
+    "reward": {
+      "id": "pack_of_sugar",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "4"
+    }
+  },
+  "t-8ef0dbf3c9c41cef7da19fa154d9a9283186f98b": {
+    "cost": [
+      {
+        "id": "condensed_milk",
+        "count": "60"
+      },
+      {
+        "id": "pack_of_oat_flakes",
+        "count": "10"
+      }
+    ],
+    "reward": {
+      "id": "key_to_kiba_store_outlet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "4"
+    }
+  },
+  "t-d1d464174d8c0562b9af668a5bcd12a6ad617345": {
+    "cost": [
+      {
+        "id": "golden_neck_chain",
+        "count": "5"
+      },
+      {
+        "id": "roler_submariner_gold_wrist_watch",
+        "count": "2"
+      },
+      {
+        "id": "gold_skull_ring",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "money_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "4"
+    }
+  },
+  "t-39a7fe3c8a5b86b6ee3d09f95be6a15c256f9dcf": {
+    "cost": [
+      {
+        "id": "portable_defibrillator",
+        "count": "15"
+      },
+      {
+        "id": "ledx_skin_transilluminator",
+        "count": "15"
+      },
+      {
+        "id": "ibuprofen_painkillers",
+        "count": "15"
+      },
+      {
+        "id": "toothpaste",
+        "count": "15"
+      }
+    ],
+    "reward": {
+      "id": "t_h_i_c_c_items_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "4"
+    }
+  },
+  "t-8c4dc13dab0b9032549a264ed6a2d5f2e4ee2ef3": {
+    "cost": [
+      {
+        "id": "fierce_hatchling_moonshine",
+        "count": "50"
+      },
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": "35"
+      },
+      {
+        "id": "bottle_of_dan_jackiel_whiskey",
+        "count": "30"
+      }
+    ],
+    "reward": {
+      "id": "t_h_i_c_c_items_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Therapist",
+      "level": "4"
+    }
+  },
+  "t-5827d6130a490a36cb2b1be1f15d7ec8641b3f84": {
+    "cost": [
+      {
+        "id": "dvd_drive",
+        "count": "1"
+      },
+      {
+        "id": "wires",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "zenit_rp_1_charge_handle_for_ak",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "1"
+    }
+  },
+  "t-ff92dd57aa6a1b1d9d53eb3eeb42890a4256d96c": {
+    "cost": [
+      {
+        "id": "horse_figurine",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "vepr_km_vpo_136_762x39_carbine",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "1"
+    }
+  },
+  "t-4b96308eab2fca1171c8ededf03a69573467c34d": {
+    "cost": [
+      {
+        "id": "cat_figurine",
+        "count": "1"
+      },
+      {
+        "id": "pompon_hat",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "zhuk_3_press_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "1"
+    }
+  },
+  "t-afc3230eed852a9dfd7cafd334b96431892f60c3": {
+    "cost": [
+      {
+        "id": "yotota_car_key",
+        "count": "1"
+      },
+      {
+        "id": "car_key",
+        "count": "1"
+      },
+      {
+        "id": "vaz_key",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "mp_153_12ga_semi_automatic_shotgun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "1"
+    }
+  },
+  "t-7a7601c959c6b04ac2766139d2dd01218115145c": {
+    "cost": [
+      {
+        "id": "strike_cigarettes",
+        "count": "1"
+      },
+      {
+        "id": "weapon_parts",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "magex_g30_magazine_for_glock_45_acp",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "2"
+    }
+  },
+  "t-7206e0cde4f45227fc7af4b1421251f1a34d373f": {
+    "cost": [
+      {
+        "id": "wooden_clock",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "hexagon_12k_sound_suppressor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "2"
+    }
+  },
+  "t-b5e3e23e898912d5b7d327dfd223523d5bc238ab": {
+    "cost": [
+      {
+        "id": "coffee_majaica",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "rotor_43_9x19_muzzle_brake",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "2"
+    }
+  },
+  "t-71b888f689fa4c10341808fa581aba9aa258b106": {
+    "cost": [
+      {
+        "id": "broken_gphone_x",
+        "count": "2"
+      },
+      {
+        "id": "golden_1gphone",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "sig_mcx_300_aac_blackout_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "2"
+    }
+  },
+  "t-7e9ddeb350b228f5054208ac45ddc87cb08f9718": {
+    "cost": [
+      {
+        "id": "t_shaped_plug",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "5_pcs_12x70_dipp_ammo_box",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "3"
+    }
+  },
+  "t-bf5a0c0ad3e7d14b0943c8520a0ffe995d40a602": {
+    "cost": [
+      {
+        "id": "nixxor_lens",
+        "count": "1"
+      },
+      {
+        "id": "aa_battery",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "rotor_43_762x51_muzzle_brake_for_vpo_101",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "3"
+    }
+  },
+  "t-1f76c9447998e5f7dc7a1542320fbdf1e243fe48": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "eotech_553_holographic_sight",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "3"
+    }
+  },
+  "t-ff0d8a7f1e5b23f17b3612b2cdea86c34fe63dad": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "hensoldt_ff_4_16x56_scope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "3"
+    }
+  },
+  "t-98025cae14d7013b8fa1a7a1ad4e59527b53166f": {
+    "cost": [
+      {
+        "id": "broken_gphone_x",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "eotech_vudu_1_6_riflescope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "3"
+    }
+  },
+  "t-0899c5f55d19ebfa7a83a8e27169eded1ed338a3": {
+    "cost": [
+      {
+        "id": "chainlet",
+        "count": "3"
+      },
+      {
+        "id": "antique_vase",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "skeletonized_ar_15_pistol_grip",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "3"
+    }
+  },
+  "t-f9d6f82dc056d413e8db225d4eb05ed89f7a626e": {
+    "cost": [
+      {
+        "id": "horse_figurine",
+        "count": "5"
+      },
+      {
+        "id": "antique_teapot",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "dvl_10_saboteur_sniper_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "3"
+    }
+  },
+  "t-49e2f684f6fd96f1589053aa7bd58b7a764e2bfa": {
+    "cost": [
+      {
+        "id": "strike_cigarettes",
+        "count": "1"
+      },
+      {
+        "id": "wilston_cigarettes",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "20_pcs_9x19_mm_dipp_ammo_box",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "4"
+    }
+  },
+  "t-e3b7cf25cfa189b80396bbba520df656516a3bdc": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "tgp_a_545x39_muzzle_device_suppressor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "4"
+    }
+  },
+  "t-62fc18f8f0efb2989d7b1fd7789b38dc4dde0d10": {
+    "cost": [
+      {
+        "id": "raven_figurine",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "sig_sauer_srd_qd_762x51_sound_suppressor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "4"
+    }
+  },
+  "t-56ad18b4d1a56d5b4ab0a900980bf4cac4e6041b": {
+    "cost": [
+      {
+        "id": "wooden_clock",
+        "count": "4"
+      },
+      {
+        "id": "roler_submariner_gold_wrist_watch",
+        "count": "4"
+      },
+      {
+        "id": "gold_skull_ring",
+        "count": "6"
+      }
+    ],
+    "reward": {
+      "id": "trijicon_reap_ir_thermal_riflescope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "4"
+    }
+  },
+  "t-126ecaefa42e5f5d0a426b324356fe70fe3bcded": {
+    "cost": [
+      {
+        "id": "military_power_filter",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "dvl_10_saboteur_sniper_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "4"
+    }
+  },
+  "t-763dff636e58e067a8b848bb1a82b6296e3bd727": {
+    "cost": [
+      {
+        "id": "military_cofdm_wireless_signal_transmitter",
+        "count": "2"
+      },
+      {
+        "id": "military_base_checkpoint_key",
+        "count": "1"
+      },
+      {
+        "id": "chain_with_prokill_medallion",
+        "count": "2"
+      },
+      {
+        "id": "phased_array_element",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "miller_bros_blades_m_2_tactical_sword",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "4"
+    }
+  },
+  "t-99effa2a631ea9353f1c68fe8bc7bf5a965b8404": {
+    "cost": [
+      {
+        "id": "fierce_hatchling_moonshine",
+        "count": "10"
+      },
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": "10"
+      },
+      {
+        "id": "slickers_bar",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "weapon_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Skier",
+      "level": "4"
+    }
+  },
+  "t-6c6f95d1ae41d72ad3d7902589cfb20571668b2e": {
+    "cost": [
+      {
+        "id": "zibbo_lighter",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "m67_hand_grenade",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "1"
+    }
+  },
+  "t-f571d156875748ec33d951796d164ec75ac484ff": {
+    "cost": [
+      {
+        "id": "malboro_cigarettes",
+        "count": "1"
+      },
+      {
+        "id": "crickent_lighter",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "standard_ump_25_round_45_acp_magazine",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "1"
+    }
+  },
+  "t-ff19870ef5db82ac97574b7699e663fa76c5db1b": {
+    "cost": [
+      {
+        "id": "pc_cpu",
+        "count": "3"
+      },
+      {
+        "id": "cpu_fan",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "colt_m4a1_556x45_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "1"
+    }
+  },
+  "t-9ef269a1fd584fbed0b3a9f10f6182e5d637630c": {
+    "cost": [
+      {
+        "id": "bars_a_2607_damascus",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "p226r_9x19_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "1"
+    }
+  },
+  "t-2d022dbd0aea06a7e4d2221227dbba6e44bbee64": {
+    "cost": [
+      {
+        "id": "bars_a_2607_95x18",
+        "count": "8"
+      }
+    ],
+    "reward": {
+      "id": "hk_mp5_9x19_submachinegun_navy_3_round_burst",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "1"
+    }
+  },
+  "t-4eac6d6bb6e8fb7c6570bef0e51cdec776669349": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "7"
+      }
+    ],
+    "reward": {
+      "id": "sig_mpx_9x19_submachine_gun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "1"
+    }
+  },
+  "t-dcddf6840a6f208bb047c33e5cd62f87298a821c": {
+    "cost": [
+      {
+        "id": "damaged_hard_drive",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "flyye_mbss_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "1"
+    }
+  },
+  "t-ab155a8252057f9ea69ee3b5813bc445f36224c7": {
+    "cost": [
+      {
+        "id": "damaged_hard_drive",
+        "count": "1"
+      },
+      {
+        "id": "dvd_drive",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "lbt_8005a_day_pack_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "1"
+    }
+  },
+  "t-f9fa53e23dba8cba664e2dc939ebfb5919951434": {
+    "cost": [
+      {
+        "id": "gas_analyzer",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "standard_9x19_30_round_magazine_for_mp9",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "2"
+    }
+  },
+  "t-031cfe521d921182e56cca084ac0fdf34183d1ca": {
+    "cost": [
+      {
+        "id": "bottle_of_dan_jackiel_whiskey",
+        "count": "1"
+      },
+      {
+        "id": "sas_drive",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "sig_bravo4_4x30_scope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "2"
+    }
+  },
+  "t-4ec7d55d227b9d6df25b91ebca735ed729e9dbf8": {
+    "cost": [
+      {
+        "id": "weapon_parts",
+        "count": "1"
+      },
+      {
+        "id": "wd_40_100ml",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "m14_utg_4_point_locking_deluxe_mount",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "2"
+    }
+  },
+  "t-167ff336483ea211fb9976ce98886a405dbc9353": {
+    "cost": [
+      {
+        "id": "damaged_hard_drive",
+        "count": "3"
+      },
+      {
+        "id": "ram",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "ds_arms_sa_58_762x51",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "2"
+    }
+  },
+  "t-0da1a4c546a19264c5d0c1ccad122bbb02b08834": {
+    "cost": [
+      {
+        "id": "military_gyrotachometer",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "fn_five_seven_mk2_57x28_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "2"
+    }
+  },
+  "t-87562af295068f37970d5451e1472a46785a1987": {
+    "cost": [
+      {
+        "id": "6_sten_140_m_military_battery",
+        "count": "1"
+      },
+      {
+        "id": "military_thermal_vision_module_iridium",
+        "count": "3"
+      },
+      {
+        "id": "virtex_programmable_processor",
+        "count": "2"
+      },
+      {
+        "id": "military_cable",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "secure_container_beta",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "2"
+    }
+  },
+  "t-219879ae633b40f278fdaf708fcab1e988fdf8f3": {
+    "cost": [
+      {
+        "id": "d_size_battery",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "20_pcs_pack_556x45_warmage_ammo",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-3e7d36eeb75f773f1d91f5a5bbab18b8c02e9bdc": {
+    "cost": [
+      {
+        "id": "printed_circuit_board",
+        "count": "2"
+      },
+      {
+        "id": "geiger_muller_counter",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "60_round_mag5_60_556x45_stanag_magazine",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-1fdfe0017373631dbeaabc80a7f6f70c726ef1b6": {
+    "cost": [
+      {
+        "id": "air_filter_for_gas_mask",
+        "count": "1"
+      },
+      {
+        "id": "greenbat_lithium_battery",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "magpul_pmag_d_60_556x45_60_round_magazine",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-60c48007d7f49650b5a90d73ae03c39b97b95a66": {
+    "cost": [
+      {
+        "id": "fierce_hatchling_moonshine",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "gpnvg_18_night_vision",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-1391e28bacce5e7f14364ee4ced6aeb2699eb3bf": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "9"
+      }
+    ],
+    "reward": {
+      "id": "gpnvg_18_night_vision",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-0ea12711ce7379761e2174d600a3bd81365284be": {
+    "cost": [
+      {
+        "id": "diary",
+        "count": "4"
+      },
+      {
+        "id": "slim_diary",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "folder_with_intelligence",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-1fd73cd2665c5598699d63c13e4c0bf798a32602": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "6"
+      }
+    ],
+    "reward": {
+      "id": "ak_74n_545x39_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-aa1c83000b36179736b0159372d855fc58b2b30f": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "10"
+      }
+    ],
+    "reward": {
+      "id": "team_wendy_exfil_ballistic_helmet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-ed9e0366028448947695607cb08fdb8dfd4e9db5": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "8"
+      },
+      {
+        "id": "dogtag",
+        "count": "8"
+      }
+    ],
+    "reward": {
+      "id": "remington_r11_rsass_762x51",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-8ffbc4507ed1f94ef7b07459a7bdc724dbf2c75f": {
+    "cost": [
+      {
+        "id": "military_cable",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "fn_p90_57x28_submachinegun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-60a2becd35c5c3079d6ac7a8e9ecbb57a7ef34d8": {
+    "cost": [
+      {
+        "id": "usb_adapter",
+        "count": "10"
+      }
+    ],
+    "reward": {
+      "id": "springfield_armory_m1a_762x51",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "3"
+    }
+  },
+  "t-8207d1adfd7ab2936c8c7cb9084d7444d9b6ba06": {
+    "cost": [
+      {
+        "id": "bottle_of_dan_jackiel_whiskey",
+        "count": "3"
+      },
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "colt_m4a1_556x45_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "4"
+    }
+  },
+  "t-15a5eab319b613c04c4ef3e56bb4bfa54d4037f7": {
+    "cost": [
+      {
+        "id": "vpx_flash_storage_module",
+        "count": "1"
+      },
+      {
+        "id": "military_circuit_board",
+        "count": "5"
+      },
+      {
+        "id": "military_cable",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "fn_gl40_mk2_grenade_launcher",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "4"
+    }
+  },
+  "t-0292a0f069ed072babd591e1508e378c260e3c83": {
+    "cost": [
+      {
+        "id": "golden_1gphone",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "crye_airframe_chops",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "4"
+    }
+  },
+  "t-4c02c46d1e3f027a9b624cf42be524875828fc6e": {
+    "cost": [
+      {
+        "id": "broken_gphone_x",
+        "count": "1"
+      },
+      {
+        "id": "powerbank",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "hk_mp7a2_46x30_submachinegun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Peacekeeper",
+      "level": "4"
+    }
+  },
+  "t-316d8576206fa982616f26521682fb89ae2e351b": {
+    "cost": [
+      {
+        "id": "uzrgm_grenade_fuze",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "vog_17_khattabka_grenade",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-babec61d8c27b5490417d36aad495405db899626": {
+    "cost": [
+      {
+        "id": "electric_drill",
+        "count": "1"
+      },
+      {
+        "id": "broken_gphone",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "vulcan_mg_night_scope_35x",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-0c2628ace32a89be08fc0d4189b153707a76d624": {
+    "cost": [
+      {
+        "id": "broken_gphone",
+        "count": "2"
+      },
+      {
+        "id": "broken_lcd",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "an_pvs_14_night_vision_monocular",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-f5cad161060d4e88555174454035785ff49922e4": {
+    "cost": [
+      {
+        "id": "construction_measuring_tape",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "magpul_m_lok_25_inch_guide",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-72aed41f8d021397b9ac61fd4b4b26253559f683": {
+    "cost": [
+      {
+        "id": "usb_adapter",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "magpul_m_lok_41_inch_guide",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-a324ca3477d8ff6a1e57433d874584cb11538478": {
+    "cost": [
+      {
+        "id": "damaged_hard_drive",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "custom_plastic_mp_133_forestock_with_mounts",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-c3cca1c3084b5f0e84efea29f850bf4e7dc1580c": {
+    "cost": [
+      {
+        "id": "greenbat_lithium_battery",
+        "count": "1"
+      },
+      {
+        "id": "d_size_battery",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "b_11_aks_74u_handguard",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-f35a590b187c9807f729335ddc8e8fc224bfd8fd": {
+    "cost": [
+      {
+        "id": "tetriz_portable_game",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "physical_bitcoin",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-449111e38ceaae93cd9da9a9a48dd4a8cdd40cf1": {
+    "cost": [
+      {
+        "id": "wires",
+        "count": "1"
+      },
+      {
+        "id": "capacitors",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "tt_pistol_762x25_tt",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-b634c783cfcb63304e9708616be93c94f54e43f4": {
+    "cost": [
+      {
+        "id": "kinda_cowboy_hat",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "glock_17_9x19_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-27b5b2cb284b97d3e1c639802aca4c703046c8d9": {
+    "cost": [
+      {
+        "id": "pliers_elite",
+        "count": "2"
+      },
+      {
+        "id": "screwdriver",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "mp_133_12ga_shotgun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-6b5120eec94fe8e66e44fe21e0bcbfd2d8e04f61": {
+    "cost": [
+      {
+        "id": "pliers",
+        "count": "1"
+      },
+      {
+        "id": "nippers",
+        "count": "1"
+      },
+      {
+        "id": "round_pliers",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "pliers_elite",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-5e432569d10cd7f89c3abe4c48e9a85365a52a9a": {
+    "cost": [
+      {
+        "id": "dvd_drive",
+        "count": "5"
+      },
+      {
+        "id": "ultraviolet_lamp",
+        "count": "5"
+      },
+      {
+        "id": "weapon_parts",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "sig_mpx_9x19_submachine_gun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-8a8df95528090bb971b7555a7f0e8be5da0bf0eb": {
+    "cost": [
+      {
+        "id": "pliers",
+        "count": "1"
+      },
+      {
+        "id": "screwdriver",
+        "count": "1"
+      },
+      {
+        "id": "wrench",
+        "count": "1"
+      },
+      {
+        "id": "insulating_tape",
+        "count": "1"
+      },
+      {
+        "id": "construction_measuring_tape",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "a_set_of_tools",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-dffcaaec05f6c88fcc5d06f5c8eba2e00da34827": {
+    "cost": [
+      {
+        "id": "roler_submariner_gold_wrist_watch",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "submachinegun_pp_19_01_vityaz_sn_9x19",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-dd2be72cd78b160da1d351d32b6755e249ed7b68": {
+    "cost": [
+      {
+        "id": "working_lcd",
+        "count": "5"
+      },
+      {
+        "id": "nixxor_lens",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "hk_mp7a1_46x30_submachinegun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-0a3abe286795e6b013b526b9aec341a995826f0f": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "wilcox_skull_lock_head_mount",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-c9023eaeff1e1652481c26e59e37538b32160882": {
+    "cost": [
+      {
+        "id": "dvd_drive",
+        "count": "1"
+      },
+      {
+        "id": "damaged_hard_drive",
+        "count": "1"
+      },
+      {
+        "id": "capacitors",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "hk_ump_45_submachinegun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-28ac99cc80912b884300b1ddc4ff11181003687d": {
+    "cost": [
+      {
+        "id": "gunpowder_kite",
+        "count": "5"
+      },
+      {
+        "id": "gunpowder_eagle",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "ammo_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "1"
+    }
+  },
+  "t-5323aa96ff257aa73e729627b4abea46a5d8742e": {
+    "cost": [
+      {
+        "id": "chainlet",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "pm_ppsh_9x18pm_84_round_drum_mag_for_pm",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-38cc922cb58252da41d0b2c344d534508329066f": {
+    "cost": [
+      {
+        "id": "fuel_conditioner",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "x_products_x_5_mp5_50_round_9x19_magazine",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-47433792f88b3786fc1988704a68c077d84daf6b": {
+    "cost": [
+      {
+        "id": "tube_of_poxeram_cold_welding",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "sgmt_drum_mag_for_glock_9x19_50_rounds_capacity",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-d7d81ac5fdac9d6472f1ad20bf4112a7f11ac329": {
+    "cost": [
+      {
+        "id": "t_shaped_plug",
+        "count": "6"
+      }
+    ],
+    "reward": {
+      "id": "promag_ak_a_16_73_round_762x39_magazine_for_akm_and_compatibles",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-5efc596cc27a8e9b4d9cf93bf89b3a843e6f0711": {
+    "cost": [
+      {
+        "id": "ram",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "silencerco_hybrid_46_multi_caliber_silencer",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-31816a4e8debb9841b7365bc01e09825925b5086": {
+    "cost": [
+      {
+        "id": "electric_drill",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "silencerco_osprey_9_9x19mm_sound_suppressor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-f0686299c137c0d5afe39960ac29c92430517bd1": {
+    "cost": [
+      {
+        "id": "ssd_drive",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "elcan_specterdr_1x_4x_scope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-2590976c68cdfaa3c409f29ded9d71ba66e97844": {
+    "cost": [
+      {
+        "id": "wilston_cigarettes",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "badger_ordnance_tactical_charging_handle_latch",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-1bf3d6ae80afa7343f33f01a982092066c95a4f0": {
+    "cost": [
+      {
+        "id": "printed_circuit_board",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "m14_ultimak_m8_upper_part",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-a0f31d0ad6b3ccc83a4378c9641c6b38658afe93": {
+    "cost": [
+      {
+        "id": "dvd_drive",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "34mm_one_piece_magmount_made_by_i_e_a_mil_optics",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-69aae83ce56ff444017d53ad9bd6abf72ee31ae8": {
+    "cost": [
+      {
+        "id": "aa_battery",
+        "count": "2"
+      },
+      {
+        "id": "d_size_battery",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "sga_stock_for_m870",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-daff73db2ff8dba0f9847bd1bc78343fbad33de1": {
+    "cost": [
+      {
+        "id": "wd_40_400ml",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "fab_defence_gl_shock_stock",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-2a65adb4dac7360962e079cdc5c94b9cbcd9c14f": {
+    "cost": [
+      {
+        "id": "malboro_cigarettes",
+        "count": "3"
+      },
+      {
+        "id": "apollon_soyuz_cigarettes",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "260mm_barrel_for_ar_15_and_compatible_556x45",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-2382c0516626eea9d85ca42a814cb96b3859406a": {
+    "cost": [
+      {
+        "id": "rechargeable_battery",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "magpul_moe_m870_forestock",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-1fcf8c24aa4e82d6656af1a56b854fc7ce9f815a": {
+    "cost": [
+      {
+        "id": "cpu_fan",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "daniel_defence_fde_ris_ii_fsp_95_foregrip_for_ar_15_compatible_systems",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-519beb1c6e77863913ce97b8b38fcd9665cbbfd6": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "1"
+      },
+      {
+        "id": "screwdriver",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "simonov_semi_automatic_carbine_sks_762x39",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-f60a88096a2eb2192c1c493a33ad9410c11826b2": {
+    "cost": [
+      {
+        "id": "cpu_fan",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "gas_analyzer",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-cef86cf0996c5ff46b335df35ee75572db76ef28": {
+    "cost": [
+      {
+        "id": "broken_gphone",
+        "count": "2"
+      },
+      {
+        "id": "printed_circuit_board",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "glock_17_9x19_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-04a55b3fbef5ed0c0f22cf02a521ed6f1c4dd43c": {
+    "cost": [
+      {
+        "id": "weapon_parts",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "simonov_semi_automatic_carbine_sks_762x39_hunting_rifle_version",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-3b310433e0e9308264b7f430df9ce72ce73b8068": {
+    "cost": [
+      {
+        "id": "chain_with_prokill_medallion",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "colt_m4a1_556x45_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-fa11f3b2f7062a2440b67f05f72f37f9fc9ac91c": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "7"
+      }
+    ],
+    "reward": {
+      "id": "colt_m4a1_556x45_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-58fe087d95188fac3a4d38276da383d500842ec4": {
+    "cost": [
+      {
+        "id": "insulating_tape",
+        "count": "20"
+      }
+    ],
+    "reward": {
+      "id": "springfield_armory_m1a_762x51",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-4615c0990d225ef23a4c0cdd7271952392f4cf2f": {
+    "cost": [
+      {
+        "id": "broken_lcd",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "working_lcd",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-259292bfe0381d37e06cbe0dea52605a74913b9a": {
+    "cost": [
+      {
+        "id": "damaged_hard_drive",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "glock_17_9x19_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-a2748b4c76a29c6f39237a2153bc9bd0d6676930": {
+    "cost": [
+      {
+        "id": "magnet",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "glock_17_9x19_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-da1e34b773c934ff7ed685be47c0477639473037": {
+    "cost": [
+      {
+        "id": "light_bulb",
+        "count": "3"
+      },
+      {
+        "id": "d_size_battery",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "glock_17_9x19_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-87a4132613593f656caa3fcfea58efb7662597e4": {
+    "cost": [
+      {
+        "id": "light_bulb",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "glock_17_9x19_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-d3bfd66b3793c52831e74bc754fe14918bb199c2": {
+    "cost": [
+      {
+        "id": "wd_40_400ml",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "glock_17_9x19_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-66cd8111155ec400f9e79e34d92d974cad7ab3fb": {
+    "cost": [
+      {
+        "id": "powerbank",
+        "count": "1"
+      },
+      {
+        "id": "weapon_parts",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "remington_model_870_12ga_shotgun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-75db3f80bb7727ad9a2f295e7781d1afe8f26169": {
+    "cost": [
+      {
+        "id": "cyclon_accumulator_battery",
+        "count": "1"
+      },
+      {
+        "id": "magnet",
+        "count": "1"
+      },
+      {
+        "id": "nixxor_lens",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "hk_mp5_9x19_submachinegun_navy_3_round_burst",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-30e1a8a2e841ff0defb897d1f0b4c0690c0b5cdf": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "6"
+      }
+    ],
+    "reward": {
+      "id": "fn_p90_57x28_submachinegun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-752d9da8eb24e876e89dc6e555e6b333f0c5346d": {
+    "cost": [
+      {
+        "id": "mosin_rifle_sniper_carbine_stock",
+        "count": "1"
+      },
+      {
+        "id": "regular_730mm_mosin_barrel",
+        "count": "1"
+      },
+      {
+        "id": "wilston_cigarettes",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "mosin_bolt_action_sniper_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-422de70377f18bb7e750eb15e22e1db6704c98e6": {
+    "cost": [
+      {
+        "id": "military_cable",
+        "count": "2"
+      },
+      {
+        "id": "energy_saving_lamp",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "remington_model_700_sniper_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-2a915bba645b5b0464e3e42e6e2fc39879152db9": {
+    "cost": [
+      {
+        "id": "physical_bitcoin",
+        "count": "10"
+      }
+    ],
+    "reward": {
+      "id": "weapon_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "2"
+    }
+  },
+  "t-b36be4131112433bd76d2c1558855433db35e4f9": {
+    "cost": [
+      {
+        "id": "wires",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "x_products_x_5_mp5_50_round_9x19_magazine",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-2b8ba7eba50fe8d78fe1652809453d15677b550c": {
+    "cost": [
+      {
+        "id": "magnet",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "rotor_43_762x39_muzzle_brake",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-146fbda2fa5a8aadbc919ef4aec119ef8702da62": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "colt_m4a1_556x45_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-be914b08e46b8f73b1b9d10236b677f3081db17a": {
+    "cost": [
+      {
+        "id": "6_sten_140_m_military_battery",
+        "count": "4"
+      },
+      {
+        "id": "cyclon_accumulator_battery",
+        "count": "6"
+      },
+      {
+        "id": "uhf_rfid_reader",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "lab_black_keycard",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-e9ea646a02025a6ddc5d61edcf66075940eccd3f": {
+    "cost": [
+      {
+        "id": "tube_of_poxeram_cold_welding",
+        "count": "10"
+      },
+      {
+        "id": "kektape_duct_tape",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "terragroup_labs_access_keycard",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-e4153de86e0a2d17fe37e71605c2a9e4ed6ed926": {
+    "cost": [
+      {
+        "id": "malboro_cigarettes",
+        "count": "6"
+      },
+      {
+        "id": "military_cable",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "ak_74m_545x39_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-26f37df1cc8a88a0f725062c7f58e8b2be5a567f": {
+    "cost": [
+      {
+        "id": "uhf_rfid_reader",
+        "count": "4"
+      },
+      {
+        "id": "virtex_programmable_processor",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "ak_104_762x39_assault_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-eb75aad7832b5d1b5fee04c48cdd0f04314eaf89": {
+    "cost": [
+      {
+        "id": "weapon_parts",
+        "count": "8"
+      }
+    ],
+    "reward": {
+      "id": "ds_arms_sa_58_762x51",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-126c161bc689a0c8afcd8dcaed5a13194a172036": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "2"
+      },
+      {
+        "id": "pressure_gauge",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "lone_star_tx_15_dml_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-aebb2fa7ae10a8ccd3b8a7c7704b529b2f96cd36": {
+    "cost": [
+      {
+        "id": "weapon_parts",
+        "count": "12"
+      }
+    ],
+    "reward": {
+      "id": "ds_arms_sa_58_762x51",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-6155651a449240224ac4daca677231e6b8303693": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "glock_17_9x19_pistol",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-8d221dad92cd599255e44dc23179e14d3b1ce0df": {
+    "cost": [
+      {
+        "id": "capacitors",
+        "count": "8"
+      },
+      {
+        "id": "weapon_parts",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "rpk_16_545x39_light_machine_gun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-2806d0b7fe8661358720e537b0ed8e4f04d315b0": {
+    "cost": [
+      {
+        "id": "electric_motor",
+        "count": "8"
+      },
+      {
+        "id": "wires",
+        "count": "15"
+      },
+      {
+        "id": "broken_lcd",
+        "count": "4"
+      },
+      {
+        "id": "phased_array_element",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "weapon_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-e9faffa40b788458f973b092c61f508d83a531f8": {
+    "cost": [
+      {
+        "id": "wilston_cigarettes",
+        "count": "18"
+      }
+    ],
+    "reward": {
+      "id": "springfield_armory_m1a_762x51",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-08f5ce5e86ed7393418877e62bfdedfe7ce8eb44": {
+    "cost": [
+      {
+        "id": "phased_array_element",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "6b43_zabralo_sh_6a_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "3"
+    }
+  },
+  "t-af29394a1a0f160322786a93e4aa045a78e11767": {
+    "cost": [
+      {
+        "id": "geiger_muller_counter",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "x_14_m14_50_round_762x51_magazine",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "4"
+    }
+  },
+  "t-7fd550e79f30d96e11da46c2d5d548f15968f8ff": {
+    "cost": [
+      {
+        "id": "broken_gphone",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "x_fal_fal_sa_58_762x51_50_rnd_magazine",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "4"
+    }
+  },
+  "t-c9c39c776db41438c6cf6b5b2116ab002de2e2ae": {
+    "cost": [
+      {
+        "id": "round_pliers",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "maxrounds_powermag_20_round_12_76_magazine_for_sok_12_and_compatible_weapons",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "4"
+    }
+  },
+  "t-3b1438533812663a57cc60b1f1983a629378f0d7": {
+    "cost": [
+      {
+        "id": "military_thermal_vision_module_iridium",
+        "count": "4"
+      },
+      {
+        "id": "military_circuit_board",
+        "count": "3"
+      },
+      {
+        "id": "military_power_filter",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "trijicon_reap_ir_thermal_riflescope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "4"
+    }
+  },
+  "t-23d9ce3f4c27bc0406be1564bc9d2457ea57f0d5": {
+    "cost": [
+      {
+        "id": "military_thermal_vision_module_iridium",
+        "count": "2"
+      },
+      {
+        "id": "military_gyrotachometer",
+        "count": "2"
+      },
+      {
+        "id": "military_circuit_board",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "flir_rs_32_225_9x_35mm_60hz_thermal_riflescope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "4"
+    }
+  },
+  "t-0f5c232ec8ccf8a2218c99695e05a11776e36125": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "7"
+      }
+    ],
+    "reward": {
+      "id": "terragroup_labs_access_keycard",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "4"
+    }
+  },
+  "t-dd21fbe2bc44aaf172c7ada3fdeda66260e41c6b": {
+    "cost": [
+      {
+        "id": "nixxor_lens",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "ds_arms_sa_58_762x51",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "4"
+    }
+  },
+  "t-3323c2aabf14340aba952c4625107c0cddfc222a": {
+    "cost": [
+      {
+        "id": "physical_bitcoin",
+        "count": "20"
+      },
+      {
+        "id": "gp_coin",
+        "count": "20"
+      }
+    ],
+    "reward": {
+      "id": "t_h_i_c_c_weapon_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Mechanic",
+      "level": "4"
+    }
+  },
+  "t-39c4f37d311484b2bf5f05129460849cff0b8271": {
+    "cost": [
+      {
+        "id": "chainlet",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "k1s_visor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "1"
+    }
+  },
+  "t-67d27f9ebc5998e91d596259a38b8f10c19d931b": {
+    "cost": [
+      {
+        "id": "chainlet",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "kiver_m_helmet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "1"
+    }
+  },
+  "t-e5b7a32c0b7c8012a0640f0963ee110a570a56fc": {
+    "cost": [
+      {
+        "id": "ox_bleach",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "6b47_ratnik_bsh_helmet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "1"
+    }
+  },
+  "t-c8471c58c233049aad982b3fde9272662123ad4d": {
+    "cost": [
+      {
+        "id": "printer_paper",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "gssh_01_active_headset",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "1"
+    }
+  },
+  "t-73207541e2e75952a540c27036e1a1135687745f": {
+    "cost": [
+      {
+        "id": "lower_half_mask",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "paca_soft_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "1"
+    }
+  },
+  "t-629de0cd1d42a9f672b554868fdceaf2b0b093cb": {
+    "cost": [
+      {
+        "id": "max_energy",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "mf_untar_armor_vest",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "1"
+    }
+  },
+  "t-61bd4f6e82e6fca08647049a406f0e8e9c360fe6": {
+    "cost": [
+      {
+        "id": "psh_97_djeta_helmet",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "wartech_berkut_vv_102_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "1"
+    }
+  },
+  "t-592508f8f7d3e733fd1b62154f93964ae7425e30": {
+    "cost": [
+      {
+        "id": "piece_of_plexiglas",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "zsh_1_2m_face_shield",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-1168d1435efb468e27828e06e393d3c666bb3c53": {
+    "cost": [
+      {
+        "id": "construction_measuring_tape",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "tactical_fleece_hat",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-fa7fcee6da999c6b6776861542b638e440ba23e6": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "7"
+      }
+    ],
+    "reward": {
+      "id": "6b47_helmet_with_cover_flora_digital",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-e3534e0e2297b4b970832ac5727fcdcd052ab5d9": {
+    "cost": [
+      {
+        "id": "anti_fragmentation_glasses",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "untar_helmet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-f79bd4afaaee2e8d8b554aeb6cf3af9c0fec9d4a": {
+    "cost": [
+      {
+        "id": "classic_matches",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "peltor_comtac_2_headset",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-f8cac09d19d39b37035c4b7b2e31adaa93302989": {
+    "cost": [
+      {
+        "id": "coffee_majaica",
+        "count": "1"
+      },
+      {
+        "id": "tarcola",
+        "count": "1"
+      },
+      {
+        "id": "pack_of_milk",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "bnti_kirasa_n_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-255e5ae7150d006d787deb76ec5f320c0e6ce445": {
+    "cost": [
+      {
+        "id": "golden_neck_chain",
+        "count": "2"
+      },
+      {
+        "id": "tt_pistol_762x25_tt_gold",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "crye_precision_avs_platecarrier",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-eaddd243a62318cb3b9d0016f57173b8c8a4773c": {
+    "cost": [
+      {
+        "id": "duct_tape",
+        "count": "5"
+      },
+      {
+        "id": "heat_exchange_alkali_surface_washer",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "ana_tactical_alpha_chest_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-7f67d711d534ef2986c38fb8a3d230a0fd2940a0": {
+    "cost": [
+      {
+        "id": "soap",
+        "count": "3"
+      },
+      {
+        "id": "toilet_paper",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "6b5_15_zh_86_uley_armored_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-cd9ffa7b1742021141914e3995f1c88b5474eec8": {
+    "cost": [
+      {
+        "id": "6b5_15_zh_86_uley_armored_rig",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "6b5_15_zh_86_uley_armored_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-e0ed0095c9d88d22d8b1ac7dcf664e3215c820ae": {
+    "cost": [
+      {
+        "id": "6b3tm_01m_armored_rig",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "6b3tm_01m_armored_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-34da3e421756f1710738f52df057853fcf49c32e": {
+    "cost": [
+      {
+        "id": "energy_saving_lamp",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "camelbak_tri_zip_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-a0d896bb6cc867839c57c546a33d6b951b52af9b": {
+    "cost": [
+      {
+        "id": "pack_of_sugar",
+        "count": "1"
+      },
+      {
+        "id": "can_of_pacific_saury",
+        "count": "2"
+      },
+      {
+        "id": "slickers_bar",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "sso_attack_2_raid_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "2"
+    }
+  },
+  "t-12fbdc94310fd7abc1e20d0f7f7128749ae48f96": {
+    "cost": [
+      {
+        "id": "altyn_face_shield",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "altyn_face_shield",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-ea5af1b1872567ff0013e249aacfc0712daf0055": {
+    "cost": [
+      {
+        "id": "piece_of_plexiglas",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "lshz_2dtm_face_shield",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-5cb2af0716baa22f8915211a267977de92dadd8a": {
+    "cost": [
+      {
+        "id": "kektape_duct_tape",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "kinda_cowboy_hat",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-27abf4852748c8f2073ed7dc95c755507d6e76e4": {
+    "cost": [
+      {
+        "id": "screwdriver",
+        "count": "4"
+      },
+      {
+        "id": "wrench",
+        "count": "4"
+      },
+      {
+        "id": "metal_cutting_scissors",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "devtac_ronin_ballistic_helmet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-fc951a8772b514042167bea8a62138fc4419200e": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "maska_1sch_helmet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-8e351b52203aad3c9627fd3e3b813c9fd5b66e0a": {
+    "cost": [
+      {
+        "id": "golden_neck_chain",
+        "count": "2"
+      },
+      {
+        "id": "coffee_majaica",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "bnti_gzhel_k_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-5a0a5ecfef21e8bb0931a1accf72b2ccec9f8158": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "10"
+      }
+    ],
+    "reward": {
+      "id": "iotv_gen4_armor_high_mobility_kit",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-df1ad01a1bcde5229bed8b75d4e82de01fbeed31": {
+    "cost": [
+      {
+        "id": "ski_hat_with_holes_for_eyes",
+        "count": "5"
+      },
+      {
+        "id": "ushanka_ear_flap_cap",
+        "count": "5"
+      },
+      {
+        "id": "round_frame_sunglasses",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "511_hexgrid_plate_carrier",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-bebd58802a0b69099b22d368719c3fde0985b87a": {
+    "cost": [
+      {
+        "id": "schaman_shampoo",
+        "count": "7"
+      },
+      {
+        "id": "ortodontox_toothpaste",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "crye_precision_avs_platecarrier",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-82ef76ae9775598ad9ab8f4ee2238c6eb4f11496": {
+    "cost": [
+      {
+        "id": "round_frame_sunglasses",
+        "count": "3"
+      },
+      {
+        "id": "k1s_visor",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "ana_tactical_m2_armored_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-37558208e5eb66d6f3b6a3a9a16f254e24c5f6e8": {
+    "cost": [
+      {
+        "id": "gp_5_gasmask",
+        "count": "5"
+      },
+      {
+        "id": "neoprene_mask",
+        "count": "6"
+      }
+    ],
+    "reward": {
+      "id": "511_tactec_plate_carrier",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-751ce696a170505eb73c2303355fa60c56248000": {
+    "cost": [
+      {
+        "id": "antique_teapot",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "belt_a_+_belt_b_gear_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-6c14c6a16e85e3d4333559bb76c7e9de6611f267": {
+    "cost": [
+      {
+        "id": "water_bottle_with_a_filter_aquamari",
+        "count": "4"
+      },
+      {
+        "id": "premium_kvass_norvinskiy_yadreniy_06l_bottle",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "ana_tactical_m1_armored_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-393defcb9fd55a69aa105b23bbb3388db2b6c663": {
+    "cost": [
+      {
+        "id": "ox_bleach",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "wartech_tv_110_plate_carrier",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-88c75b75a2f907b05f3cb1c81810c9c531cb203f": {
+    "cost": [
+      {
+        "id": "bottle_of_dan_jackiel_whiskey",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "ars_arma_a18_skanda_plate_carrier",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-3dcf3a93eae45ea1d86255784fb50d03ba84771e": {
+    "cost": [
+      {
+        "id": "condensed_milk",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "velocity_systems_multi_purpose_patrol_vest",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "3"
+    }
+  },
+  "t-f7047cdb5281c0bea5fdf5d27a730e228eedbf2a": {
+    "cost": [
+      {
+        "id": "piece_of_plexiglas",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "altyn_face_shield",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-44f08612ccb6fc21abf4c4290ff2e838dc3da7d8": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "6"
+      }
+    ],
+    "reward": {
+      "id": "altyn_face_shield",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-ceb0349d02e10ba94d5e706f0d6398b6a3061732": {
+    "cost": [
+      {
+        "id": "gp_coin",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "maska_1sch_face_shield",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-23ebf8716dd7244dcef0c9a2d98c0adcd670aee9": {
+    "cost": [
+      {
+        "id": "piece_of_plexiglas",
+        "count": "7"
+      }
+    ],
+    "reward": {
+      "id": "vulkan_5_face_shield",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-1133f6cafc86548a46ca1243d244afd82052b0a7": {
+    "cost": [
+      {
+        "id": "piece_of_plexiglas",
+        "count": "4"
+      },
+      {
+        "id": "bolts",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "rys_t_face_shield",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-7485e3e4a0b01b404535f8ad288f2e3a09386386": {
+    "cost": [
+      {
+        "id": "marked_key",
+        "count": "1"
+      },
+      {
+        "id": "office_112_west_wing_key",
+        "count": "1"
+      },
+      {
+        "id": "paracord",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "crash_axe",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-fc1929f7c68d9b1cf13ee0a8c38b6728c4ee5340": {
+    "cost": [
+      {
+        "id": "round_pliers",
+        "count": "6"
+      },
+      {
+        "id": "construction_measuring_tape",
+        "count": "5"
+      },
+      {
+        "id": "pliers",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "altyn_helmet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-e3f74466983ec08d8e7a038450d33dcd4b04738c": {
+    "cost": [
+      {
+        "id": "aramid_fiber_cloth",
+        "count": "5"
+      },
+      {
+        "id": "piece_of_plexiglas",
+        "count": "6"
+      },
+      {
+        "id": "polyamide_fabric_cordura",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "rys_t_helmet",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-6567c9ebaf411bce1b5a8236830b096923d132df": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "10"
+      },
+      {
+        "id": "dogtag",
+        "count": "10"
+      }
+    ],
+    "reward": {
+      "id": "6b43_zabralo_sh_6a_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-d69312c9dbc3b00dcd29bffde7555f6c6aaeb699": {
+    "cost": [
+      {
+        "id": "6b43_zabralo_sh_6a_armor",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "6b43_zabralo_sh_6a_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-bed7b2653dfb50055e2914fceef580c9b06933e8": {
+    "cost": [
+      {
+        "id": "fierce_hatchling_moonshine",
+        "count": "1"
+      },
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "6b43_zabralo_sh_6a_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-289a64e347d7933ad033173d303f73fa57bfc8d9": {
+    "cost": [
+      {
+        "id": "bronze_lion",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "iotv_gen4_armor_full_protection",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-13e3386ca7f259ecb2685f1b84f7337b18eae7f6": {
+    "cost": [
+      {
+        "id": "gold_skull_ring",
+        "count": "3"
+      },
+      {
+        "id": "golden_neck_chain",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "iotv_gen4_armor_assault_kit",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-aac9e6403a73ad046cf58629159cf9838185b75b": {
+    "cost": [
+      {
+        "id": "antique_vase",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "zhuk_6a_heavy_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-a9a3f5279e1cfb9e1b858f70eb7d41c9daff0f70": {
+    "cost": [
+      {
+        "id": "air_filter_for_gas_mask",
+        "count": "6"
+      },
+      {
+        "id": "paracord",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "fort_redut_t5_body_armor",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-b8ae309ffb0c440646c73ea0b74a649478a868a8": {
+    "cost": [
+      {
+        "id": "highcom_trooper_tfo_armor_multicam",
+        "count": "2"
+      },
+      {
+        "id": "polyamide_fabric_cordura",
+        "count": "2"
+      },
+      {
+        "id": "aramid_fiber_cloth",
+        "count": "4"
+      }
+    ],
+    "reward": {
+      "id": "lbt_6094a_slick_plate_carrier",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-26f833d54ad14cec74da5311d769d0eecf700d93": {
+    "cost": [
+      {
+        "id": "dogtag",
+        "count": "10"
+      }
+    ],
+    "reward": {
+      "id": "ana_tactical_m2_armored_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-74c8c2314c01b92004ebe0f8a71ca37a3eb5b95f": {
+    "cost": [
+      {
+        "id": "antique_vase",
+        "count": "1"
+      },
+      {
+        "id": "chainlet",
+        "count": "10"
+      }
+    ],
+    "reward": {
+      "id": "511_tactec_plate_carrier",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-97261bdf7a76f1dca51f0cf5bacc3005682e11b8": {
+    "cost": [
+      {
+        "id": "gold_skull_ring",
+        "count": "1"
+      },
+      {
+        "id": "golden_neck_chain",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "ars_arma_a18_skanda_plate_carrier",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-37b1089c8e28b67ba20ff4f45cdf6eaecec0fadb": {
+    "cost": [
+      {
+        "id": "polyamide_fabric_cordura",
+        "count": "3"
+      },
+      {
+        "id": "bottle_of_dan_jackiel_whiskey",
+        "count": "1"
+      },
+      {
+        "id": "ripstop_cloth",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "ars_arma_cpc_mod2_plate_carrier",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-a0a61934f97c577ad1d468f718eba4622f1075ba": {
+    "cost": [
+      {
+        "id": "chain_with_prokill_medallion",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "sso_attack_2_raid_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-9787aeeba706da37e9e62b50904c1d8ae22bf8b8": {
+    "cost": [
+      {
+        "id": "light_bulb",
+        "count": "6"
+      }
+    ],
+    "reward": {
+      "id": "ana_tactical_beta_2_battle_backpack",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-7aa00f2ed106e0fee145f5ff62342425a982511f": {
+    "cost": [
+      {
+        "id": "ox_bleach",
+        "count": "8"
+      },
+      {
+        "id": "polyamide_fabric_cordura",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "mystery_ranch_blackjack_50_backpack_multicam",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Ragman",
+      "level": "4"
+    }
+  },
+  "t-bb08b07bb12b0b0eba02c46f52b94aa4408bbb94": {
+    "cost": [
+      {
+        "id": "nippers",
+        "count": "3"
+      }
+    ],
+    "reward": {
+      "id": "cms_kit",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "1"
+    }
+  },
+  "t-8d83f9238c72f00c9330283cf98d157549f31faa": {
+    "cost": [
+      {
+        "id": "classic_matches",
+        "count": "1"
+      },
+      {
+        "id": "apollon_soyuz_cigarettes",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "kiba_arms_international_sprm_mount_for_pump_action_shotguns",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "1"
+    }
+  },
+  "t-fee5424902313992f8a36583103d39594081df36": {
+    "cost": [
+      {
+        "id": "toilet_paper",
+        "count": "1"
+      },
+      {
+        "id": "weapon_safe_key",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "30mm_scope_mount",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "1"
+    }
+  },
+  "t-0f0dc35d33cd6680b0b61071ac988b40f8815485": {
+    "cost": [
+      {
+        "id": "classic_matches",
+        "count": "12"
+      },
+      {
+        "id": "hunter_matches",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "metal_fuel_tank",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "1"
+    }
+  },
+  "t-65ee0954680d14e585e6d180ff65bc80d5b63adb": {
+    "cost": [
+      {
+        "id": "wrench",
+        "count": "2"
+      },
+      {
+        "id": "screwdriver",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "mp_153_12ga_semi_automatic_shotgun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "1"
+    }
+  },
+  "t-a06d7980bdebffa9538f5e6406671466cdb7d029": {
+    "cost": [
+      {
+        "id": "slickers_bar",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "scav_vest",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "1"
+    }
+  },
+  "t-30a16a66e084a86678e2c930256f1a5cb21f94b0": {
+    "cost": [
+      {
+        "id": "soap",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "vkbo_army_bag",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "1"
+    }
+  },
+  "t-8cb7d86cbb68345773fc566d3197839ad01ee5e9": {
+    "cost": [
+      {
+        "id": "powerbank",
+        "count": "1"
+      },
+      {
+        "id": "magnet",
+        "count": "2"
+      },
+      {
+        "id": "ultraviolet_lamp",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "nightforce_atacr_7_35x56_riflescope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "2"
+    }
+  },
+  "t-045c32ff04c2952b6fb8166a611af8f51c67f63b": {
+    "cost": [
+      {
+        "id": "5l_propane_tank",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "34mm_one_piece_magmount_made_by_nightforce",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "2"
+    }
+  },
+  "t-ecdcd383a96821e3b72bb8fdc425befe374a5c69": {
+    "cost": [
+      {
+        "id": "emelya_rye_croutons",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "pack_of_sugar",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "2"
+    }
+  },
+  "t-88f48de302a044a5793f978a7f91a1b782cb2bf6": {
+    "cost": [
+      {
+        "id": "factory_exit_key",
+        "count": "1"
+      },
+      {
+        "id": "iskra_lunch_box",
+        "count": "4"
+      },
+      {
+        "id": "mre_lunch_box",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "factory_exit_key",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "2"
+    }
+  },
+  "t-f244ef00a22c73bbce4d2eef838dabbffd7581ce": {
+    "cost": [
+      {
+        "id": "technical_documentation",
+        "count": "2"
+      },
+      {
+        "id": "bottle_of_vodka_tarkovskaya",
+        "count": "4"
+      },
+      {
+        "id": "can_of_beef_stew",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "military_base_checkpoint_key",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "2"
+    }
+  },
+  "t-70880baeb00b1c1131224cee566bccc65f138aa2": {
+    "cost": [
+      {
+        "id": "hot_rod",
+        "count": "10"
+      },
+      {
+        "id": "tarcola",
+        "count": "5"
+      },
+      {
+        "id": "can_of_herring",
+        "count": "5"
+      },
+      {
+        "id": "squash_spread",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "mr_holodilnick_thermobag",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "2"
+    }
+  },
+  "t-4f8c24294dc8d57d453c7a8a415f84ccce0e3277": {
+    "cost": [
+      {
+        "id": "hunter_matches",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "splav_tarzan_m22_rig",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "2"
+    }
+  },
+  "t-67bf23bc72a3501ea142a137d005cd34408a2a12": {
+    "cost": [
+      {
+        "id": "iskra_lunch_box",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "bramit_silencer_for_a_mosin_rifle",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "3"
+    }
+  },
+  "t-574fdd2899baf27ef7944a93267862583371883c": {
+    "cost": [
+      {
+        "id": "pack_of_sugar",
+        "count": "10"
+      },
+      {
+        "id": "water_bottle_with_a_filter_aquamari",
+        "count": "6"
+      }
+    ],
+    "reward": {
+      "id": "flir_rs_32_225_9x_35mm_60hz_thermal_riflescope",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "3"
+    }
+  },
+  "t-1888f57b73d8693bcbd3de1a51ca81f918c85ec0": {
+    "cost": [
+      {
+        "id": "can_of_sprats",
+        "count": "10"
+      },
+      {
+        "id": "water_bottle_with_a_filter_aquamari",
+        "count": "10"
+      },
+      {
+        "id": "squash_spread",
+        "count": "10"
+      }
+    ],
+    "reward": {
+      "id": "saiga_12ga_ver_10_12_76_shotgun",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "3"
+    }
+  },
+  "t-a89f0c52c2b7fd9d0f17607588a3f233366beff0": {
+    "cost": [
+      {
+        "id": "rb_vo_key",
+        "count": "1"
+      },
+      {
+        "id": "rb_pkpm_key",
+        "count": "1"
+      },
+      {
+        "id": "rb_bk_key",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "marked_key",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "3"
+    }
+  },
+  "t-71042f39e566a1d3218e63cf00c425c9f419aa1c": {
+    "cost": [
+      {
+        "id": "5l_propane_tank",
+        "count": "15"
+      },
+      {
+        "id": "fuel_conditioner",
+        "count": "10"
+      },
+      {
+        "id": "dry_fuel",
+        "count": "15"
+      }
+    ],
+    "reward": {
+      "id": "red_rebel_ice_pick",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "3"
+    }
+  },
+  "t-e19fe07bd109bda582211b9834ae294cfbfb6763": {
+    "cost": [
+      {
+        "id": "toothpaste",
+        "count": "5"
+      },
+      {
+        "id": "toilet_paper",
+        "count": "5"
+      },
+      {
+        "id": "hydrogen_peroxide",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "camper_axe",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "3"
+    }
+  },
+  "t-f9c474c31714efe0664c214165e9b419acca8776": {
+    "cost": [
+      {
+        "id": "paracord",
+        "count": "12"
+      },
+      {
+        "id": "duct_tape",
+        "count": "15"
+      },
+      {
+        "id": "insulating_tape",
+        "count": "15"
+      },
+      {
+        "id": "a_pack_of_nails",
+        "count": "15"
+      }
+    ],
+    "reward": {
+      "id": "small_s_i_c_c_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "3"
+    }
+  },
+  "t-c89ff7ea3c0f306a1cef86dfa0d45507cdc460ee": {
+    "cost": [
+      {
+        "id": "survl_survivor_lighter",
+        "count": "5"
+      },
+      {
+        "id": "hunter_matches",
+        "count": "15"
+      },
+      {
+        "id": "repellent",
+        "count": "8"
+      }
+    ],
+    "reward": {
+      "id": "grenade_case",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "3"
+    }
+  },
+  "t-beb43d0557f3bab0c46e96fadd0ad8fa1bad5d4d": {
+    "cost": [
+      {
+        "id": "humpback_salmon",
+        "count": "2"
+      }
+    ],
+    "reward": {
+      "id": "20_pcs_pack_556x45_warmage_ammo",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "4"
+    }
+  },
+  "t-88b495aef7178afb3f0afcd8c925de8efc75abac": {
+    "cost": [
+      {
+        "id": "green_ice",
+        "count": "1"
+      }
+    ],
+    "reward": {
+      "id": "20_pcs_9x19_mm_dipp_ammo_box",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "4"
+    }
+  },
+  "t-a79f7eacbbfb3d3454b6400f1025466a7544a4f7": {
+    "cost": [
+      {
+        "id": "cyclon_accumulator_battery",
+        "count": "7"
+      },
+      {
+        "id": "greenbat_lithium_battery",
+        "count": "10"
+      },
+      {
+        "id": "long_flat_screwdriver",
+        "count": "5"
+      }
+    ],
+    "reward": {
+      "id": "key_rb_psp2",
+      "count": 1
+    },
+    "trader": {
+      "trader": "Jaeger",
+      "level": "4"
+    }
+  }
+}

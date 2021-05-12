@@ -1,0 +1,34 @@
+{
+	"user_data": {
+		"wish_trades": [
+			"t-f51e3c813abf27216cf789881aac2ed9286d0809",
+			"t-6e9081fb9e14431fc5ee9dce7887c298227b34db",
+			"t-07099c5ef25172a7700d8f0cb581cc1be05d271d"
+		],
+		"completed_quests": [
+			"q-shortage",
+			"q-acquaintance"
+		],
+		"partial_quests": {
+			"q-supplier": {
+				"module_3m_bodyarmor": 2
+			}
+		},
+		"level": {
+			"prapor": 2,
+			"therapist": 2,
+			"skier": 1,
+			"peacekeeper": 2,
+			"mechanic": 2,
+			"intelligence_center": 0,
+			"lavatory": 0,
+			"medstation": 0,
+			"nutrition_unit": 0,
+			"workbench": 0
+		},
+		"compact": true,
+		"hidden_items": [
+			"ox_bleach"
+		]
+	}
+}

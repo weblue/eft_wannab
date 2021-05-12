@@ -1,0 +1,1058 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Escape from Tarkov Wiki</sitename>
+    <dbname>escapefromtarkov_gamepedia</dbname>
+    <base>https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki</base>
+    <generator>MediaWiki 1.33.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Escape from Tarkov Wiki</namespace>
+      <namespace key="5" case="first-letter">Escape from Tarkov Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="202" case="first-letter">UserProfile</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Found in raid</title>
+    <ns>0</ns>
+    <id>20385</id>
+    <revision>
+      <id>154425</id>
+      <parentid>154423</parentid>
+      <timestamp>2021-02-07T00:19:07Z</timestamp>
+      <contributor>
+        <username>FatalBulletHit</username>
+        <id>42035274</id>
+      </contributor>
+      <minor/>
+      <comment>/* Items needed to be found in raid for quests */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26240">{{Infobox
+|title              =Found in raid mark
+|main image2        =Found_in_raid_(Insulating_Tape).png
+|main image desc    =Insulating Tape found in raid
+|image3             =insp_fir.png
+|image3 desc        =Inspection view
+|group4             =When needed for a quest
+|image5             =fir_quest.png
+|image5 desc        =WD-40 100ml. found in raid and needed for a quest
+|image6             =insp_fir_quest.png
+|image6 desc        =Inspection view
+}}
+
+A lot of [[Quests]] require items to be '''found in raid'''. Items found in raid can also be sold on the [[Trading#Flea Market|Flea Market]].
+
+An item is marked as "Item found in raid" if:
+
+*it was found in a raid and was not brought into that raid by a PMC and the extraction status is Survived.
+*it was crafted in the [[Hideout]].
+*it was obtained as a quest reward.
+
+==Items needed to be found in raid for quests==
+{| class="wikitable sortable" style="text-align: center"
+!Icon
+!Name
+!Can be crafted?
+!Can be obtained as quest reward?
+!Needed for Kappa?
+!Amount
+!Quest
+!Trader
+|-
+|[[File:Medical Bloodset Icon.png|frameless]]
+|[[Medical bloodset]]
+|&lt;font color="green"&gt;Medstation lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|3
+|[["Vitamins" - Part 2]]
+|[[File:Skier Portrait.png|center|frameless|64x64px|link=Skier]]
+|-
+|[[File:Respirator icon.png|frameless]]
+|[[Respirator]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|4
+|[["Vitamins" - Part 2]]
+|[[File:Skier Portrait.png|center|frameless|64x64px|link=Skier]]
+|-
+|[[File:Can of beef stew alt Icon.png|frameless]]
+|[[Can of delicious beef stew]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Acquaintance]]
+|[[File:Jaeger Portrait.png|center|frameless|64x64px|link=Jaeger]]
+|-
+|[[File:Emeyla Croutons.png|frameless]]
+|[[Emelya rye croutons]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Acquaintance]]
+|[[File:Jaeger Portrait.png|center|frameless|64x64px|link=Jaeger]]
+|-
+|[[File:Lunchbox icon.png|frameless]]
+|[[Iskra lunch box]]
+|&lt;font color="green"&gt;Nutrition Unit lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|3
+|[[Acquaintance]]
+|[[File:Jaeger Portrait.png|center|frameless|64x64px|link=Jaeger]]
+|-
+|[[File:CMS Icon.png|frameless]]
+|[[CMS kit]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|[[The survivalist path - Tough guy]] (1)
+|Yes
+|2
+|[[Ambulance]]
+|[[File:Jaeger Portrait.png|center|frameless|64x64px|link=Jaeger]]
+|-
+|[[File:Defibrillatoricon.png|frameless]]
+|[[Portable defibrillator]]
+|&lt;font color="green"&gt;Medstation lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Ambulance]]
+|[[File:Jaeger Portrait.png|center|frameless|64x64px|link=Jaeger]]
+|-
+|[[File:Malboro Cigarettes Icon.png|frameless]]
+|[[Malboro Cigarettes]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|5
+|[[Bad habit]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Cigred.png|frameless]]
+|[[Strike Cigarettes]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|5
+|[[Bad habit]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Wilstonicon.png|frameless]]
+|[[Wilston cigarettes]]
+|&lt;font color="green"&gt;Nutrition Unit lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|5
+|[[Bad habit]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Car Battery Icon.png|frameless]]
+|[[Car battery]]
+|&lt;font color="green"&gt;Workbench lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|4
+|[[Car repair]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:Spark Plug Icon .png|frameless]]
+|[[Spark plug]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|8
+|[[Car repair]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:3-(b-TG) icon.png|frameless]]
+|[[3-(b-TG)]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Colleagues - Part 3]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:AHF1-M icon.png|frameless]]
+|[[AHF1-M]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Colleagues - Part 3]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:EnglishTeaIcon.png|frameless]]
+|[[42nd Signature Blend English Tea]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Antique Axe icon.png|frameless]]
+|[[Antique axe]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:BatteredBookIcon.png|frameless]]
+|[[Battered antique Book]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Lupo Icon.png|frameless]]
+|[[Can of Dr. Lupo's coffee beans]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Can of sprats Icon.png|frameless]]
+|[[Can of sprats]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Deadlyslobs beard oil icon.png|frameless]]
+|[[Deadlyslob's beard oil]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Fake Mustache icon.png|frameless]]
+|[[Fake mustache]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:FireKlean icon.png|frameless]]
+|[[FireKlean gun lube]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:1gphone icon.png|frameless]]
+|[[Golden 1GPhone]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:GoldenRoosterIcon.png|frameless]]
+|[[Golden rooster]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|[[Friend from the West - Part 1]] (1)
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:DDGMayoIcon.png|frameless]]
+|[[Jar of DevilDog mayo]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Kotton Beanie icon.png|frameless]]
+|[[Kotton beanie]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:FireSteelIcon.png|frameless]]
+|[[Old firesteel]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Plague mask icon.png|frameless]]
+|[[Pestily plague mask]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Raven figurine icon.png|frameless]]
+|[[Raven figurine]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Shroud Icon.png|frameless]]
+|[[Shroud half-mask]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Silver Badge icon.png|frameless]]
+|[[Silver Badge]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:VeritasGuitarPickIcon.png|frameless]]
+|[[Veritas guitar pick]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Collector]]
+|[[File:Fence Portrait.png|center|frameless|64x64px|link=Fence]]
+|-
+|[[File:Cow boy hat icon.png|frameless]]
+|[[Kinda cowboy hat]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|[["The Tarkov shooter" - Part 3]] (1)
+|Yes
+|2
+|[[Dressed to kill]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Ushanka icon.png|frameless]]
+|[[Ushanka ear-flap cap]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Dressed to kill]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Powercord icon.png|frameless]]
+|[[Powercord]]
+|&lt;font color="green"&gt;Workbench lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Farming - Part 2]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Circuit Icon.png|frameless]]
+|[[Printed circuit board]]
+|&lt;font color="green"&gt;Workbench lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Farming - Part 2]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:T-Shaped Plug Icon.png|frameless]]
+|[[T-Shaped Plug]]
+|&lt;font color="green"&gt;Workbench lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|4
+|[[Farming - Part 2]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:CPU Fan Icon.png|frameless]]
+|[[CPU Fan]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|8
+|[[Farming - Part 4]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Graphics Card icon.png|frameless]]
+|[[Graphics card]]
+|&lt;font color="green"&gt;Intelligence Center lv. 2&lt;/font&gt;
+|[[The chemistry closet]] (1)
+|Yes
+|3
+|[[Farming - Part 4]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Capacitorsicon.png|frameless]]
+|[[Capacitors]]
+|&lt;font color="green"&gt;Workbench lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|5
+|[[Fertilizers]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Wiresicon.png|frameless]]
+|[[Wires]]
+|&lt;font color="green"&gt;Workbench lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|5
+|[[Fertilizers]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Terragroup Labs access keycard icon.png|frameless]]
+|[[TerraGroup Labs access keycard]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|[[Huntsman path - Woods keeper]] (3)
+|Yes
+|2
+|[[Fishing place]]
+|[[File:Jaeger Portrait.png|center|frameless|64x64px|link=Jaeger]]
+|-
+|[[File:USEC Dogtag Icon.png|frameless]]
+|[[Dogtag|Dogtag (USEC)]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|7
+|[[Friend from the West - Part 1]]
+|[[File:Skier Portrait.png|center|frameless|64x64px|link=Skier]]
+|-
+|[[File:Can of beef stew Icon.png|frameless]]
+|[[Can of beef stew]]
+|&lt;font color="green"&gt;Nutrition Unit lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|15
+|[[General wares]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:Maska 1Sch helmet icon.gif|frameless]]
+|[[Maska 1Sch helmet|Maska 1Sch helmet (Killa)]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Huntsman path - Sell-out]]
+|[[File:Jaeger Portrait.png|center|frameless|64x64px|link=Jaeger]]
+|-
+|[[File:GoldenTTIcon.png|frameless]]
+|[[TT pistol 7.62x25 TT Gold]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Huntsman path - The trophy]]
+|[[File:Jaeger Portrait.png|center|frameless|64x64px|link=Jaeger]]
+|-
+|[[File:Shturman Key Icon.png|frameless]]
+|[[Shturman key]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Huntsman path - Woods keeper]]
+|[[File:Jaeger Portrait.png|center|frameless|64x64px|link=Jaeger]]
+|-
+|[[File:6L31-60-mag icon.png|frameless]]
+|[[60-round 6L31 5.45x39 magazine for AK-74 and compatibles]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|3
+|[[Ice cream cones]]
+|[[File:Prapor Portrait.png|center|frameless|64x64px|link=Prapor]]
+|-
+|[[File:UHFRFIDIcon.png|frameless]]
+|[[UHF RFID Reader]]
+|&lt;font color="green"&gt;Intelligence Center lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Import]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:VPXFlashIcon.png|frameless]]
+|[[VPX Flash Storage Module]]
+|&lt;font color="green"&gt;Intelligence Center lv. 2&lt;/font&gt;
+|[[Huntsman path - Woods keeper]] (1) 
+[[Hunting trip]] (1)
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Import]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:COFDM Icon.png|frameless]]
+|[[Military COFDM wireless Signal Transmitter]]
+|&lt;font color="green"&gt;Intelligence Center lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Lend lease - Part 2]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:Virtex programmable processor Icon.png|frameless]]
+|[[Virtex programmable processor]]
+|&lt;font color="green"&gt;Intelligence Center lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Lend lease - Part 2]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:Bronze Lion Icon.png|frameless]]
+|[[Bronze lion]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Living high is not a crime - Part 1]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Caticon.png|frameless]]
+|[[Cat figurine]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Living high is not a crime - Part 1]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Horse figurine Icon.png|frameless]]
+|[[Horse figurine]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|2
+|[[Living high is not a crime - Part 1]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Roler icon.png|frameless]]
+|[[Roler submariner gold wrist watch]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|[[Chumming]] (1)
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Living high is not a crime - Part 1]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Teapot icon.png|frameless]]
+|[[Antique teapot]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|3
+|[[Living high is not a crime - Part 2]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Vaseicon.png|frameless]]
+|[[Antique vase]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Living high is not a crime - Part 2]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:EFT Morphine Icon.png|frameless]]
+|[[Morphine injector]]
+|&lt;font color="green"&gt;Medstation lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|4
+|[[Painkiller]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:TransilluminatorIcon.png|frameless]]
+|[[LEDX Skin Transilluminator]]
+|&lt;font color="green"&gt;Medstation lv. 3&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Private clinic]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:Ophthalmoscopeicon.png|frameless]]
+|[[Ophthalmoscope]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Private clinic]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:Mil Batt icon.png|frameless]]
+|[[6-STEN-140-M military battery]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Regulated materials]]
+|[[File:Prapor Portrait.png|center|frameless|64x64px|link=Prapor]]
+|-
+|[[File:30x160mmShellicon.png|frameless]]
+|[[OFZ 30x160mm shell]]
+|&lt;font color="green"&gt;Workbench lv. 3&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|5
+|[[Regulated materials]]
+|[[File:Prapor Portrait.png|center|frameless|64x64px|link=Prapor]]
+|-
+|[[File:3-(b-TG) icon.png|frameless]]
+|[[3-(b-TG)]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Samples]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:AHF1-M icon.png|frameless]]
+|[[AHF1-M]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Samples]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:Cocktail Obdolbos Icon.png|frameless]]
+|[[Cocktail "Obdolbos"]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Samples]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:M.U.L.E. Stimulator Icon.png|frameless]]
+|[[M.U.L.E. stimulator]]
+|&lt;font color="green"&gt;Medstation lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Samples]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:Meldonin Icon.png|frameless]]
+|[[Meldonin]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Samples]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:P22 Icon.png|frameless]]
+|[[P22]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|1
+|[[Samples]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:Gas Analyzer Icon.png|frameless]]
+|[[Gas analyzer]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|[[The Cult - Part 2]] (3)
+|Yes
+|1
+|[[Sanitary Standards - Part 1]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:Gas Analyzer Icon.png|frameless]]
+|[[Gas analyzer]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|[[The Cult - Part 2]] (3)
+|Yes
+|2
+|[[Sanitary Standards - Part 2]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:Pilgrim Backpack icon.png|frameless]]
+|[[Pilgrim tourist backpack]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Sew it good - Part 1]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:ShmaskaIcon.png|frameless]]
+|[[Ski hat with holes for eyes]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Sew it good - Part 1]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Blackrock Icon.png|frameless]]
+|[[BlackRock chest rig]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Sew it good - Part 4]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Wartech gear rig icon.png|frameless]]
+|[[Wartech gear rig (TV-109, TV-106)|Wartech gear rig]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Sew it good - Part 4]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Secure Flash drive Icon.png|frameless]]
+|[[Secure Flash drive]]
+|&lt;font color="green"&gt;Intelligence Center lv. 2&lt;/font&gt;
+|[[Huntsman path - Evil watchman]] (2)
+|Yes
+|3
+|[[Shady business]]
+|[[File:Jaeger Portrait.png|center|frameless|64x64px|link=Jaeger]]
+|-
+|[[File:EFT Salewa-First-Aid-Kit Icon 2.png|frameless]]
+|[[Salewa FIRST AID KIT]]
+|&lt;font color="green"&gt;Medstation lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|3
+|[[Shortage]]
+|[[File:Therapist Portrait.png|center|frameless|64x64px|link=Therapist]]
+|-
+|[[File:Broken GPhone Icon.png|frameless]]
+|[[Broken GPhone]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|3
+|[[Signal - Part 2]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:PC CPU Icon.png|frameless]]
+|[[PC CPU]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|3
+|[[Signal - Part 2]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Circuit Icon.png|frameless]]
+|[[Printed circuit board]]
+|&lt;font color="green"&gt;Workbench lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|3
+|[[Signal - Part 2]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Recicon.png|frameless]]
+|[[Rechargeable battery]]
+|&lt;font color="green"&gt;Workbench lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|3
+|[[Signal - Part 2]]
+|[[File:Mechanic Portrait.png|center|frameless|64x64px|link=Mechanic]]
+|-
+|[[File:Clin Wiper icon.png|frameless]]
+|[[Clin wiper]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Spa Tour - Part 3]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:Hoseicon.png|frameless]]
+|[[Corrugated hose]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Spa Tour - Part 3]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:Bleachicon.png|frameless]]
+|[[Ox bleach]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Spa Tour - Part 3]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:WD40 100ml Icon.png|frameless]]
+|[[WD-40 100ml.]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Spa Tour - Part 3]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:5L propane tank icon.png|frameless]]
+|[[5L propane tank]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Spa Tour - Part 7]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:Hoseicon.png|frameless]]
+|[[Corrugated hose]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Spa Tour - Part 7]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:Heat-exchange alkali surface washer icon.png|frameless]]
+|[[Heat-exchange alkali surface washer]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|2
+|[[Spa Tour - Part 7]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:EFT Morphine Icon.png|frameless]]
+|[[Morphine injector]]
+|&lt;font color="green"&gt;Medstation lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|4
+|[[Spa Tour - Part 7]]
+|[[File:Peacekeeper Portrait.png|center|frameless|64x64px|link=Peacekeeper]]
+|-
+|[[File:3M icon.png|frameless]]
+|[[Module-3M bodyarmor]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Supplier]]
+|[[File:Skier Portrait.png|center|frameless|64x64px|link=Skier]]
+|-
+|[[File:TOZ-106 icon.png|frameless]]
+|[[TOZ-106 bolt-action shotgun]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|1
+|[[Supplier]]
+|[[File:Skier Portrait.png|center|frameless|64x64px|link=Skier]]
+|-
+|[[File:Aramid Icon .png|frameless]]
+|[[Aramid fiber cloth]]
+|&lt;font color="green"&gt;Lavatory lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|5
+|[[Textile - Part 1]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:ParacordIcon.png|frameless]]
+|[[Paracord]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|3
+|[[Textile - Part 1]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Ripstop icon.png|frameless]]
+|[[Ripstop cloth]]
+|&lt;font color="green"&gt;Lavatory lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|10
+|[[Textile - Part 1]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Fleece Icon.png|frameless]]
+|[[Fleece cloth]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|10
+|[[Textile - Part 2]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:KEKTape icon.png|frameless]]
+|[[KEKTAPE duct tape]]
+|&lt;font color="green"&gt;Lavatory lv. 2&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|5
+|[[Textile - Part 2]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:CorduraFabricIcon.png|frameless]]
+|[[Polyamide fabric Cordura]]
+|&lt;font color="green"&gt;Lavatory lv. 1&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="green"&gt;No&lt;/font&gt;
+|10
+|[[Textile - Part 2]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Fuelcondicon.png|frameless]]
+|[[Fuel conditioner]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|4
+|[[The Blood of War - Part 2]]
+|[[File:Ragman Portrait.png|center|frameless|64x64px|link=Ragman]]
+|-
+|[[File:Lower half-mask icon.png|frameless]]
+|[[Lower half-mask]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|7
+|[[The Punisher - Part 2]]
+|[[File:Prapor Portrait.png|center|frameless|64x64px|link=Prapor]]
+|-
+|[[File:A-2607 Bars.png|frameless]]
+|[[Bars A-2607- 95x18]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|5
+|[[The Punisher - Part 4]]
+|[[File:Prapor Portrait.png|center|frameless|64x64px|link=Prapor]]
+|-
+|[[File:AK-74N icon.png|frameless]]
+|[[AK-74N 5.45x39 assault rifle]]
+|&lt;font color="green"&gt;Workbench lv. 1&lt;/font&gt;
+|[[The bunker - Part 1]] (1)
+|Yes
+|1
+|[[The Punisher - Part 5]]
+|[[File:Prapor Portrait.png|center|frameless|64x64px|link=Prapor]]
+|-
+|[[File:M4A1 icon.png|frameless]]
+|[[Colt M4A1 5.56x45 Assault Rifle]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|[[Friend from the West - Part 1]] (1)
+[[The Punisher - Part 4]] (1)
+
+[[Gunsmith - Part 9]] (1)
+
+[[Gunsmith - Part 16]] (1)
+
+[[TerraGroup employee]] (4)
+|Yes
+|1
+|[[The Punisher - Part 5]]
+|[[File:Prapor Portrait.png|center|frameless|64x64px|link=Prapor]]
+|-
+|[[File:PM icon.png|frameless]]
+|[[PM 9x18PM pistol]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|[[Debut]] (1)
+|Yes
+|2
+|[[The Punisher - Part 5]]
+|[[File:Prapor Portrait.png|center|frameless|64x64px|link=Prapor]]
+|-
+|[[File:BEAR Dogtag Icon.png|frameless]]
+|[[Dogtag|Dogtag (BEAR)]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|7
+|[[The Punisher - Part 6]]
+|[[File:Prapor Portrait.png|center|frameless|64x64px|link=Prapor]]
+|-
+|[[File:USEC Dogtag Icon.png|frameless]]
+|[[Dogtag|Dogtag (USEC)]]
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|&lt;font color="red"&gt;No&lt;/font&gt;
+|Yes
+|7
+|[[The Punisher - Part 6]]
+|[[File:Prapor Portrait.png|center|frameless|64x64px|link=Prapor]]
+|-
+|[[File:Secure Flash drive Icon.png|frameless]]
+|[[Secure Flash drive]]
+|&lt;font color="green"&gt;Intelligence Center lv. 2&lt;/font&gt;
+|[[Huntsman path - Evil watchman]] (2)
+|Yes
+|2
+|[[What's on the flash drive?]]
+|[[File:Skier Portrait.png|center|frameless|64x64px|link=Skier]]
+|}</text>
+      <sha1>tgcn4u9k2lfy9bxpivjij2vgixeovvy</sha1>
+    </revision>
+  </page>
+</mediawiki>

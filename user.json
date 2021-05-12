@@ -1,0 +1,23 @@
+{
+	"user_data": {
+		"wish_trades": [],
+		"completed_quests": [],
+		"partial_quests": {
+
+		},
+		"level": {
+			"prapor": 1,
+			"therapist": 1,
+			"skier": 1,
+			"peacekeeper": 1,
+			"mechanic": 1,
+			"intelligence_center": 0,
+			"lavatory": 0,
+			"medstation": 0,
+			"nutrition_unit": 0,
+			"workbench": 0
+		},
+		"compact": false,
+		"hidden_items": []
+	}
+}

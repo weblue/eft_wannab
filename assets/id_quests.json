@@ -1,0 +1,612 @@
+{
+  "q-vitamins_part_2": {
+    "trader": "skier",
+    "name": "\"Vitamins\" - Part 2",
+    "cost": [
+      {
+        "id": "medical_bloodset",
+        "count": "3"
+      },
+      {
+        "id": "respirator",
+        "count": "4"
+      }
+    ]
+  },
+  "q-acquaintance": {
+    "trader": "jaeger",
+    "name": "Acquaintance",
+    "cost": [
+      {
+        "id": "can_of_delicious_beef_stew",
+        "count": "2"
+      },
+      {
+        "id": "emelya_rye_croutons",
+        "count": "2"
+      },
+      {
+        "id": "iskra_lunch_box",
+        "count": "3"
+      }
+    ]
+  },
+  "q-ambulance": {
+    "trader": "jaeger",
+    "name": "Ambulance",
+    "cost": [
+      {
+        "id": "cms_kit",
+        "count": "2"
+      },
+      {
+        "id": "portable_defibrillator",
+        "count": "1"
+      }
+    ]
+  },
+  "q-bad_habit": {
+    "trader": "mechanic",
+    "name": "Bad habit",
+    "cost": [
+      {
+        "id": "malboro_cigarettes",
+        "count": "5"
+      },
+      {
+        "id": "strike_cigarettes",
+        "count": "5"
+      },
+      {
+        "id": "wilston_cigarettes",
+        "count": "5"
+      }
+    ]
+  },
+  "q-car_repair": {
+    "trader": "therapist",
+    "name": "Car repair",
+    "cost": [
+      {
+        "id": "car_battery",
+        "count": "4"
+      },
+      {
+        "id": "spark_plug",
+        "count": "8"
+      }
+    ]
+  },
+  "q-colleagues_part_3": {
+    "trader": "therapist",
+    "name": "Colleagues - Part 3",
+    "cost": [
+      {
+        "id": "3_b_tg",
+        "count": "1"
+      },
+      {
+        "id": "ahf1_m",
+        "count": "1"
+      }
+    ]
+  },
+  "q-dressed_to_kill": {
+    "trader": "ragman",
+    "name": "Dressed to kill",
+    "cost": [
+      {
+        "id": "kinda_cowboy_hat",
+        "count": "2"
+      },
+      {
+        "id": "ushanka_ear_flap_cap",
+        "count": "2"
+      }
+    ]
+  },
+  "q-farming_part_2": {
+    "trader": "mechanic",
+    "name": "Farming - Part 2",
+    "cost": [
+      {
+        "id": "powercord",
+        "count": "2"
+      },
+      {
+        "id": "printed_circuit_board",
+        "count": "2"
+      },
+      {
+        "id": "t_shaped_plug",
+        "count": "4"
+      }
+    ]
+  },
+  "q-farming_part_4": {
+    "trader": "mechanic",
+    "name": "Farming - Part 4",
+    "cost": [
+      {
+        "id": "cpu_fan",
+        "count": "8"
+      },
+      {
+        "id": "graphics_card",
+        "count": "3"
+      }
+    ]
+  },
+  "q-fertilizers": {
+    "trader": "mechanic",
+    "name": "Fertilizers",
+    "cost": [
+      {
+        "id": "capacitors",
+        "count": "5"
+      },
+      {
+        "id": "wires",
+        "count": "5"
+      }
+    ]
+  },
+  "q-fishing_place": {
+    "trader": "jaeger",
+    "name": "Fishing place",
+    "cost": [
+      {
+        "id": "terragroup_labs_access_keycard",
+        "count": "2"
+      }
+    ]
+  },
+  "q-friend_from_the_west_part_1": {
+    "trader": "skier",
+    "name": "Friend from the West - Part 1",
+    "cost": [
+      {
+        "id": "dogtag_usec",
+        "count": "7"
+      }
+    ]
+  },
+  "q-general_wares": {
+    "trader": "therapist",
+    "name": "General wares",
+    "cost": [
+      {
+        "id": "can_of_beef_stew",
+        "count": "15"
+      }
+    ]
+  },
+  "q-huntsman_path_sell_out": {
+    "trader": "jaeger",
+    "name": "Huntsman path - Sell-out",
+    "cost": [
+      {
+        "id": "maska_1sch_helmet_killa",
+        "count": "1"
+      }
+    ]
+  },
+  "q-huntsman_path_the_trophy": {
+    "trader": "jaeger",
+    "name": "Huntsman path - The trophy",
+    "cost": [
+      {
+        "id": "tt_pistol_762x25_tt_gold",
+        "count": "1"
+      }
+    ]
+  },
+  "q-huntsman_path_woods_keeper": {
+    "trader": "jaeger",
+    "name": "Huntsman path - Woods keeper",
+    "cost": [
+      {
+        "id": "shturman_key",
+        "count": "1"
+      }
+    ]
+  },
+  "q-ice_cream_cones": {
+    "trader": "prapor",
+    "name": "Ice cream cones",
+    "cost": [
+      {
+        "id": "60_round_6l31_545x39_magazine_for_ak_74_and_compatibles",
+        "count": "3"
+      }
+    ]
+  },
+  "q-import": {
+    "trader": "mechanic",
+    "name": "Import",
+    "cost": [
+      {
+        "id": "uhf_rfid_reader",
+        "count": "1"
+      },
+      {
+        "id": "vpx_flash_storage_module",
+        "count": "1"
+      }
+    ]
+  },
+  "q-lend_lease_part_2": {
+    "trader": "peacekeeper",
+    "name": "Lend lease - Part 2",
+    "cost": [
+      {
+        "id": "military_cofdm_wireless_signal_transmitter",
+        "count": "1"
+      },
+      {
+        "id": "virtex_programmable_processor",
+        "count": "2"
+      }
+    ]
+  },
+  "q-living_high_is_not_a_crime_part_1": {
+    "trader": "ragman",
+    "name": "Living high is not a crime - Part 1",
+    "cost": [
+      {
+        "id": "bronze_lion",
+        "count": "2"
+      },
+      {
+        "id": "cat_figurine",
+        "count": "1"
+      },
+      {
+        "id": "horse_figurine",
+        "count": "2"
+      },
+      {
+        "id": "roler_submariner_gold_wrist_watch",
+        "count": "1"
+      }
+    ]
+  },
+  "q-living_high_is_not_a_crime_part_2": {
+    "trader": "ragman",
+    "name": "Living high is not a crime - Part 2",
+    "cost": [
+      {
+        "id": "antique_teapot",
+        "count": "3"
+      },
+      {
+        "id": "antique_vase",
+        "count": "2"
+      }
+    ]
+  },
+  "q-painkiller": {
+    "trader": "therapist",
+    "name": "Painkiller",
+    "cost": [
+      {
+        "id": "morphine_injector",
+        "count": "4"
+      }
+    ]
+  },
+  "q-private_clinic": {
+    "trader": "therapist",
+    "name": "Private clinic",
+    "cost": [
+      {
+        "id": "ledx_skin_transilluminator",
+        "count": "1"
+      },
+      {
+        "id": "ophthalmoscope",
+        "count": "2"
+      }
+    ]
+  },
+  "q-regulated_materials": {
+    "trader": "prapor",
+    "name": "Regulated materials",
+    "cost": [
+      {
+        "id": "6_sten_140_m_military_battery",
+        "count": "1"
+      },
+      {
+        "id": "ofz_30x160mm_shell",
+        "count": "5"
+      }
+    ]
+  },
+  "q-samples": {
+    "trader": "peacekeeper",
+    "name": "Samples",
+    "cost": [
+      {
+        "id": "3_b_tg",
+        "count": "1"
+      },
+      {
+        "id": "ahf1_m",
+        "count": "1"
+      },
+      {
+        "id": "cocktail_obdolbos",
+        "count": "1"
+      },
+      {
+        "id": "mule_stimulator",
+        "count": "1"
+      },
+      {
+        "id": "meldonin",
+        "count": "1"
+      },
+      {
+        "id": "p22",
+        "count": "1"
+      }
+    ]
+  },
+  "q-sanitary_standards_part_1": {
+    "trader": "therapist",
+    "name": "Sanitary Standards - Part 1",
+    "cost": [
+      {
+        "id": "gas_analyzer",
+        "count": "1"
+      }
+    ]
+  },
+  "q-sanitary_standards_part_2": {
+    "trader": "therapist",
+    "name": "Sanitary Standards - Part 2",
+    "cost": [
+      {
+        "id": "gas_analyzer",
+        "count": "2"
+      }
+    ]
+  },
+  "q-sew_it_good_part_1": {
+    "trader": "ragman",
+    "name": "Sew it good - Part 1",
+    "cost": [
+      {
+        "id": "pilgrim_tourist_backpack",
+        "count": "1"
+      },
+      {
+        "id": "ski_hat_with_holes_for_eyes",
+        "count": "1"
+      }
+    ]
+  },
+  "q-sew_it_good_part_4": {
+    "trader": "ragman",
+    "name": "Sew it good - Part 4",
+    "cost": [
+      {
+        "id": "blackrock_chest_rig",
+        "count": "2"
+      },
+      {
+        "id": "wartech_gear_rig",
+        "count": "2"
+      }
+    ]
+  },
+  "q-shady_business": {
+    "trader": "jaeger",
+    "name": "Shady business",
+    "cost": [
+      {
+        "id": "secure_flash_drive",
+        "count": "3"
+      }
+    ]
+  },
+  "q-shortage": {
+    "trader": "therapist",
+    "name": "Shortage",
+    "cost": [
+      {
+        "id": "salewa_first_aid_kit",
+        "count": "3"
+      }
+    ]
+  },
+  "q-signal_part_2": {
+    "trader": "mechanic",
+    "name": "Signal - Part 2",
+    "cost": [
+      {
+        "id": "broken_gphone",
+        "count": "3"
+      },
+      {
+        "id": "pc_cpu",
+        "count": "3"
+      },
+      {
+        "id": "printed_circuit_board",
+        "count": "3"
+      },
+      {
+        "id": "rechargeable_battery",
+        "count": "3"
+      }
+    ]
+  },
+  "q-spa_tour_part_3": {
+    "trader": "peacekeeper",
+    "name": "Spa Tour - Part 3",
+    "cost": [
+      {
+        "id": "clin_wiper",
+        "count": "2"
+      },
+      {
+        "id": "corrugated_hose",
+        "count": "2"
+      },
+      {
+        "id": "ox_bleach",
+        "count": "2"
+      },
+      {
+        "id": "wd_40_100ml",
+        "count": "1"
+      }
+    ]
+  },
+  "q-spa_tour_part_7": {
+    "trader": "peacekeeper",
+    "name": "Spa Tour - Part 7",
+    "cost": [
+      {
+        "id": "5l_propane_tank",
+        "count": "2"
+      },
+      {
+        "id": "corrugated_hose",
+        "count": "2"
+      },
+      {
+        "id": "heat_exchange_alkali_surface_washer",
+        "count": "2"
+      },
+      {
+        "id": "morphine_injector",
+        "count": "4"
+      }
+    ]
+  },
+  "q-supplier": {
+    "trader": "skier",
+    "name": "Supplier",
+    "cost": [
+      {
+        "id": "module_3m_bodyarmor",
+        "count": "1"
+      },
+      {
+        "id": "toz_106_bolt_action_shotgun",
+        "count": "1"
+      }
+    ]
+  },
+  "q-textile_part_1": {
+    "trader": "ragman",
+    "name": "Textile - Part 1",
+    "cost": [
+      {
+        "id": "aramid_fiber_cloth",
+        "count": "5"
+      },
+      {
+        "id": "paracord",
+        "count": "3"
+      },
+      {
+        "id": "ripstop_cloth",
+        "count": "10"
+      }
+    ]
+  },
+  "q-textile_part_2": {
+    "trader": "ragman",
+    "name": "Textile - Part 2",
+    "cost": [
+      {
+        "id": "fleece_cloth",
+        "count": "10"
+      },
+      {
+        "id": "kektape_duct_tape",
+        "count": "5"
+      },
+      {
+        "id": "polyamide_fabric_cordura",
+        "count": "10"
+      }
+    ]
+  },
+  "q-the_blood_of_war_part_2": {
+    "trader": "ragman",
+    "name": "The Blood of War - Part 2",
+    "cost": [
+      {
+        "id": "fuel_conditioner",
+        "count": "4"
+      }
+    ]
+  },
+  "q-the_punisher_part_2": {
+    "trader": "prapor",
+    "name": "The Punisher - Part 2",
+    "cost": [
+      {
+        "id": "lower_half_mask",
+        "count": "7"
+      }
+    ]
+  },
+  "q-the_punisher_part_4": {
+    "trader": "prapor",
+    "name": "The Punisher - Part 4",
+    "cost": [
+      {
+        "id": "bars_a_2607_95x18",
+        "count": "5"
+      }
+    ]
+  },
+  "q-the_punisher_part_5": {
+    "trader": "prapor",
+    "name": "The Punisher - Part 5",
+    "cost": [
+      {
+        "id": "ak_74n_545x39_assault_rifle",
+        "count": "1"
+      },
+      {
+        "id": "colt_m4a1_556x45_assault_rifle",
+        "count": "1"
+      },
+      {
+        "id": "pm_9x18pm_pistol",
+        "count": "2"
+      }
+    ]
+  },
+  "q-the_punisher_part_6": {
+    "trader": "prapor",
+    "name": "The Punisher - Part 6",
+    "cost": [
+      {
+        "id": "dogtag_bear",
+        "count": "7"
+      },
+      {
+        "id": "dogtag_usec",
+        "count": "7"
+      }
+    ]
+  },
+  "q-whats_on_the_flash_drive": {
+    "trader": "skier",
+    "name": "What's on the flash drive?",
+    "cost": [
+      {
+        "id": "secure_flash_drive",
+        "count": "2"
+      }
+    ]
+  }
+}

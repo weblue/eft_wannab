@@ -1,0 +1,2189 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Escape from Tarkov Wiki</sitename>
+    <dbname>escapefromtarkov_gamepedia</dbname>
+    <base>https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki</base>
+    <generator>MediaWiki 1.33.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Escape from Tarkov Wiki</namespace>
+      <namespace key="5" case="first-letter">Escape from Tarkov Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="202" case="first-letter">UserProfile</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Barter trades</title>
+    <ns>0</ns>
+    <id>13240</id>
+    <revision>
+      <id>155831</id>
+      <parentid>155818</parentid>
+      <timestamp>2021-03-01T19:29:52Z</timestamp>
+      <contributor>
+        <username>R3dHacKeR-gpuser</username>
+        <id>42098188</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="114005">[[Traders]] in ''[[Escape from Tarkov]]'' sell many items, however some are available to trade for other items in your stash. Below is a complete list of these trades.
+
+If you see a trade missing from the below list, please join our [https://discord.gg/7ZeEyfU Discord] or note it [[Talk:Barter trades|here]].
+
+To search the list use &lt;code&gt;Ctrl+F&lt;/code&gt;.
+
+==List of Trades==
+===Prapor===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Trade
+!colspan =3 style="width:Auto;"| Loyalty Requirement
+!style="width:Auto;"|Item
+|-
+![[File:Clin Wiper icon.png‎|frameless|link=Clin wiper]] x1&lt;br/&gt;[[Clin wiper]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:545BPAmmoPack30RoundsIcon.png|frameless|link=30 pcs. 5.45x39 BP gs ammo pack]]
+[[30 pcs. 5.45x39 BP gs ammo pack]]
+|-
+![[File:Can of beef stew alt Icon.png|frameless|link=Can of delicious beef stew]] x2&lt;br/&gt;[[Can of delicious beef stew]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:545BTAmmoPack30RoundsIcon.png|frameless|link=30 pcs. 5.45x39 BT gs ammo pack]]
+[[30 pcs. 5.45x39 BT gs ammo pack]]
+|-
+![[File:Energy-Saving Lamp Icon.png|frameless|link=Energy-saving lamp]] x2&lt;br/&gt;[[Energy-saving lamp]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:F-1 grenade icon.png|frameless|link=F-1 Hand grenade]]
+[[F-1 Hand grenade]]
+|-
+![[File:RoundPliersIcon.png|frameless|link=Round pliers]] x1&lt;br/&gt;[[Round pliers]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:kedr30rnd.png|frameless|link=Standard 9x18PM 30-round magazine for PP-91]]
+[[Standard 9x18PM 30-round magazine for PP-91]]
+|-
+![[File:Spark Plug Icon .png|frameless|link=Spark plug]] x2&lt;br/&gt;[[Spark plug]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Psoicon.png|frameless|link=Zenit-Belomo PSO 1M2-1 4x24 scope]]
+[[Zenit-Belomo PSO 1M2-1 4x24 scope]]
+|-
+![[File:Horse figurine Icon.png|frameless|link=Horse figurine]] x1&lt;br/&gt;[[Horse figurine]]&lt;br/&gt;+&lt;br/&gt;[[File:Smokedchimneydraincleanericon.png|frameless|link=Smoked Chimney drain cleaner]] x1&lt;br/&gt;[[Smoked Chimney drain cleaner]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AKS-74U icon.png|frameless|link=Kalashnikov AKS-74U 5.45x39]]
+[[Kalashnikov AKS-74U 5.45x39]]
+|-
+![[File:Boltsicon.png|frameless|link=Bolts]] x1&lt;br/&gt;[[Bolts]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwnuticon.png|frameless|link=Screw nut]] x1&lt;br/&gt;[[Screw nut]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:PM icon.png|frameless|link=PM 9x18PM pistol]]
+[[PM 9x18PM pistol]]
+|-
+![[File:screwsicon.png|frameless|link=A pack of screws]] x1&lt;br/&gt;[[A pack of screws]]&lt;br/&gt;+&lt;br/&gt;[[File:Boltsicon.png|frameless|link=Bolts]] x1&lt;br/&gt;[[Bolts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:APSTrade.png|frameless|link=Stechkin Automatic Pistol 9x18PM]]
+[[Stechkin Automatic Pistol 9x18PM]]
+|-
+![[File:Can of beef stew Icon.png|frameless|link=Can of beef stew]] x3&lt;br/&gt;[[Can of beef stew]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AKM icon.png|frameless|link=AKM 7.62x39 assault rifle]]
+[[AKM 7.62x39 assault rifle]]
+|-
+![[File:T-Shaped Plug Icon.png|frameless|link=T-Shaped Plug]] x4&lt;br/&gt;[[T-Shaped Plug]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:PP-19-01 icon.png|frameless|link=Submachinegun PP-19-01 Vityaz-SN 9x19]]
+[[Submachinegun PP-19-01 Vityaz-SN 9x19]]
+|-
+![[File:Saury icon.png|frameless|link=Can of pacific saury]] x2&lt;br/&gt;[[Can of pacific saury]]&lt;br/&gt;+&lt;br/&gt;[[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x1&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SFERAHelmetIcon.png|frameless|link=SSSh-95 Sfera-S (Sphere-S)]]
+[[SSSh-95 Sfera-S (Sphere-S)]]
+|-
+![[File:D Size Battery Icon.png|frameless|link=D Size Battery]] x5&lt;br/&gt;[[D Size Battery]]&lt;br/&gt;+&lt;br/&gt;[[File:AA Battery Icon 2.png|frameless|link=AA Battery]] x8&lt;br/&gt;[[AA Battery]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MosinTradeIcon.png|384x64px|frameless|link=Mosin bolt-action sniper rifle]]
+[[Mosin bolt-action sniper rifle]]
+|-
+![[File:5L propane tank icon.png|frameless|link=5L propane tank]] x1&lt;br/&gt;[[5L propane tank]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6B23-1icon.png|frameless|link=6B23-1 armor (digital flora pattern)]]
+[[6B23-1 armor (digital flora pattern)]]
+|-
+![[File:AA Battery Icon 2.png|frameless|link=AA Battery]] x2&lt;br/&gt;[[AA Battery]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Armybagicon.png|frameless|link=VKBO army bag]]
+[[VKBO army bag]]
+|-
+![[File:Pack ofMilk icon.png|frameless|link=Pack of milk]] x1&lt;br/&gt;[[Pack of milk]]&lt;br/&gt;+&lt;br/&gt;[[File:Oatflakes icon.png|frameless|link=Pack of oat flakes]] x1&lt;br/&gt;[[Pack of oat flakes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 1 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Scout Sniper rig icon.png|frameless|link=UMTBS 6sh112 Scout-Sniper]]
+[[UMTBS 6sh112 Scout-Sniper]]
+|-
+![[File:Dryfuelicon.png|frameless|link=Dry fuel]] x1&lt;br/&gt;[[Dry fuel]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:545BTAmmoPack30RoundsIcon.png|frameless|link=30 pcs. 5.45x39 BT gs ammo pack]]
+[[30 pcs. 5.45x39 BT gs ammo pack]]
+|-
+![[File:Energy-Saving Lamp Icon.png|frameless|link=Energy-saving lamp]] x1&lt;br/&gt;[[Energy-saving lamp]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:RGD-5 grenade icon.png|frameless|link=RGD-5 hand grenade]]
+[[RGD-5 hand grenade]]
+|-
+![[File:Anal Thermometer Icon.png|frameless|link=Analog thermometer]] x1&lt;br/&gt;[[Analog thermometer]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]&lt;br/&gt;After completing his task&lt;br/&gt;[[Ice cream cones]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6L31-60-mag icon.png|frameless|link=60-round 6L31 5.45x39 magazine for AK-74 and compatibles]]
+[[60-round 6L31 5.45x39 magazine for AK-74 and compatibles|60-round 6L31 5.45x39 magazine for AK-74]]
+|-
+![[File:Spark Plug Icon .png|frameless|link=Spark plug]] x1&lt;br/&gt;[[Spark plug]]&lt;br/&gt;+&lt;br/&gt;[[File:Wrench Icon.png|frameless|link=Wrench]] x1&lt;br/&gt;[[Wrench]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:45orangeakmagicon.png|frameless|link=6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons]]
+[[6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons|6L18 45-round 5.45x39 magazine for AK-74]]
+|-
+![[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x1&lt;br/&gt;[[Weapon parts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:ppsh71icon.png|frameless|link=71-round 7.62x25 magazine for PPSH-41]]
+[[71-round 7.62x25 magazine for PPSH-41]]
+|-
+![[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x2&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]&lt;br/&gt;+&lt;br/&gt;[[File:MRE icon.png|frameless|link=MRE lunch box]] x1&lt;br/&gt;[[MRE lunch box]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Valday PS-320 icon.png|frameless|link=Valday PS-320 1x/6x Scope]]
+[[Valday PS-320 1x/6x Scope]]
+|-
+![[File:PC CPU Icon.png|frameless|link=PC CPU]] x1&lt;br/&gt;[[PC CPU]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Yarygin MP-443 Grach icon.png|frameless|link=Yarygin MP-443 Grach 9x19 pistol]]
+[[Yarygin MP-443 Grach 9x19 pistol]]
+|-
+![[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SH-1MP icon.png|frameless|link=9x21 Serdyukov automatic pistol SR1MP Gyurza]]
+[[9x21 Serdyukov automatic pistol SR1MP Gyurza]]
+|-
+![[File:Pompon hat icon.png|frameless|link=Pompon hat]] x2&lt;br/&gt;[[Pompon hat]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MLP50icon.png|frameless|link=MPL-50 entrenching tool]]
+[[MPL-50 entrenching tool]]
+|-
+![[File:Apollon Soyuz cigarettes Icon.png|frameless|link=Apollon Soyuz cigarettes]] x5&lt;br/&gt;[[Apollon Soyuz cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AK-74N.png|frameless|link=AK-74N 5.45x39 assault rifle]]
+[[AK-74N 5.45x39 assault rifle]]
+|-
+![[File:Caticon.png|frameless|link=Cat figurine]] x1&lt;br/&gt;[[Cat figurine]]&lt;br/&gt;+&lt;br/&gt;[[File:USB Adapter Icon.png|frameless|link=USB Adapter]] x2&lt;br/&gt;[[USB Adapter]]&lt;br/&gt;+&lt;br/&gt;[[File:Malboro Cigarettes Icon.png|frameless|link=Malboro Cigarettes]] x1&lt;br/&gt;[[Malboro Cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AKS-74UBTrade.png|frameless|link=Kalashnikov AKS-74UB 5.45x39]]
+[[Kalashnikov AKS-74UB 5.45x39]]
+|-
+![[File:Toilet paper icon.png|frameless|link=Toilet paper]] x2&lt;br/&gt;[[Toilet paper]]&lt;br/&gt;+&lt;br/&gt;[[File:toothpasteicon.png|frameless|link=Toothpaste]] x2&lt;br/&gt;[[Toothpaste]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AK-74 Plum Trade.png|frameless|link=AK-74 5.45x39 assault rifle]]
+[[AK-74 5.45x39 assault rifle]]
+|-
+![[File:Construction Measuring Tape Icon.png|frameless|link=Construction measuring tape]] x4&lt;br/&gt;[[Construction measuring tape]]&lt;br/&gt;+&lt;br/&gt;[[File:T-Shaped Plug Icon.png|frameless|link=T-Shaped Plug]] x4&lt;br/&gt;[[T-Shaped Plug]]&lt;br/&gt;+&lt;br/&gt;[[File:USB Adapter Icon.png|frameless|link=USB Adapter]] x3&lt;br/&gt;[[USB Adapter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:KS-23M Drozd.png|frameless|link=TOZ KS-23M 23x75mm shotgun]]
+[[TOZ KS-23M 23x75mm shotgun]]
+|-
+![[File:Apollon Soyuz cigarettes Icon.png|frameless|link=Apollon Soyuz cigarettes]] x5&lt;br/&gt;[[Apollon Soyuz cigarettes]]&lt;br/&gt;+&lt;br/&gt;[[File:Malboro Cigarettes Icon.png|frameless|link=Malboro Cigarettes]] x3&lt;br/&gt;[[Malboro Cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SV-98 icon.PNG|frameless|link=SV-98 bolt-action sniper rifle]]
+[[SV-98 bolt-action sniper rifle]]
+|-
+![[File:5L propane tank icon.png|frameless|link=5L propane tank]] x2&lt;br/&gt;[[5L propane tank]]&lt;br/&gt;+&lt;br/&gt;[[File:Fuelcondicon.png|frameless|link=Fuel conditioner]] x1&lt;br/&gt;[[Fuel conditioner]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 2 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Metal-fuel-tank-icon.png|frameless|link=Metal fuel tank]]
+[[Metal fuel tank]]
+|-
+![[File:Hor Rod icon.png|frameless|link=Hot Rod]] x2&lt;br/&gt;[[Hot Rod]]&lt;br/&gt;+&lt;br/&gt;[[File:Malboro Cigarettes Icon.png|frameless|link=Malboro Cigarettes]] x2&lt;br/&gt;[[Malboro Cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 3 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:545BSAmmoPack30RoundsIcon.png|frameless|link=30 pcs. 5.45x39 BS gs ammo pack]]
+[[30 pcs. 5.45x39 BS gs ammo pack]]
+|-
+![[File:Insulating tape Icon.png|frameless|link=Insulating tape]] x2&lt;br/&gt;[[Insulating tape]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 3 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:8 pcs pack 9x39 7N9 SPP ammo icon.png|frameless|link=8 pcs pack of 9x39 7N9 SPP ammo]]
+[[8 pcs pack of 9x39 7N9 SPP ammo]]
+|-
+![[File:Plier Icon.png|frameless|link=Pliers]] x4&lt;br/&gt;[[Pliers]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 3 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:vssval30roundericon.png|frameless|link=30-round SR3M.130 9x39 SR3M magazine]]
+[[30-round SR3M.130 9x39 SR3M magazine]]
+|-
+![[File:Heat-exchange alkali surface washer icon.png|frameless|link=Heat-exchange alkali surface washer]] x2&lt;br/&gt;[[Heat-exchange alkali surface washer]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 3 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:95-round 5.45x39 magazine for RPK-16 icon.png|frameless|link=95-round 5.45x39 magazine for RPK-16 and compatibles]]
+[[95-round 5.45x39 magazine for RPK-16 and compatibles|95-round 5.45x39 magazine for RPK-16]]
+|-
+![[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x2&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x3&lt;br/&gt;[[Weapon parts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 3 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:RPKTradeDrumMag.png|frameless|link=RPK-16 5.45x39 light machine gun]]
+[[RPK-16 5.45x39 light machine gun]]
+|-
+![[File:Aquamari icon.png|frameless|link=Water bottle with a filter Aquamari]] x2&lt;br/&gt;[[Water bottle with a filter Aquamari]]&lt;br/&gt;+&lt;br/&gt;[[File:Airfiltericon.png|frameless|link=Air filter for gas mask]] x1&lt;br/&gt;[[Air filter for gas mask]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 3 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6h5bayoneticon.png|frameless|link=6h5 Bayonet]]
+[[6h5 Bayonet]]
+|-
+![[File:Airfiltericon.png|frameless|link=Air filter for gas mask]] x10&lt;br/&gt;[[Air filter for gas mask]]&lt;br/&gt;+&lt;br/&gt;[[File:Respirator icon.png|frameless|link=Respirator]] x5&lt;br/&gt;[[Respirator]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 3 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:VSSTradeNoMag.png|frameless|link=Special Sniper Rifle VSS Vintorez]]
+[[Special Sniper Rifle VSS Vintorez]]
+|-
+![[File:Diary Icon1.png|frameless|link=Diary]] x4&lt;br/&gt;[[Diary]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 3 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:KORUNDIcon.png|frameless|link=BNTI Korund-VM armor]]
+[[BNTI Korund-VM armor]]
+|-
+![[File:USEC Dogtag Icon.png|frameless|link=Dogtag]] x9&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 25, USEC]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 3 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6SH118 Icon.png|frameless|link=6SH118 raid backpack]]
+[[6SH118 raid backpack]]
+|-
+![[File:Cigred.png|frameless|link=Strike Cigarettes]] x1&lt;br/&gt;[[Strike Cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 4 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL4]]&lt;br/&gt;After completing his task&lt;br/&gt;[[Grenadier]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:9x39BPammoPackIcon.png|frameless|link=8 pcs pack of 9x39 7N12 BP ammo]]
+[[8 pcs pack of 9x39 7N12 BP ammo]]
+|-
+![[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x2&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 4 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL4]]&lt;br/&gt;After completing his task&lt;br/&gt;[[Regulated materials]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:ASH-12 Icon.PNG|frameless|link=ASh-12 12.7x55 assault rifle]]
+[[ASh-12 12.7x55 assault rifle]]
+|-
+![[File:MilitaryCircuitBoardIcon.png|frameless|link=Military circuit board]] x1&lt;br/&gt;[[Military circuit board]]&lt;br/&gt;+&lt;br/&gt;[[File:Wiresicon.png|frameless|link=Wires]] x1&lt;br/&gt;[[Wires]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 4 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:ASh Silenced Trade.png|frameless|link=ASh-12 12.7x55 assault rifle]]
+[[ASh-12 12.7x55 assault rifle]]
+|-
+![[File:Metal cutting scissors icon.png|frameless|link=Metal cutting scissors]] x4&lt;br/&gt;[[Metal cutting scissors]]&lt;br/&gt;+&lt;br/&gt;[[File:Long screwdriver icon.png|frameless|link=Long flat screwdriver]] x7&lt;br/&gt;[[Long flat screwdriver]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 4 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:VSS icon.png|frameless|link=Special Sniper Rifle VSS Vintorez]]
+[[Special Sniper Rifle VSS Vintorez]]
+|-
+![[File:MilitaryCableIcon.png|frameless|link=Military cable]] x2&lt;br/&gt;[[Military cable]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Prapor 4 icon.png|frameless|link=Prapor]]&lt;br/&gt;[[Prapor|Prapor LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6SH118 Icon.png|frameless|link=6SH118 raid backpack]]
+[[6SH118 raid backpack]]
+|}
+
+===Therapist===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Trade
+!colspan =3 style="width:Auto;"| Loyalty Requirement
+!style="width:Auto;"|Item
+|-
+![[File:Matches Icon.png|frameless|link=Classic matches]] x1&lt;br/&gt;[[Classic matches]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 1 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT Painkillers Icon.png|frameless|link=Analgin painkillers]]
+[[Analgin painkillers]]
+|-
+![[File:Screwsicon.png|frameless|link=A pack of screws]] x2&lt;br/&gt;[[A pack of screws]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 1 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:HemostaticIcon.png|frameless|link=CALOK-B Hemostatic]]
+[[CALOK-B Hemostatic]]
+|-
+![[File:paidicon.png|frameless|link=Paid AntiRoach]] x1&lt;br/&gt;[[Paid AntiRoach]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 1 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT Salewa-First-Aid-Kit Icon 2.png|frameless|link=Salewa FIRST AID KIT]]
+[[Salewa FIRST AID KIT]]
+|-
+![[File:Duct tape Icon.png|frameless|link=Duct tape]] x2&lt;br/&gt;[[Duct tape]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 1 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT Car-first-aid-kit Icon.png|frameless|link=Car first aid kit]]
+[[Car first aid kit]]
+|-
+![[File:Cricket lighter Icon.png|frameless|link=Crickent lighter]] x3&lt;br/&gt;[[Crickent lighter]]&lt;br/&gt;+&lt;br/&gt;[[File:Matches Icon.png|frameless|link=Classic matches]] x2&lt;br/&gt;[[Classic matches]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 1 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Pile of meds icon.png|frameless|link=Pile of meds]]
+[[Pile of meds]]
+|-
+![[File:Vita Juice icon.png|frameless|link=Vita juice]] x1&lt;br/&gt;[[Vita juice]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 1 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Slickers bar icon.png|frameless|link=Slickers bar]]
+[[Slickers bar]]
+|-
+![[File:Matches Icon.png|frameless|link=Classic matches]] x1&lt;br/&gt;[[Classic matches]]&lt;br/&gt;+&lt;br/&gt;[[File:Cricket lighter Icon.png|frameless|link=Crickent lighter]] x1&lt;br/&gt;[[Crickent lighter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 1 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Saury icon.png|frameless|link=Can of pacific saury]]
+[[Can of pacific saury]]
+|-
+![[File:Toothpasteicon.png|frameless|link=Toothpaste]] x2&lt;br/&gt;[[Toothpaste]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 1 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Humpback icon.png|frameless|link=Humpback salmon]]
+[[Humpback salmon]]
+|-
+![[File:DisposableSyringeIcon.png|frameless|link=Disposable syringe]] x1&lt;br/&gt;[[Disposable syringe]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 1 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Lunchbox icon.png|frameless|link=Iskra lunch box]]
+[[Iskra lunch box]]
+|-
+![[File:Hydrogen Peroxide icon.png|frameless|link=Hydrogen peroxide]] x1&lt;br/&gt;[[Hydrogen peroxide]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 1 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Water icon.png|frameless|link=0.6L water bottle]]
+[[0.6L water bottle]]
+|-
+![[File:DisposableSyringeIcon.png|frameless|link=Disposable syringe]] x2&lt;br/&gt;[[Disposable syringe]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AluSplintIcon.png|frameless|link=Immobilizing splint (alu)]]
+[[Immobilizing splint (alu)]]
+|-
+![[File:RepellentIcon.png|frameless|link=Repellent]] x2&lt;br/&gt;[[Repellent]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:CMS Icon.png|frameless|link=CMS kit]]
+[[CMS kit]]
+|-
+![[File:Gas Analyzer Icon.png|frameless|link=Gas analyzer]] x1&lt;br/&gt;[[Gas analyzer]]&lt;br/&gt;+&lt;br/&gt;[[File:UV lamp Icon.png|frameless|link=Ultraviolet lamp]] x1&lt;br/&gt;[[Ultraviolet lamp]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT Grizzly Icon.png|frameless|link=Grizzly First Aid Kit]]
+[[Grizzly First Aid Kit]]
+|-
+![[File:Sodium Bicarbonate icon.png|frameless|link=Sodium bicarbonate]] x1&lt;br/&gt;[[Sodium bicarbonate]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT IFAK Icon.png|frameless|link=IFAK personal tactical first aid kit]]
+[[IFAK personal tactical first aid kit]]
+|-
+![[File:DisposableSyringeIcon.png|frameless|link=Disposable syringe]] x1&lt;br/&gt;[[Disposable syringe]]&lt;br/&gt;+&lt;br/&gt;[[File:UV lamp Icon.png|frameless|link=Ultraviolet lamp]] x1&lt;br/&gt;[[Ultraviolet lamp]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Adrenaline Icon.png|frameless|link=Adrenaline injector]]
+[[Adrenaline injector]]
+|-
+![[File:Green Tea icon.png|frameless|link=Green Ice]] x4&lt;br/&gt;[[Green Ice]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EnglishTeaIcon.png|frameless|link=42nd Signature Blend English Tea]]
+[[42nd Signature Blend English Tea]]
+|-
+![[File:Emeyla Croutons.png|frameless|link=Emelya rye croutons]] x1&lt;br/&gt;[[Emelya rye croutons]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Rye Croutons.png|frameless|link=Rye croutons]]
+[[Rye croutons]]
+|-
+![[File:Golden neck chain Icon.png|frameless|link=Golden neck chain]] x4&lt;br/&gt;[[Golden neck chain]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Customs-office-key-Icon.png|frameless|link=Customs office key]]
+[[Customs office key]]
+|-
+![[File:PackOfChlorine icon.png|frameless|link=Pack of chlorine]] x8&lt;br/&gt;[[Pack of chlorine]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:San.221.png|frameless|link=West wing room 221 key]]
+[[West wing room 221 key]]
+|-
+![[File:Purified water icon.png|frameless|link=Purified water]] x1&lt;br/&gt;[[Purified water]]&lt;br/&gt;+&lt;br/&gt;[[File:Pineapple Juice icon.png|frameless|link=Russian Army pineapple juice]] x4&lt;br/&gt;[[Russian Army pineapple juice]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Expeditionary-fuel-tank-icon.png|frameless|link=Expeditionary fuel tank]]
+[[Expeditionary fuel tank]]
+|-
+![[File:Pile of meds icon.png|frameless|link=Pile of meds]] x6&lt;br/&gt;[[Pile of meds]]&lt;br/&gt;+&lt;br/&gt;[[File:DisposableSyringeIcon.png|frameless|link=Disposable syringe]] x2&lt;br/&gt;[[Disposable syringe]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Pistol-Case.png|frameless|link=Pistol case]]
+[[Pistol case]]
+|-
+![[File:Caticon.png|frameless|link=Cat figurine]] x1&lt;br/&gt;[[Cat figurine]]&lt;br/&gt;+&lt;br/&gt;[[File:Bronze Lion Icon.png|frameless|link=Bronze lion]] x1&lt;br/&gt;[[Bronze lion]]&lt;br/&gt;+&lt;br/&gt;[[File:Horse figurine Icon.png|frameless|link=Horse figurine]] x4&lt;br/&gt;[[Horse figurine]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Document-Case.png|frameless|link=Documents case]]
+[[Documents case]]
+|-
+![[File:Hydrogen Peroxide icon.png|frameless|link=Hydrogen peroxide]] x10&lt;br/&gt;[[Hydrogen peroxide]]&lt;br/&gt;+&lt;br/&gt;[[File:Saline Solution icon.png|frameless|link=Saline solution]] x10&lt;br/&gt;[[Saline solution]]&lt;br/&gt;+&lt;br/&gt;[[File:PackOfChlorine icon.png|frameless|link=Pack of chlorine]] x10&lt;br/&gt;[[Pack of chlorine]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Keybar icon.png|frameless|link=Keytool]]
+[[Keytool]]
+|-
+![[File:Medical Bloodset Icon.png|frameless|link=Medical bloodset]] x7&lt;br/&gt;[[Medical bloodset]]&lt;br/&gt;+&lt;br/&gt;[[File:DisposableSyringeIcon.png|frameless|link=Disposable syringe]] x7&lt;br/&gt;[[Disposable syringe]]&lt;br/&gt;+&lt;br/&gt;[[File:EFT Vaseline Icon.png|frameless|link=Vaseline]] x2&lt;br/&gt;[[Vaseline]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Medscaseicon.png|frameless|link=Meds case]]
+[[Meds case]]
+|-
+![[File:Dogtags.png|frameless|link=Dogtag]] x100&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 10]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 2 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Junkbox.png|frameless|link=Lucky Scav Junkbox]]
+[[Lucky Scav Junkbox]]
+|-
+![[File:DisposableSyringeIcon.png|frameless|link=Disposable syringe]] x1&lt;br/&gt;[[Disposable syringe]]&lt;br/&gt;+&lt;br/&gt;[[File:Hydrogen Peroxide icon.png|frameless|link=Hydrogen peroxide]] x1&lt;br/&gt;[[Hydrogen peroxide]]&lt;br/&gt;+&lt;br/&gt;[[File:Sodium Bicarbonate icon.png|frameless|link=Sodium bicarbonate]] x1&lt;br/&gt;[[Sodium bicarbonate]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 3 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Combat stimulant SJ1 icon.png|frameless|link=Combat stimulant injector SJ1 TGLabs]]
+[[Combat stimulant injector SJ1 TGLabs]]
+|-
+![[File:Shampoo icon.png|frameless|link=Schaman shampoo]] x3&lt;br/&gt;[[Schaman shampoo]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 3 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:ETG change icon.png|frameless|link=Regenerative stimulant injector eTG-change]]
+[[Regenerative stimulant injector eTG-change]]
+|-
+![[File:Dogtags.png|frameless|link=Dogtag]] x20&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 39]]&lt;br/&gt;+&lt;br/&gt;[[File:USEC Dogtag Icon.png|frameless|link=Dogtag]] x140&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 10, USEC]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 3 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:TransilluminatorIcon.png|frameless|link=LEDX Skin Transilluminator]]
+[[LEDX Skin Transilluminator]]
+|-
+![[File:Purified water icon.png|frameless|link=Purified water]] x4&lt;br/&gt;[[Purified water]]&lt;br/&gt;+&lt;br/&gt;[[File:Water filter icon.png|frameless|link=Water filter]] x4&lt;br/&gt;[[Water filter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 3 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Rb-ak item.png|frameless|link=RB-AK key]]
+[[RB-AK key]]
+|-
+![[File:Ophthalmoscopeicon.png|frameless|link=Ophthalmoscope]] x20&lt;br/&gt;[[Ophthalmoscope]]&lt;br/&gt;+&lt;br/&gt; [[File:Pile of meds icon.png|frameless|link=Pile of meds]] x15&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 3 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Items case icon.png|frameless|link=Items case]]
+[[Items case]]
+|-
+![[File:USEC Dogtag Icon.png|frameless|link=Dogtag]] x150&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 15]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 3 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Items case icon.png|frameless|link=Items case]]
+[[Items case]]
+|-
+![[File:EFT Augmentin-antibiotic-pills Icon.png|frameless|link=Augmentin antibiotic pills]] x2&lt;br/&gt;[[Augmentin antibiotic pills]]&lt;br/&gt;+&lt;br/&gt;[[File:EFT Vaseline Icon.png|frameless|link=Vaseline]] x2&lt;br/&gt;[[Vaseline]]&lt;br/&gt;+&lt;br/&gt;[[File:Surv12 icon.png|frameless|link=Surv12 field surgical kit]] x2&lt;br/&gt;[[Surv12 field surgical kit]]&lt;br/&gt;+&lt;br/&gt;[[File:Pile of meds icon.png|frameless|link=Pile of meds]] x3&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 3 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:LBT-2670 Icon.png|frameless|link=LBT-2670 Slim Field Med Pack]]
+[[LBT-2670 Slim Field Med Pack]]
+|-
+![[File:Medical Bloodset Icon.png|frameless|link=Medical bloodset]] x1&lt;br/&gt;[[Medical bloodset]]&lt;br/&gt;+&lt;br/&gt;[[File:Pile of meds icon.png|frameless|link=Pile of meds]] x3&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 4 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ibuprofen painkiller icon.png|frameless|link=Ibuprofen painkillers]]
+[[Ibuprofen painkillers]]
+|-
+![[File:Saline Solution icon.png|frameless|link=Saline solution]] x2&lt;br/&gt;[[Saline solution]]&lt;br/&gt;+&lt;br/&gt;[[File:Hydrogen Peroxide icon.png|frameless|link=Hydrogen peroxide]] x1&lt;br/&gt;[[Hydrogen peroxide]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 4 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Combat stimulant SJ6 icon.png|frameless|link=Combat stimulant injector SJ6 TGLabs]]
+[[Combat stimulant injector SJ6 TGLabs]]
+|-
+![[File:Pile of meds icon.png|frameless|link=Pile of meds]] x6&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 4 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Sugar icon.png|frameless|link=Pack of sugar]]
+[[Pack of sugar]]
+|-
+![[File:condmilkicon.png|frameless|link=Condensed milk]] x60&lt;br/&gt;[[Condensed milk]]&lt;br/&gt;+&lt;br/&gt;[[File:Oatflakes icon.png|frameless|link=Pack of oat flakes]] x10&lt;br/&gt;[[Pack of oat flakes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 4 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:KibaKeyIcon.png|frameless|link=Key to KIBA store outlet]]
+[[Key to KIBA store outlet]]
+|-
+![[File:Golden neck chain Icon.png|frameless|link=Golden neck chain]] x5&lt;br/&gt;[[Golden neck chain]]&lt;br/&gt;+&lt;br/&gt;[[File:Roler icon.png|frameless|link=Roler submariner gold wrist watch]] x2&lt;br/&gt;[[Roler submariner gold wrist watch]]&lt;br/&gt;+&lt;br/&gt;[[File:SkullRing Icon.png|frameless|link=Gold skull ring]] x2&lt;br/&gt;[[Gold skull ring]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 4 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Money case icon.png|frameless|link=Money case]]
+[[Money case]]
+|-
+![[File:Defibrillatoricon.png|frameless|link=Portable defibrillator]] x15&lt;br/&gt;[[Portable defibrillator]]&lt;br/&gt;+&lt;br/&gt;[[File:TransilluminatorIcon.png|frameless|link=LEDX Skin Transilluminator]] x15&lt;br/&gt;[[LEDX Skin Transilluminator]]&lt;br/&gt;+&lt;br/&gt;[[File:Ibuprofen painkiller icon.png|frameless|link=Ibuprofen painkillers]] x15&lt;br/&gt;[[Ibuprofen painkillers]]&lt;br/&gt;+&lt;br/&gt;[[File:Toothpasteicon.png|frameless|link=Toothpaste]] x15&lt;br/&gt;[[Toothpaste]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 4 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:THICCItemsCaseTrade.png|frameless|link=T H I C C Items case]]
+[[T H I C C Items case]]
+|-
+![[File:Fiece hatchling moonshine icon.png|frameless|link="Fierce Hatchling" moonshine]] x50&lt;br/&gt;[["Fierce Hatchling" moonshine]]&lt;br/&gt;+&lt;br/&gt;[[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x35&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]&lt;br/&gt;+&lt;br/&gt;[[File:Whiskey icon.png|frameless|link=Bottle of Dan Jackiel Whiskey]] x30&lt;br/&gt;[[Bottle of Dan Jackiel Whiskey]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Therapist 4 icon.png|frameless|link=Therapist]]&lt;br/&gt;[[Therapist|Therapist LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:THICCItemsCaseTrade.png|frameless|link=T H I C C Items case]]
+[[T H I C C Items case]]
+|}
+
+===Skier===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Trade
+!colspan =3 style="width:Auto;"| Loyalty Requirement
+!style="width:Auto;"|Item
+|-
+![[File:DVD drive Icon.png|frameless|link=DVD drive]] x1&lt;br/&gt;[[DVD drive]]&lt;br/&gt;+&lt;br/&gt;[[File:Wiresicon.png|frameless|link=Wires]] x1&lt;br/&gt;[[Wires]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 1 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:rp-1icon.png|frameless|link=Zenit RP-1 charge handle for AK]]
+[[Zenit RP-1 charge handle for AK]]
+|-
+![[File:Horse figurine Icon.png|frameless|link=Horse figurine]] x2&lt;br/&gt;[[Horse figurine]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 1 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:VPO 136 icon.png|frameless|link=Vepr KM / VPO-136 7.62x39 carbine]]
+[[Vepr KM / VPO-136 7.62x39 carbine]]
+|-
+![[File:Caticon.png|frameless|link=Cat figurine]] x1&lt;br/&gt;[[Cat figurine]]&lt;br/&gt;+&lt;br/&gt;[[File:Pompon hat icon.png|frameless|link=Pompon hat]] x1&lt;br/&gt;[[Pompon hat]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 1 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Zhuk-3 Press armor icon.png|frameless|link=Zhuk-3 Press armor]]
+[[Zhuk-3 Press armor]]
+|-
+![[File:Yotota-car-key-Icon.png|frameless|link=Yotota car key]] x1&lt;br/&gt;[[Yotota car key]]&lt;br/&gt;+&lt;br/&gt;[[File:Car-key-Icon.png|frameless|link=Car key]] x1&lt;br/&gt;[[Car key]]&lt;br/&gt;+&lt;br/&gt;[[File:Sixpack-Key-Icon.png|frameless|link=VAZ key]] x1&lt;br/&gt;[[VAZ key]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 1 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MP 153 icon.png|frameless|link=MP-153 12ga semi-automatic shotgun]]
+[[MP-153 12ga semi-automatic shotgun]]
+|-
+![[File:Cigred.png|frameless|link=Strike Cigarettes]] x1&lt;br/&gt;[[Strike Cigarettes]]&lt;br/&gt;+&lt;br/&gt;[[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x1&lt;br/&gt;[[Weapon parts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 2 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Magex G30 magazine for Glock 45 ACP icon.png|frameless|link=Magex G30 magazine for Glock .45 ACP]]
+[[Magex G30 magazine for Glock .45 ACP]]
+|-
+![[File:Wooden clock icon.png|frameless|link=Wooden clock]] x1&lt;br/&gt;[[Wooden clock]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 2 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Hexagon12kicon.png|frameless|link=Hexagon 12K sound suppressor]]
+[[Hexagon 12K sound suppressor]]
+|-
+![[File:Coffeicon.png|frameless|link=Coffee Majaica]] x1&lt;br/&gt;[[Coffee Majaica]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 2 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Icon Rotor43 9.19.png|frameless|link=Rotor 43 9x19 muzzle brake]]
+[[Rotor 43 9x19 muzzle brake]]
+|-
+![[File:Broken GPhone x Icon.png|frameless|link=Broken GPhone X]] x2&lt;br/&gt;[[Broken GPhone X]]&lt;br/&gt;+&lt;br/&gt;[[File:1gphone icon.png|frameless|link=Golden 1GPhone]] x1&lt;br/&gt;[[Golden 1GPhone]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 2 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MCX Icon.png|frameless|link=SIG MCX .300 AAC Blackout Assault Rifle]]
+[[SIG MCX .300 AAC Blackout Assault Rifle]]
+|-
+![[File:T-Shaped Plug Icon.png|frameless|link=T-Shaped Plug]] x1&lt;br/&gt;[[T-Shaped Plug]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 3 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL3]]&lt;br/&gt;After completing his task&lt;br/&gt;[[Bullshit]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:DippAmmoboxicon.png|frameless|link=5 pcs. 12x70 DIPP ammo box]]
+[[5 pcs. 12x70 DIPP ammo box]]
+|-
+![[File:NIXXOR lens icon.png|frameless|link=NIXXOR lens]] x1&lt;br/&gt;[[NIXXOR lens]]&lt;br/&gt;+&lt;br/&gt;[[File:AA Battery Icon 2.png|frameless|link=AA Battery]] x1&lt;br/&gt;[[AA Battery]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 3 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Rotor43vpo.png|frameless|link=Rotor 43 7.62x51 muzzle brake for VPO-101]]
+[[Rotor 43 7.62x51 muzzle brake for VPO-101]]
+|-
+![[File:USEC Dogtag Icon.png|frameless|link=Dogtag]] x5&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 2, USEC]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 3 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:553icon.png|frameless|link=Eotech 553 holographic sight]]
+[[Eotech 553 holographic sight]]
+|-
+![[File:USEC Dogtag Icon.png|frameless|link=Dogtag]] x5&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 20, USEC]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 3 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:ff3-12icon.png|frameless|link=Hensoldt FF 4-16x56 scope]]
+[[Hensoldt FF 4-16x56 scope]]
+|-
+![[File:Broken GPhone x Icon.png|frameless|link=Broken GPhone X]] x2&lt;br/&gt;[[Broken GPhone X]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 3 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:1 6 vudu icon.png|frameless|link=EOtech Vudu 1-6 riflescope]]
+[[EOtech Vudu 1-6 riflescope]]
+|-
+![[File:Chainlet icon.png|frameless|link=Chainlet]] x3&lt;br/&gt;[[Chainlet]]&lt;br/&gt;+&lt;br/&gt;[[File:Vaseicon.png|frameless|link=Antique vase]] x1&lt;br/&gt;[[Antique vase]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 3 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skeletonized AR-15 pistol grip Icon.png|frameless|link=Skeletonized AR-15 pistol grip]]
+[[Skeletonized AR-15 pistol grip]]
+|-
+![[File:Horse figurine Icon.png|frameless|link=Horse figurine]] x5&lt;br/&gt;[[Horse figurine]]&lt;br/&gt;+&lt;br/&gt;[[File:Teapot icon.png|frameless|link=Antique teapot]] x1&lt;br/&gt;[[Antique teapot]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 3 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:DVL-10 Saboteur icon.png|frameless|link=DVL-10 Saboteur sniper rifle]]
+[[DVL-10 Saboteur sniper rifle]]
+|-
+![[File:Cigred.png|frameless|link=Strike Cigarettes]] x1&lt;br/&gt;[[Strike Cigarettes]]&lt;br/&gt;+&lt;br/&gt;[[File:Wilstonicon.png|frameless|link=Wilston cigarettes]] x1&lt;br/&gt;[[Wilston cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 4 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL4]]&lt;br/&gt;After completing his task&lt;br/&gt;[[Setup]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:DippAmmobox20icon.png|frameless|link=20 pcs. 9x19 mm DIPP ammo box]]
+[[20 pcs. 9x19 mm DIPP ammo box]]
+|-
+![[File:BEAR Dogtag Icon.png|frameless|link=Dogtag]] x4&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 20, BEAR]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 4 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:tgp-aicon.png|frameless|link=TGP-A 5.45x39 muzzle device/suppressor]]
+[[TGP-A 5.45x39 muzzle device/suppressor]]
+|-
+![[File:Raven figurine icon.png|frameless|link=Raven figurine]] x1&lt;br/&gt;[[Raven figurine]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 4 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Sig-SauerSRDQDSuppressoricon.png|frameless|link=Sig-Sauer SRD QD 7.62x51 Sound Suppressor]]
+[[Sig-Sauer SRD QD 7.62x51 Sound Suppressor]]
+|-
+![[File:Wooden clock icon.png|frameless|link=Wooden clock]] x4&lt;br/&gt;[[Wooden clock]]&lt;br/&gt;+&lt;br/&gt;[[File:Roler icon.png|frameless|link=Roler submariner gold wrist watch]] x4&lt;br/&gt;[[Roler submariner gold wrist watch]]&lt;br/&gt;+&lt;br/&gt;[[File:SkullRing Icon.png|frameless|link=Gold skull ring]] x6&lt;br/&gt;[[Gold skull ring]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 4 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Thermalicon.png|frameless|link=Trijicon REAP-IR thermal riflescope]]
+[[Trijicon REAP-IR thermal riflescope]]
+|-
+![[File:Mil Filter Icon.png|frameless|link=Military power filter]] x1&lt;br/&gt;[[Military power filter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 4 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:DVL-10 Urbana.png|frameless|link=DVL-10 Saboteur sniper rifle]]
+[[DVL-10 Saboteur sniper rifle]]
+|-
+![[File:COFDM Icon.png|frameless|link=Military COFDM wireless Signal Transmitter]] x2&lt;br/&gt;[[Military COFDM wireless Signal Transmitter]]&lt;br/&gt;+&lt;br/&gt;[[File:Checkpoint Key icon.png|frameless|link=Military base checkpoint key]] x1&lt;br/&gt;[[Military base checkpoint key]]&lt;br/&gt;+&lt;br/&gt;[[File:Prokill medallion Icon.png|frameless|link=Chain with Prokill medallion]] x2&lt;br/&gt;[[Chain with Prokill medallion]]&lt;br/&gt;+&lt;br/&gt;[[File:Phased-Array-Element-icon.png|frameless|link=Phased array element]] x2&lt;br/&gt;[[Phased array element]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 4 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL4]]&lt;br/&gt;After completing his task&lt;br/&gt;[[Flint]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:m2swordtradeicon.png|frameless|link=Miller Bros. Blades M-2 Tactical Sword]]
+[[Miller Bros. Blades M-2 Tactical Sword]]
+|-
+![[File:Fiece hatchling moonshine icon.png|frameless|link="Fierce Hatchling" moonshine]] x10&lt;br/&gt;[["Fierce Hatchling" moonshine]]&lt;br/&gt;+&lt;br/&gt;[[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x10&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]&lt;br/&gt;+&lt;br/&gt;[[File:Slickers bar icon.png|frameless|link=Slickers bar]] x5&lt;br/&gt;[[Slickers bar]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Skier 4 icon.png|frameless|link=Skier]]&lt;br/&gt;[[Skier|Skier LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Weapon case icon.png|frameless|link=Weapon case]]
+[[Weapon case]]
+|}
+
+===Peacekeeper===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Trade
+!colspan =3 style="width:Auto;"| Loyalty Requirement
+!style="width:Auto;"|Item
+|-
+![[File:Zibbo lighter Icon.png|frameless|link=Zibbo lighter]] x2&lt;br/&gt;[[Zibbo lighter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 1 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:m67icon.png|frameless|link=M67 Hand grenade]]
+[[M67 Hand grenade]]
+|-
+![[File:Malboro Cigarettes Icon.png|frameless|link=Malboro Cigarettes]] x1&lt;br/&gt;[[Malboro Cigarettes]]&lt;br/&gt;+&lt;br/&gt;[[File:Cricket lighter Icon.png|frameless|link=Crickent lighter]] x2&lt;br/&gt;[[Crickent lighter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 1 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:UMP Magazine Icon.png|frameless|link=Standard UMP 25-round .45 ACP magazine]]
+[[Standard UMP 25-round .45 ACP magazine]]
+|-
+![[File:PC CPU Icon.png|frameless|link=PC CPU]] x3&lt;br/&gt;[[PC CPU]]&lt;br/&gt;+&lt;br/&gt;[[File:CPU Fan Icon.png|frameless|link=CPU Fan]] x3&lt;br/&gt;[[CPU Fan]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 1 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M4standardtrade.png|frameless|link=Colt M4A1 5.56x45 Assault Rifle]]
+[[Colt M4A1 5.56x45 Assault Rifle]]
+|-
+![[File:Damascusknifeicon.png|frameless|link=Bars A-2607- Damascus]] x4&lt;br/&gt;[[Bars A-2607- Damascus]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 1 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:P226R icon.png|frameless|link=P226R 9x19 pistol]]
+[[P226R 9x19 pistol]]
+|-
+![[File:A-2607 Bars.png|frameless|link=Bars A-2607- 95x18]] x8&lt;br/&gt;[[Bars A-2607- 95x18]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 1 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MP5 icon.png|frameless|link=HK MP5 9x19 submachinegun (Navy 3 Round Burst)]]
+[[HK MP5 9x19 submachinegun (Navy 3 Round Burst)]]
+|-
+![[File:Dogtags.png|frameless|link=Dogtag]] x7&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 8]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 1 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mpxtrade.png|frameless|link=SIG MPX 9x19 Submachine gun]]
+[[SIG MPX 9x19 Submachine gun]]
+|-
+![[File:Damaged Hard Drive Icon.png|frameless|link=Damaged hard drive]] x1&lt;br/&gt;[[Damaged hard drive]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 1 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Flyye MBSS Backpack.png|frameless|link=Flyye MBSS Backpack]]
+[[Flyye MBSS Backpack]]
+|-
+![[File:Damaged Hard Drive Icon.png|frameless|link=Damaged hard drive]] x1&lt;br/&gt;[[Damaged hard drive]]&lt;br/&gt;+&lt;br/&gt;[[File:DVD drive Icon.png|frameless|link=DVD drive]] x1&lt;br/&gt;[[DVD drive]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 1 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Day pack icon.PNG|frameless|link=LBT-8005A Day Pack backpack]]
+[[LBT-8005A Day Pack backpack]]
+|-
+![[File:Gas Analyzer Icon.png|frameless|link=Gas analyzer]] x1&lt;br/&gt;[[Gas analyzer]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 2 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Standard 9x19 30-round magazine for MP9 icon.png|frameless|link=Standard 9x19 30-round magazine for MP9]]
+[[Standard 9x19 30-round magazine for MP9]]
+|-
+![[File:Whiskey icon.png|frameless|link=Bottle of Dan Jackiel Whiskey]] x1&lt;br/&gt;[[Bottle of Dan Jackiel Whiskey]]&lt;br/&gt;+&lt;br/&gt;[[File:Sas icon.png|frameless|link=SAS drive]] x1&lt;br/&gt;[[SAS drive]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 2 icon.png|frameless]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Bravo4icon.png|frameless|link=Sig BRAVO4 4X30 Scope]]
+[[Sig BRAVO4 4X30 Scope]]
+|-
+![[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x1&lt;br/&gt;[[Weapon parts]]&lt;br/&gt;+&lt;br/&gt;[[File:WD40 100ml Icon.png|frameless|link=WD-40 100ml.]] x1&lt;br/&gt;[[WD-40 100ml.]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 2 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:UTG4Icon.png|frameless|link=M14 UTG 4 point locking deluxe mount]]
+[[M14 UTG 4 point locking deluxe mount]]
+|-
+![[File:Damaged Hard Drive Icon.png|frameless|link=Damaged hard drive]] x3&lt;br/&gt;[[Damaged hard drive]]&lt;br/&gt;+&lt;br/&gt;[[File:ramicon.png|frameless|link=RAM]] x2&lt;br/&gt;[[RAM]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 2 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SA-58 AUS.png|frameless|link=DS Arms SA-58 7.62x51]]
+[[DS Arms SA-58 7.62x51]]
+|-
+![[File:MGT Icon.png|frameless|link=Military gyrotachometer]] x1&lt;br/&gt;[[Military gyrotachometer]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 2 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Five-seveN FDE icon.png|frameless|link=FN Five-seveN MK2 5.7x28 pistol]]
+[[FN Five-seveN MK2 5.7x28 pistol]]
+|-
+![[File:Mil Batt icon.png|frameless|link=6-STEN-140-M military battery]] x1&lt;br/&gt;[[6-STEN-140-M military battery]]&lt;br/&gt;+&lt;br/&gt;[[File:Mil thervis.png|frameless|link=Military thermal vision module Iridium]] x3&lt;br/&gt;[[Military thermal vision module Iridium]]&lt;br/&gt;+&lt;br/&gt;[[File:Virtex programmable processor Icon.png|frameless|link=Virtex programmable processor]] x2&lt;br/&gt;[[Virtex programmable processor]]&lt;br/&gt;+&lt;br/&gt;[[File:MilitaryCableIcon.png|frameless|link=Military cable]] x3&lt;br/&gt;[[Military cable]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 2 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Beta icon.png|frameless|link=Secure container Beta]]
+[[Secure container Beta]]
+|-
+![[File:D Size Battery Icon.png|frameless|link=D Size Battery]] x4&lt;br/&gt;[[D Size Battery]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Warmage.png|frameless|link=20 pcs pack 5.56x45 Warmage ammo]]
+[[20 pcs pack 5.56x45 Warmage ammo]]
+|-
+![[File:Circuit Icon.png|frameless|link=Printed circuit board]] x2&lt;br/&gt;[[Printed circuit board]]&lt;br/&gt;+&lt;br/&gt;[[File:Geiger-Mueller counter Icon.png|frameless|link=Geiger-Muller counter]] x1&lt;br/&gt;[[Geiger-Muller counter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:STANAG magazine 60-round MAG5 -5.56x45.png|frameless|link=60-round MAG5-60 5.56x45 STANAG magazine]]
+[[60-round MAG5-60 5.56x45 STANAG magazine]]
+|-
+![[File:Airfiltericon.png|frameless|link=Air filter for gas mask]] x1&lt;br/&gt;[[Air filter for gas mask]]&lt;br/&gt;+&lt;br/&gt;[[File:GreenBat Icon.png|frameless|link=GreenBat lithium battery]] x2&lt;br/&gt;[[GreenBat lithium battery]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]&lt;br/&gt;After completing his task&lt;br/&gt; [[Wet Job - Part 2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Magpul PMAG D-60.png|frameless|link=Magpul PMAG D-60 5.56x45 60-round magazine]]
+[[Magpul PMAG D-60 5.56x45 60-round magazine]]
+|-
+![[File:Fiece hatchling moonshine icon.png|frameless|link="Fierce Hatchling" moonshine]] x1&lt;br/&gt;[["Fierce Hatchling" moonshine]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:gpnvgicon.png|frameless|link=GPNVG-18 Night Vision]]
+[[GPNVG-18 Night Vision]]
+|-
+![[File:BEAR Dogtag Icon.png|frameless|link=Dogtag]] x9&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 25, BEAR]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Gpnvgicon.png|frameless|link=GPNVG-18 Night Vision]]
+[[GPNVG-18 Night Vision]]
+|-
+![[File:Diary Icon1.png|frameless|link=Diary]] x4&lt;br/&gt;[[Diary]]&lt;br/&gt;+&lt;br/&gt;[[File:SlimDiaryIcon.png|frameless|link=Slim diary]] x4&lt;br/&gt;[[Slim diary]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FolderWithIntelligence Icon.png|frameless|link=Folder with intelligence]]
+[[Folder with intelligence]]
+|-
+![[File:Gp coin icon.png|frameless|link=GP coin]] x6&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;	
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]
+!&lt;big&gt;→&lt;/big&gt;	
+![[File:AK-74N Magpul.png|frameless|link=AK-74N 5.45x39 assault rifle]]
+[[AK-74N 5.45x39 assault rifle]]
+|-
+![[File:BEAR Dogtag Icon.png|frameless|link=Dogtag]] x10&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 30, BEAR]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EXFIL Icon Black.png|frameless|link=Team Wendy EXFIL Ballistic Helmet]]
+[[Team Wendy EXFIL Ballistic Helmet]]
+|-
+![[File:BEAR Dogtag Icon.png|frameless|link=Dogtag]] x8&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 15, Bear]]&lt;br/&gt;+&lt;br/&gt;[[File:USEC Dogtag Icon.png|frameless|link=Dogtag]] x8&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 15, USEC]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Rsassstandardtrade.png|frameless|link=Remington R11 RSASS 7.62x51]]
+[[Remington R11 RSASS 7.62x51]]
+|-
+![[File:MilitaryCableIcon.png|frameless|link=Military cable]] x2&lt;br/&gt;[[Military cable]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:P90SBR icon.png|frameless|link=FN P90 5.7x28 submachinegun]]
+[[FN P90 5.7x28 submachinegun]]
+|-
+![[File:USB Adapter Icon.png|frameless|link=USB Adapter]] x10&lt;br/&gt;[[USB Adapter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 3 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M1ATrade.png|frameless|link=Springfield Armory M1A 7.62x51]]
+[[Springfield Armory M1A 7.62x51]]
+|-
+![[File:Whiskey icon.png|frameless|link=Bottle of Dan Jackiel Whiskey]] x3&lt;br/&gt;[[Bottle of Dan Jackiel Whiskey]]&lt;br/&gt;+&lt;br/&gt;[[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x1&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 4 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M4modded.png|frameless|link=Colt M4A1 5.56x45 Assault Rifle]]
+[[Colt M4A1 5.56x45 Assault Rifle]]
+|-
+![[File:VPXFlashIcon.png|frameless|link=VPX Flash Storage Module]] x1&lt;br/&gt;[[VPX Flash Storage Module]]&lt;br/&gt;+&lt;br/&gt;[[File:MilitaryCircuitBoardIcon.png|frameless|link=Military circuit board]] x5&lt;br/&gt;[[Military circuit board]]&lt;br/&gt;+&lt;br/&gt;[[File:MilitaryCableIcon.png|frameless|link=Military cable]] x5&lt;br/&gt;[[Military cable]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 4 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GL40barter.png|frameless|link=FN GL40 Mk.2 grenade launcher]]
+[[FN GL40 Mk.2 grenade launcher]]
+|-
+![[File:1gphone icon.png|frameless|link=Golden 1GPhone]] x1&lt;br/&gt;[[Golden 1GPhone]] &lt;br/&gt; [[File:PC CPU Icon.png|frameless|link=PC CPU]] x1&lt;br/&gt;[[PC CPU]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 4 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:CryeAirframeChops icon.png|frameless|link=Crye Airframe Chops]]
+[[Crye Airframe Chops]]
+|-
+![[File:Broken GPhone x Icon.png|frameless|link=Broken GPhone X]] x1&lt;br/&gt;[[Broken GPhone X]]&lt;br/&gt;+&lt;br/&gt; [[File:PowerbankIcon.png|frameless|link=Powerbank]] x1&lt;br/&gt;[[Powerbank]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Peacekeeper 4 icon.png|frameless|link=Peacekeeper]]&lt;br/&gt;[[Peacekeeper|Peacekeeper LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:HKMP7A2Icon.png|frameless|link=HK MP7A2 4.6x30 submachinegun]]
+[[HK MP7A2 4.6x30 submachinegun]]
+|}
+
+===Mechanic===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Trade
+!colspan =3 style="width:Auto;"| Loyalty Requirement
+!style="width:Auto;"|Item
+|-
+![[File:Fuze icon.png|frameless|link=UZRGM grenade fuze]] x1&lt;br/&gt;[[UZRGM grenade fuze]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Vog-17 icon.png|frameless|link=VOG-17 Khattabka grenade]]
+[[VOG-17 Khattabka grenade]]
+|-
+![[File:Electric Drill icon.png|frameless|link=Electric drill]] x1&lt;br/&gt;[[Electric drill]]&lt;br/&gt;+&lt;br/&gt;[[File:Broken GPhone Icon.png|frameless|link=Broken GPhone]] x1&lt;br/&gt;[[Broken GPhone]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Vulcan MG night scope 3.5x Icon.png|frameless|link=Vulcan MG night scope 3.5x]]
+[[Vulcan MG night scope 3.5x]]
+|-
+![[File:Broken GPhone Icon.png|frameless|link=Broken GPhone]] x2&lt;br/&gt;[[Broken GPhone]]&lt;br/&gt;+&lt;br/&gt;[[File:Lcd-icon.PNG|frameless|link=Broken LCD]] x3&lt;br/&gt;[[Broken LCD]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:PVS-14 Icon.png|frameless|link=AN/PVS-14 Night Vision Monocular]]
+[[AN/PVS-14 Night Vision Monocular]]
+|-
+![[File:Construction Measuring Tape Icon.png|frameless|link=Construction measuring tape]] x1&lt;br/&gt;[[Construction measuring tape]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Magpul MLOK 2 5 inch rail Icon.png|frameless|link=Magpul M-LOK 2.5 inch guide]]
+[[Magpul M-LOK 2.5 inch guide]]
+|-
+![[File:USB Adapter Icon.png|frameless|link=USB Adapter]] x1&lt;br/&gt;[[USB Adapter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Magpul MLOK 4 1 inch rail Icon.png|frameless|link=Magpul M-LOK 4.1 inch guide]]
+[[Magpul M-LOK 4.1 inch guide]]
+|-
+![[File:Damaged Hard Drive Icon.png|frameless|link=Damaged hard drive]] x1&lt;br/&gt;[[Damaged hard drive]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:custommp133.png|frameless|link=Custom plastic MP-133 forestock with mounts]]
+[[Custom plastic MP-133 forestock with mounts]]
+|-
+![[File:GreenBat Icon.png|frameless|link=GreenBat lithium battery]] x1&lt;br/&gt;[[GreenBat lithium battery]]&lt;br/&gt;+&lt;br/&gt;[[File:D Size Battery Icon.png|frameless|link=D Size Battery]] x2&lt;br/&gt;[[D Size Battery]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:B-11hg.png|frameless|link=B-11 AKS-74U Handguard]]
+[[B-11 AKS-74U Handguard]]
+|-
+![[File:Tetriz icon.png|frameless|link=Tetriz portable game]] x1&lt;br/&gt;[[Tetriz portable game]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Bitcoin icon.png|frameless|link=Physical bitcoin]]
+[[Physical bitcoin]]
+|-
+![[File:Wiresicon.png|frameless|link=Wires]] x1&lt;br/&gt;[[Wires]]&lt;br/&gt;+&lt;br/&gt;[[File:Capacitorsicon.png|frameless|link=Capacitors]] x2&lt;br/&gt;[[Capacitors]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:TTBrunner.png|frameless|link=TT pistol 7.62x25 TT]]
+[[TT pistol 7.62x25 TT]]
+|-
+![[File:Cow boy hat icon.png|frameless|link=Kinda cowboy hat]] x3&lt;br/&gt;[[Kinda cowboy hat]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GLOCK17 Tac 3.png|frameless|link=GLOCK 17 9x19 pistol]]
+[[GLOCK 17 9x19 pistol]]
+|-
+![[File:PliersElite.png|frameless|link=Pliers Elite]] x2&lt;br/&gt;[[Pliers Elite]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwdriver Icon.png|frameless|link=Screwdriver]] x1&lt;br/&gt;[[Screwdriver]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MR-133 Tactical.png|frameless|link=MP-133 12ga shotgun]]
+[[MP-133 12ga shotgun]]
+|-
+![[File:Plier Icon.png|frameless|link=Pliers]] x1&lt;br/&gt;[[Pliers]]&lt;br/&gt;+&lt;br/&gt;[[File:Nippers small.png|frameless|link=Nippers]] x1&lt;br/&gt;[[Nippers]]&lt;br/&gt;+&lt;br/&gt;[[File:RoundPliersIcon.png|frameless|link=Round pliers]] x1&lt;br/&gt;[[Round pliers]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:PliersElite.png|frameless|link=Pliers Elite]]
+[[Pliers Elite]]
+|-
+![[File:DVD drive Icon.png|frameless|link=DVD drive]] x5&lt;br/&gt;[[DVD drive]]&lt;br/&gt;+&lt;br/&gt;[[File:UV lamp Icon.png|frameless|link=Ultraviolet lamp]] x5&lt;br/&gt;[[Ultraviolet lamp]]&lt;br/&gt;+&lt;br/&gt;[[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x2&lt;br/&gt;[[Weapon parts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MPX MQB.png|frameless|link=SIG MPX 9x19 Submachine gun]]
+[[SIG MPX 9x19 Submachine gun]]
+|-
+![[File:Plier Icon.png|frameless|link=Pliers]] x1&lt;br/&gt;[[Pliers]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwdriver Icon.png|frameless|link=Screwdriver]] x1&lt;br/&gt;[[Screwdriver]]&lt;br/&gt;+&lt;br/&gt;[[File:Wrench Icon.png|frameless|link=Wrench]] x1&lt;br/&gt;[[Wrench]]&lt;br/&gt;+&lt;br/&gt;[[File:Insulating tape Icon.png|frameless|link=Insulating tape]] x1&lt;br/&gt;[[Insulating tape]]&lt;br/&gt;+&lt;br/&gt;[[File:Construction Measuring Tape Icon.png|frameless|link=Construction measuring tape]] x1&lt;br/&gt;[[Construction measuring tape]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Toolsicon.png|frameless|link=A set of tools]]
+[[A set of tools]]
+|-
+![[File:Roler icon.png|frameless|link=Roler submariner gold wrist watch]] x1&lt;br/&gt;[[Roler submariner gold wrist watch]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:PP-19-01 Zenit.png|frameless|link=Submachinegun PP-19-01 Vityaz-SN 9x19]]
+[[Submachinegun PP-19-01 Vityaz-SN 9x19]]
+|-
+![[File:Working LCD Icon.png|frameless|link=Working LCD]] x5&lt;br/&gt;[[Working LCD]]&lt;br/&gt;+&lt;br/&gt;[[File:NIXXOR lens icon.png|frameless|link=NIXXOR lens]] x1&lt;br/&gt;[[NIXXOR lens]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MP7BitcoinIcon.png|frameless|link=HK MP7A1 4.6x30 submachinegun]]
+[[HK MP7A1 4.6x30 submachinegun]]
+|-
+![[File:Gp coin icon.png|frameless|link=GP coin]] x5&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:HeadLockTrade.png|frameless|link=Wilcox Skull Lock head mount]]
+[[Wilcox Skull Lock head mount]]
+|-
+![[File:DVD drive Icon.png|frameless|link=DVD drive]] x1&lt;br/&gt;[[DVD drive]]&lt;br/&gt;+&lt;br/&gt;[[File:Damaged Hard Drive Icon.png|frameless|link=Damaged hard drive]] x1&lt;br/&gt;[[Damaged hard drive]]&lt;br/&gt;+&lt;br/&gt;[[File:Capacitorsicon.png|frameless|link=Capacitors]] x2&lt;br/&gt;[[Capacitors]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:UMP45 Icon.png|frameless|link=HK UMP 45 submachinegun]]
+[[HK UMP 45 submachinegun]]
+|-
+![[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x5&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x2&lt;br/&gt;[[Gunpowder "Eagle"]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 1 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ammocaseicon.png|frameless|link=Ammo case]]
+[[Ammo case]]
+|-
+![[File:Chainlet icon.png|frameless|link=Chainlet]] x2&lt;br/&gt;[[Chainlet]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Makarovdrumicon.png|frameless|link=PM/PPSH 9x18PM 84-round drum mag for PM]]
+[[PM/PPSH 9x18PM 84-round drum mag for PM]]
+|-
+![[File:Fuelcondicon.png|frameless|link=Fuel conditioner]] x1&lt;br/&gt;[[Fuel conditioner]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mp5drumicon.png|frameless|link=X Products X-5 MP5 50-round 9x19 magazine]]
+[[X Products X-5 MP5 50-round 9x19 magazine]]
+|-
+![[File:PoxeramIcon.png|frameless|link=Tube of Poxeram Cold Welding]] x2&lt;br/&gt;[[Tube of Poxeram Cold Welding]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:glockdrumicon.png|frameless|link=SGMT Drum mag for Glock 9x19, 50 rounds capacity]]
+[[SGMT Drum mag for Glock 9x19, 50 rounds capacity]]
+|-
+![[File:T-Shaped Plug Icon.png|frameless|link=T-Shaped Plug]] x6&lt;br/&gt;[[T-Shaped Plug]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles icon.png|frameless|link=ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles]]
+[[ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles|ProMag AK-A-16 73-round 7.62x39 magazine for AKM]]
+|-
+![[File:ramicon.png|frameless|link=RAM]] x4&lt;br/&gt;[[RAM]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Hybrid46icon.png|frameless|link=Silencerco Hybrid 46 multi-caliber silencer]]
+[[Silencerco Hybrid 46 multi-caliber silencer]]
+|-
+![[File:Electric Drill icon.png|frameless|link=Electric drill]] x1&lt;br/&gt;[[Electric drill]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Osprey9icon.png|frameless|link=SilencerCo Osprey 9 9x19mm sound suppressor]]
+[[SilencerCo Osprey 9 9x19mm sound suppressor]]
+|-
+![[File:ssd icon.png|frameless|link=SSD drive]] x2&lt;br/&gt;[[SSD drive]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SpectreDR Icon.gif|frameless|link=ELCAN SpecterDR 1x/4x Scope]]
+[[ELCAN SpecterDR 1x/4x Scope|ELCAN SpecterDR 1x/4x Scope FDE]]
+|-
+![[File:Wilstonicon.png|frameless|link=Wilston cigarettes]] x1&lt;br/&gt;[[Wilston cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:botlicon.png|frameless|link=Badger Ordnance Tactical Charging Handle Latch]]
+[[Badger Ordnance Tactical Charging Handle Latch]]
+|-
+![[File:Circuit Icon.png|frameless|link=Printed circuit board]] x3&lt;br/&gt;[[Printed circuit board]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M14 Ultimak M8 upper part.png|frameless|link=M14 Ultimak M8 upper part]]
+[[M14 Ultimak M8 upper part]]
+|-
+![[File:DVD drive Icon.png|frameless|link=DVD drive]] x2&lt;br/&gt;[[DVD drive]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:KH-F Icon.png|frameless|link=34mm one piece magmount made by I-E-A Mil Optics]]
+[[34mm one piece magmount made by I-E-A Mil Optics]]
+|-
+![[File:AA Battery Icon 2.png|frameless|link=AA Battery]] x2&lt;br/&gt;[[AA Battery]]&lt;br/&gt;+&lt;br/&gt;[[File:D Size Battery Icon.png|frameless|link=D Size Battery]] x2&lt;br/&gt;[[D Size Battery]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:m870stockmagpulicon.png|frameless|link=SGA stock for M870]]
+[[SGA stock for M870]]
+|-
+![[File:Wd-40400icon.png|frameless|link=WD-40 400ml]] x1&lt;br/&gt;[[WD-40 400ml]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:glshockstockicon.png|frameless|link=Fab Defence GL Shock Stock]]
+[[Fab Defence GL Shock Stock]]
+|-
+![[File:Malboro Cigarettes Icon.png|frameless|link=Malboro Cigarettes]] x3&lt;br/&gt;[[Malboro Cigarettes]]&lt;br/&gt;+&lt;br/&gt;[[File:Apollon Soyuz cigarettes Icon.png|frameless|link=Apollon Soyuz cigarettes]] x2&lt;br/&gt;[[Apollon Soyuz cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:260mmm4icon.png|frameless|link=260mm barrel for AR-15 and compatible 5.56x45]]
+[[260mm barrel for AR-15 and compatible 5.56x45]]
+|-
+![[File:Recicon.png|frameless|link=Rechargeable battery]] x1&lt;br/&gt;[[Rechargeable battery]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:magpulm870forestockicon.png|frameless|link=Magpul MOE M870 forestock]]
+[[Magpul MOE M870 forestock]]
+|-
+![[File:CPU Fan Icon.png|frameless|link=CPU Fan]] x2&lt;br/&gt;[[CPU Fan]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:RIS II FSP Icon.png|frameless|link=Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems]]
+[[Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems|Daniel Defence FDE RIS II FSP 9.5 foregrip]]
+|-
+![[File:Gp coin icon.png|frameless|link=GP coin]] x1&lt;br/&gt;[[GP coin]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwdriver Icon.png|frameless|link=Screwdriver]] x1&lt;br/&gt;[[Screwdriver]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SKS for GP Coin.png|frameless|link=Simonov Semi-Automatic Carbine SKS 7.62x39]]
+[[Simonov Semi-Automatic Carbine SKS 7.62x39]]
+|-
+![[File:CPU Fan Icon.png|frameless|link=CPU Fan]] x1&lt;br/&gt;[[CPU Fan]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Gas Analyzer Icon.png|frameless|link=Gas analyzer]]
+[[Gas analyzer]]
+|-
+![[File:Broken GPhone Icon.png|frameless|link=Broken GPhone]] x2&lt;br/&gt;[[Broken GPhone]]&lt;br/&gt;+&lt;br/&gt;[[File:Circuit Icon.png|frameless|link=Printed circuit board]] x1&lt;br/&gt;[[Printed circuit board]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GLOCK17 Tac 2.png|frameless|link=GLOCK 17 9x19 pistol]]
+[[GLOCK 17 9x19 pistol]]
+|-
+![[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x3&lt;br/&gt;[[Weapon parts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:OP-SKS Mehcanic.png|frameless|link=Simonov Semi-Automatic Carbine SKS 7.62x39 Hunting Rifle Version]]
+[[Simonov Semi-Automatic Carbine SKS 7.62x39 Hunting Rifle Version|Simonov Semi-Automatic Carbine SKS 7.62x39&lt;br/&gt;Hunting Rifle Version]]
+|-
+![[File:Prokill medallion Icon.png|frameless|link=Chain with Prokill medallion]] x2&lt;br/&gt;[[Chain with Prokill medallion]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M4A1 SOPMOD II.png|frameless|link=Colt M4A1 5.56x45 Assault Rifle]]
+[[Colt M4A1 5.56x45 Assault Rifle]]
+|-
+![[File:Gp coin icon.png|frameless|link=GP coin]] x7&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M4A1 SAI Barter Icon.PNG|frameless|link=Colt M4A1 5.56x45 Assault Rifle]]
+[[Colt M4A1 5.56x45 Assault Rifle]]
+|-
+![[File:Insulating tape Icon.png|frameless|link=Insulating tape]] x20&lt;br/&gt;[[Insulating tape]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:m1aebrtrade.png|frameless|link=Springfield Armory M1A 7.62x51]]
+[[Springfield Armory M1A 7.62x51]]
+|-
+![[File:Lcd-icon.PNG|frameless|link=Broken LCD]] x2&lt;br/&gt;[[Broken LCD]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Working LCD Icon.png|frameless|link=Working LCD]]
+[[Working LCD]]
+|-
+![[File:Damaged Hard Drive Icon.png|frameless|link=Damaged hard drive]] x5&lt;br/&gt;[[Damaged hard drive]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GLOCK17 Hex.png|frameless|link=GLOCK 17 9x19 pistol]]
+[[GLOCK 17 9x19 pistol]]
+|-
+![[File:Magnet Icon.png|frameless|link=Magnet]] x2&lt;br/&gt;[[Magnet]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GLOCK17 Spartan.png|frameless|link=GLOCK 17 9x19 pistol]]
+[[GLOCK 17 9x19 pistol]]
+|-
+![[File:Bulb icon.png|frameless|link=Light bulb]] x3&lt;br/&gt;[[Light bulb]]&lt;br/&gt;+&lt;br/&gt;[[File:D Size Battery Icon.png|frameless|link=D Size Battery]] x2&lt;br/&gt;[[D Size Battery]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GLOCK17 Tac 3.png|frameless|link=GLOCK 17 9x19 pistol]]
+[[GLOCK 17 9x19 pistol]]
+|-
+![[File:Bulb icon.png|frameless|link=Light bulb]] x5&lt;br/&gt;[[Light bulb]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GLOCK 17 Viper.png|frameless|link=GLOCK 17 9x19 pistol]]
+[[GLOCK 17 9x19 pistol]]
+|-
+![[File:wd-40400icon.png|frameless|link=WD-40 400ml]] x2&lt;br/&gt;[[WD-40 400ml]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GLOCK17 NONAME.png|frameless|link=GLOCK 17 9x19 pistol]]
+[[GLOCK 17 9x19 pistol]]
+|-
+![[File:PowerbankIcon.png|frameless|link=Powerbank]] x1&lt;br/&gt;[[Powerbank]]&lt;br/&gt;+&lt;br/&gt;[[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x1&lt;br/&gt;[[Weapon parts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M870 Breacher.png|frameless|link=Remington Model 870 12ga shotgun]]
+[[Remington Model 870 12ga shotgun]]
+|-
+![[File:Cyclon Icon.png|frameless|link=Cyclon accumulator battery]] x1&lt;br/&gt;[[Cyclon accumulator battery]]&lt;br/&gt;+&lt;br/&gt;[[File:Magnet Icon.png|frameless|link=Magnet]] x1&lt;br/&gt;[[Magnet]]&lt;br/&gt;+&lt;br/&gt;[[File:NIXXOR lens icon.png|frameless|link=NIXXOR lens]] x1&lt;br/&gt;[[NIXXOR lens]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+!|[[File:MP5 SD.png|frameless|link=HK MP5 9x19 submachinegun (Navy 3 Round Burst)]]
+[[HK MP5 9x19 submachinegun (Navy 3 Round Burst)]]
+|-
+![[File:Gp coin icon.png|frameless|link=GP coin]] x6&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FN P90 5.7x28 submachinegun CWDG.png|frameless|link=FN P90 5.7x28 submachinegun]]
+[[FN P90 5.7x28 submachinegun]]
+|-
+![[File:MosinRifleCarabineStock Icon.png|frameless|link=Mosin rifle sniper carbine stock]] x1&lt;br/&gt;[[Mosin rifle sniper carbine stock]]&lt;br/&gt;+&lt;br/&gt;[[File:730mm Mosin Icon.png|frameless|link=Regular 730mm Mosin barrel]] x1&lt;br/&gt;[[Regular 730mm Mosin barrel]]&lt;br/&gt;+&lt;br/&gt;[[File:Wilstonicon.png|frameless|link=Wilston cigarettes]] x1&lt;br/&gt;[[Wilston cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MosinObrezM.png|frameless|link=Mosin bolt-action sniper rifle]]
+[[Mosin bolt-action sniper rifle]]
+|-
+![[File:MilitaryCableIcon.png|frameless|link=Military cable]] x2&lt;br/&gt;[[Military cable]]&lt;br/&gt;+&lt;br/&gt;[[File:Energy-Saving Lamp Icon.png|frameless|link=Energy-saving lamp]] x5&lt;br/&gt;[[Energy-saving lamp]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M700AACTrade.png|frameless|link=Remington Model 700 Sniper rifle]]
+[[Remington Model 700 Sniper rifle]]
+|-
+![[File:Bitcoin icon.png|frameless|link=Physical bitcoin]] x10&lt;br/&gt;[[Physical bitcoin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 2 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Weapon case icon.png|frameless|link=Weapon case]]
+[[Weapon case]]
+|-
+![[File:Wiresicon.png|frameless|link=Wires]] x3&lt;br/&gt;[[Wires]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mp5drumicon.png|frameless|link=X Products X-5 MP5 50-round 9x19 magazine]]
+[[X Products X-5 MP5 50-round 9x19 magazine]]
+|-
+![[File:Magnet Icon.png|frameless|link=Magnet]] x2&lt;br/&gt;[[Magnet]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Icon Rotor43 7.62.png|frameless|link=Rotor 43 7.62x39 muzzle brake]]
+[[Rotor 43 7.62x39 muzzle brake]]
+|-
+![[File:Gp coin icon.png|frameless|link=GP coin]] x4&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M4A1 LVOA Icon.png|frameless|link=Colt M4A1 5.56x45 Assault Rifle]]
+[[Colt M4A1 5.56x45 Assault Rifle]]
+|-
+![[File:Mil Batt icon.png|frameless|link=6-STEN-140-M military battery]] x4&lt;br/&gt;[[6-STEN-140-M military battery]]&lt;br/&gt;+&lt;br/&gt;[[File:Cyclon Icon.png|frameless|link=Cyclon accumulator battery]] x6&lt;br/&gt;[[Cyclon accumulator battery]]&lt;br/&gt;+&lt;br/&gt;[[File:UHFRFIDIcon.png|frameless|link=UHF RFID Reader]] x1&lt;br/&gt;[[UHF RFID Reader]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:LkEA Icon.png|frameless|link=Lab. Black keycard]]
+[[Lab. Black keycard]]
+|-
+![[File:PoxeramIcon.png|frameless|link=Tube of Poxeram Cold Welding]] x10&lt;br/&gt;[[Tube of Poxeram Cold Welding]]&lt;br/&gt;+&lt;br/&gt;[[File:KEKTape icon.png|frameless|link=KEKTAPE duct tape]] x4&lt;br/&gt;[[KEKTAPE duct tape]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Terragroup Labs access keycard icon.png|frameless|link=TerraGroup Labs access keycard]]
+[[TerraGroup Labs access keycard]]
+|-
+![[File:Malboro Cigarettes Icon.png|frameless|link=Malboro Cigarettes]] x6&lt;br/&gt;[[Malboro Cigarettes]]&lt;br/&gt;+&lt;br/&gt;[[File:MilitaryCableIcon.png|frameless|link=Military cable]] x1&lt;br/&gt;[[Military cable]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AK74M Zenitco icon.png|frameless|link=AK-74M 5.45x39 assault rifle]]
+[[AK-74M 5.45x39 assault rifle]]
+|-
+![[File:UHFRFIDIcon.png|frameless|link=UHF RFID Reader]] x4&lt;br/&gt;[[UHF RFID Reader]]&lt;br/&gt;+&lt;br/&gt;[[File:Virtex programmable processor Icon.png|frameless|link=Virtex programmable processor]] x2&lt;br/&gt;[[Virtex programmable processor]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AK-104 T-SAW Trade.png|frameless|link=AK-104 7.62x39 assault rifle]]
+[[AK-104 7.62x39 assault rifle]]
+|-
+![[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x8&lt;br/&gt;[[Weapon parts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SA-58 BC Trade.png|frameless|link=DS Arms SA-58 7.62x51]]
+[[DS Arms SA-58 7.62x51]]
+|-
+![[File:Gp coin icon.png|frameless|link=GP coin]] x2&lt;br/&gt;[[GP coin]]&lt;br/&gt;+&lt;br/&gt;[[File:Pressure gauge icon.png|frameless|link=Pressure gauge]] x2&lt;br/&gt;[[Pressure gauge]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:TX-15 DML D-WARRIOR Trade.png|frameless|link=Lone Star TX-15 DML Rifle]]
+[[Lone Star TX-15 DML Rifle]]
+|-
+![[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x12&lt;br/&gt;[[Weapon parts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SA-58 MLL3 icon.png|frameless|link=DS Arms SA-58 7.62x51]]
+[[DS Arms SA-58 7.62x51]]
+|-
+![[File:gp coin icon.png|frameless|link=GP coin]] x2&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GLOCK17 Fischer.png|frameless|link=GLOCK 17 9x19 pistol]]
+[[GLOCK 17 9x19 pistol]]
+|-
+![[File:Capacitorsicon.png|frameless|link=Capacitors]] x8&lt;br/&gt;[[Capacitors]]&lt;br/&gt;+&lt;br/&gt;[[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x2&lt;br/&gt;[[Weapon parts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:RPKTradeNoMag.png|frameless|link=RPK-16 5.45x39 light machine gun]]
+[[RPK-16 5.45x39 light machine gun]]
+|-
+![[File:Electric motor icon.png|frameless|link=Electric motor]] x8&lt;br/&gt;[[Electric motor]]&lt;br/&gt;+&lt;br/&gt;[[File:Wiresicon.png|frameless|link=Wires]] x15&lt;br/&gt;[[Wires]]&lt;br/&gt;+&lt;br/&gt;[[File:Lcd-icon.PNG|frameless|link=Broken LCD]] x4&lt;br/&gt;[[Broken LCD]]&lt;br/&gt;+&lt;br/&gt;[[File:Phased-Array-Element-icon.png|frameless|link=Phased array element]] x1&lt;br/&gt;[[Phased array element]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Weapon case icon.png|frameless|link=Weapon case]]
+[[Weapon case]]
+|-
+![[File:Wilstonicon.png|frameless|link=Wilston cigarettes]] x18&lt;br/&gt;[[Wilston cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:m1sasstrade.png|frameless|link=Springfield Armory M1A 7.62x51]]
+[[Springfield Armory M1A 7.62x51]]
+|-
+![[File:Phased-Array-Element-icon.png|frameless|link=Phased array element]] x1&lt;br/&gt;[[Phased array element]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 3 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FORT armor icon.png|frameless|link=6B43 Zabralo-Sh 6A Armor]]
+[[6B43 Zabralo-Sh 6A Armor]]
+|-
+![[File:Geiger-Mueller counter Icon.png|frameless|link=Geiger-Muller counter]] x1&lt;br/&gt;[[Geiger-Muller counter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 4 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:m1450roundericon.png|frameless|link=X-14 M14 50 round 7.62x51 magazine]]
+[[X-14 M14 50 round 7.62x51 magazine]]
+|-
+![[File:Broken GPhone Icon.png|frameless|link=Broken GPhone]] x1&lt;br/&gt;[[Broken GPhone]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 4 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FAL 50 Icon.png|frameless|link=X-FAL FAL/SA-58 7.62x51 50 rnd magazine]]
+[[X-FAL FAL/SA-58 7.62x51 50 rnd magazine]]
+|-
+![[File:RoundPliersIcon.png|frameless|link=Round pliers]] x4&lt;br/&gt;[[Round pliers]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 4 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Saiga Powermag20 Icon.png|frameless|link=MaxRounds Powermag 20-round 12/76 magazine for SOK-12 and compatible weapons]]
+[[MaxRounds Powermag 20-round 12/76 magazine for SOK-12 and compatible weapons|MaxRounds Powermag 20-round 12/76 magazine for SOK-12]]
+|-
+![[File:Mil thervis.png|frameless|link=Military thermal vision module Iridium]] x4&lt;br/&gt;[[Military thermal vision module Iridium]]&lt;br/&gt;+&lt;br/&gt;[[File:MilitaryCircuitBoardIcon.png|frameless|link=Military circuit board]] x3&lt;br/&gt;[[Military circuit board]]&lt;br/&gt;+&lt;br/&gt;[[File:Mil Filter Icon.png|frameless|link=Military power filter]] x4&lt;br/&gt;[[Military power filter]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 4 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:thermalicon.png|frameless|link=Trijicon REAP-IR thermal riflescope]]
+[[Trijicon REAP-IR thermal riflescope]]
+|-
+![[File:Mil thervis.png|frameless|link=Military thermal vision module Iridium]] x2&lt;br/&gt;[[Military thermal vision module Iridium]]&lt;br/&gt;+&lt;br/&gt;[[File:MGT Icon.png|frameless|link=Military gyrotachometer]] x2&lt;br/&gt;[[Military gyrotachometer]]&lt;br/&gt;+&lt;br/&gt;[[File:MilitaryCircuitBoardIcon.png|frameless|link=Military circuit board]] x2&lt;br/&gt;[[Military circuit board]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 4 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FLIR RS-32 Icon.png|frameless|link=FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope]]
+[[FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope]]
+|-
+![[File:Gp coin icon.png|frameless|link=GP coin]] x7&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 4 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Terragroup Labs access keycard icon.png|frameless|link=TerraGroup Labs access keycard]]
+[[TerraGroup Labs access keycard]]
+|-
+![[File:NIXXOR lens icon.png|frameless|link=NIXXOR lens]] x4&lt;br/&gt;[[NIXXOR lens]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 4 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:DS Arms SA-58 762x51 PBR.png|frameless|link=DS Arms SA-58 7.62x51]]
+[[DS Arms SA-58 7.62x51]]
+|-
+![[File:Bitcoin icon.png|frameless|link=Physical bitcoin]] x20&lt;br/&gt;[[Physical bitcoin]]&lt;br/&gt;+&lt;br/&gt;[[File:gp coin icon.png|frameless|link=GP coin]] x20&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mechanic 4 icon.png|frameless|link=Mechanic]]&lt;br/&gt;[[Mechanic|Mechanic LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:THICCWCaseTrade.png|frameless|link=T H I C C Weapon case]]
+[[T H I C C Weapon case]]
+|}
+
+===Ragman===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Trade
+!colspan =3 style="width:Auto;"| Loyalty Requirement
+!style="width:Auto;"|Item
+|-
+![[File:Chainlet icon.png|frameless|link=Chainlet]] x1&lt;br/&gt;[[Chainlet]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 1 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:k1svisoricon.png|frameless|link=K1S Visor]]
+[[K1S Visor]]
+|-
+![[File:Chainlet icon.png|frameless|link=Chainlet]] x2&lt;br/&gt;[[Chainlet]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 1 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Kiver-M Helmet icon.png|frameless|link=Kiver-M Helmet]]
+[[Kiver-M Helmet]]
+|-
+![[File:bleachicon.png|frameless|link=Ox bleach]] x2&lt;br/&gt;[[Ox bleach]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 1 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6b47icon.png|frameless|link=6B47 Ratnik-BSh Helmet]]
+[[6B47 Ratnik-BSh Helmet]]
+|-
+![[File:Printer Paper icon.png|frameless|link=Printer paper]] x2&lt;br/&gt;[[Printer paper]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 1 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Gssh.png|frameless|link=GSSh-01 active headset]]
+[[GSSh-01 active headset]]
+|-
+![[File:Lower half-mask icon.png|frameless|link=Lower half-mask]] x3&lt;br/&gt;[[Lower half-mask]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 1 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:PACA icon.png|frameless|link=PACA Soft Armor]]
+[[PACA Soft Armor]]
+|-
+![[File:NRG Drink icon.png|frameless|link=Max energy]] x3&lt;br/&gt;[[Max energy]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 1 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:UNTARArmorIcon.png|frameless|link=MF-UNTAR armor vest]]
+[[MF-UNTAR armor vest]]
+|-
+![[File:PSH-97 -Jeta- helmet Icon.png|frameless|link=PSH-97 "Djeta" helmet]] x1&lt;br/&gt;[[PSH-97 "Djeta" helmet]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 1 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Wartech Berkut VV-102 backpack icon.png|frameless|link=Wartech Berkut VV-102 backpack]]
+[[Wartech Berkut VV-102 backpack]]
+|-
+![[File:plexicon.png|frameless|link=Piece of plexiglas]] x2&lt;br/&gt;[[Piece of plexiglas]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:zshfaceshieldicon.png|frameless|link=ZSh-1-2M face shield]]
+[[ZSh-1-2M face shield]]
+|-
+![[File:Construction Measuring Tape Icon.png|frameless|link=Construction measuring tape]] x1&lt;br/&gt;[[Construction measuring tape]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Fleecicon.png|frameless|link=Tactical fleece hat]]
+[[Tactical fleece hat]]
+|-
+![[File:Dogtags.png|frameless|link=Dogtag]] x7&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 10]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]&lt;br/&gt;After completing [[Therapist]]'s task&lt;br/&gt;[[Pharmacist]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6bhelmetcamo.png|frameless|link=6B47 Helmet with cover (flora digital)]]
+[[6B47 Helmet with cover (flora digital)]]
+|-
+![[File:Anti-fragmentation goggles icon.png|frameless|link=Anti-fragmentation glasses]] x2&lt;br/&gt;[[Anti-fragmentation glasses]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:UNTARHelmetIcon.png|frameless|link=UNTAR helmet]]
+[[UNTAR helmet]]
+|-
+![[File:Matches Icon.png|frameless|link=Classic matches]] x3&lt;br/&gt;[[Classic matches]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Comtac icon.png|frameless|link=Peltor ComTac 2 headset]]
+[[Peltor ComTac 2 headset]]
+|-
+![[File:Coffeicon.png|frameless|link=Coffee Majaica]] x1&lt;br/&gt;[[Coffee Majaica]]&lt;br/&gt;+&lt;br/&gt;[[File:Tar Cola icon.png|frameless|link=TarCola]] x1&lt;br/&gt;[[TarCola]]&lt;br/&gt;+&lt;br/&gt;[[File:Pack ofMilk icon.png|frameless|link=Pack of milk]] x1&lt;br/&gt;[[Pack of milk]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:BNTIKirasaNarmorIcon.png|frameless|link=BNTI Kirasa-N armor]]
+[[BNTI Kirasa-N armor]]
+|-
+![[File:Golden neck chain Icon.png|frameless|link=Golden neck chain]] x2&lt;br/&gt;[[Golden neck chain]]&lt;br/&gt;+&lt;br/&gt;[[File:GoldenTTIcon.png|frameless|link=TT pistol 7.62x25 TT Gold]] x2&lt;br/&gt;[[TT pistol 7.62x25 TT Gold]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AVS icon.png|frameless|link=Crye Precision AVS platecarrier]]
+[[Crye Precision AVS platecarrier]]
+|-
+![[File:Duct tape Icon.png|frameless|link=Duct tape]] x5&lt;br/&gt;[[Duct tape]]&lt;br/&gt;+&lt;br/&gt;[[File:Heat-exchange alkali surface washer icon.png|frameless|link=Heat-exchange alkali surface washer]] x1&lt;br/&gt;[[Heat-exchange alkali surface washer]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Alpha Rig icon.png|frameless|link=ANA Tactical Alpha chest rig]]
+[[ANA Tactical Alpha chest rig]]
+|-
+![[File:Soap icon.png|frameless|link=Soap]] x3&lt;br/&gt;[[Soap]]&lt;br/&gt;+&lt;br/&gt;[[File:Toilet paper icon.png|frameless|link=Toilet paper]] x4&lt;br/&gt;[[Toilet paper]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6B5-15icon.png|frameless|link=6B5-15 Zh -86 "Uley" armored rig]]
+[[6B5-15 Zh -86 "Uley" armored rig]]
+|-
+![[File:6B5-15icon.png|frameless|link=6B5-15 Zh -86 "Uley" armored rig]] x3&lt;br/&gt;[[6B5-15 Zh -86 "Uley" armored rig|6B5-15 Zh -86 "Uley" armored rig (damaged)]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6B5-15icon.png|frameless|link=6B5-15 Zh -86 "Uley" armored rig]]
+[[6B5-15 Zh -86 "Uley" armored rig]]
+|-
+![[File:6B3TM-01M Icon.png|frameless|link=6B3TM-01M armored rig]] x4&lt;br/&gt;[[6B3TM-01M armored rig|6B5-15 Zh -86 "Uley" armored rig (damaged)]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6B3TM-01M Icon.png|frameless|link=6B3TM-01M armored rig]]
+[[6B3TM-01M armored rig]]
+|-
+![[File:Energy-Saving Lamp Icon.png|frameless|link=Energy-saving lamp]] x4&lt;br/&gt;[[Energy-saving lamp]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Tri-Zip Backpack.png|frameless|link=Camelbak Tri-Zip Backpack]]
+[[Camelbak Tri-Zip Backpack]]
+|-
+![[File:Sugar icon.png|frameless|link=Pack of sugar]] x1&lt;br/&gt;[[Pack of sugar]]&lt;br/&gt;+&lt;br/&gt;[[File:Saury icon.png|frameless|link=Can of pacific saury]] x2&lt;br/&gt;[[Can of pacific saury]]&lt;br/&gt;+&lt;br/&gt;[[File:Slickers bar icon.png|frameless|link=Slickers bar]] x3&lt;br/&gt;[[Slickers bar]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 2 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AttackInventory.PNG|frameless|link=SSO "Attack 2" raid backpack]]
+[[SSO "Attack 2" raid backpack]]
+|-
+![[File:Altynfshieldicon.png|frameless|link=Altyn face shield]] x3&lt;br/&gt;[[Altyn face shield|Altyn face shield (damaged)]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Altynfshieldicon.png|frameless|link=Altyn face shield]]
+[[Altyn face shield]]
+|-
+![[File:plexicon.png|frameless|link=Piece of plexiglas]] x3&lt;br/&gt;[[Piece of plexiglas]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt; [[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:LSHZ Face Shield.PNG|frameless|link=LSHZ-2DTM face shield]]
+[[LSHZ-2DTM face shield]]
+|-
+![[File:KEKTape icon.png|frameless|link=KEKTAPE duct tape]] x1&lt;br/&gt;[[KEKTAPE duct tape]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt; [[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Cow boy hat icon.png|frameless|link=Kinda cowboy hat]]
+[[Kinda cowboy hat]]
+|-
+![[File:Screwdriver Icon.png|frameless|link=Screwdriver]] x4&lt;br/&gt;[[Screwdriver]]&lt;br/&gt;+&lt;br/&gt;[[File:Wrench Icon.png|frameless|link=Wrench]] x4&lt;br/&gt;[[Wrench]]&lt;br/&gt;+&lt;br/&gt;[[File:Metal cutting scissors icon.png|frameless|link=Metal cutting scissors]] x1&lt;br/&gt;[[Metal cutting scissors]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:DEVTAC Ronin ballistic helmet Icon.png|frameless|link=DEVTAC Ronin ballistic helmet]]
+[[DEVTAC Ronin ballistic helmet]]
+|-
+![[File:gp coin icon.png|frameless|link=GP coin]] x4&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Maska1Schicon.png|frameless|link=Maska 1Sch helmet]]
+[[Maska 1Sch helmet]]
+|-
+![[File:Golden neck chain Icon.png|frameless|link=Golden neck chain]] x2&lt;br/&gt;[[Golden neck chain]]&lt;br/&gt;+&lt;br/&gt;[[File:Coffeicon.png|frameless|link=Coffee Majaica]] x3&lt;br/&gt;[[Coffee Majaica]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GZHELKArmorIcon.png|frameless|link=BNTI Gzhel-K armor]]
+[[BNTI Gzhel-K armor]]
+|-
+![[File:gp coin icon.png|frameless|link=GP coin]] x10&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:gen4hmk.png|frameless|link=IOTV Gen4 armor (high mobility kit)]]
+[[IOTV Gen4 armor (high mobility kit)]]
+|-
+![[File:ShmaskaIcon.png|frameless|link=Ski hat with holes for eyes]] x5&lt;br/&gt;[[Ski hat with holes for eyes]]&lt;br/&gt;+&lt;br/&gt;[[File:Ushanka icon.png|frameless|link=Ushanka ear-flap cap]] x5&lt;br/&gt;[[Ushanka ear-flap cap]]&lt;br/&gt;+&lt;br/&gt;[[File:Round frame sunglasses icon.png|frameless|link=Round frame sunglasses]] x5&lt;br/&gt;[[Round frame sunglasses]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:5.11 Hexgrid plate carrier.png|frameless|link=5.11 Hexgrid plate carrier]]
+[[5.11 Hexgrid plate carrier]]
+|-
+![[File:Shampoo icon.png|frameless|link=Schaman shampoo]] x7&lt;br/&gt;[[Schaman shampoo]]&lt;br/&gt;+&lt;br/&gt;[[File:OrtodontoxToothpasteIcon.png|frameless|link=Ortodontox toothpaste]] x5&lt;br/&gt;[[Ortodontox toothpaste]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AVS icon.png|frameless|link=Crye Precision AVS platecarrier]]
+[[Crye Precision AVS platecarrier]]
+|-
+![[File:Round frame sunglasses icon.png|frameless|link=Round frame sunglasses]] x3&lt;br/&gt;[[Round frame sunglasses]]&lt;br/&gt;+&lt;br/&gt;[[File:K1svisoricon.png|frameless|link=K1S Visor]] x3&lt;br/&gt;[[K1S Visor]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M2Inventory.PNG|frameless|link=ANA Tactical M2 armored rig]]
+[[ANA Tactical M2 armored rig]]
+|-
+![[File:GP-5 Icon.png|frameless|link=GP-5 gasmask]] x5&lt;br/&gt;[[GP-5 gasmask]]&lt;br/&gt;+&lt;br/&gt;[[File:Neoprene Mask Icon.png|frameless|link=Neoprene mask]] x6&lt;br/&gt;[[Neoprene mask]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:TactecIcon.png|frameless|link=5.11 Tactec plate carrier]]
+[[5.11 Tactec plate carrier]]
+|-
+![[File:Teapot icon.png|frameless|link=Antique teapot]] x1&lt;br/&gt;[[Antique teapot]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Belt-A Belt-B gear rig icon.png|frameless|link=Belt-A + Belt-B gear rig]]
+[[Belt-A + Belt-B gear rig]]
+|-
+![[File:Aquamari icon.png|frameless|link=Water bottle with a filter Aquamari]] x4&lt;br/&gt;[[Water bottle with a filter Aquamari]]&lt;br/&gt;+&lt;br/&gt;[[File:kvass icon.png|frameless|link=Premium Kvass "Norvinskiy Yadreniy" 0.6L bottle]] x1&lt;br/&gt;[[Premium Kvass "Norvinskiy Yadreniy" 0.6L bottle]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:ANA Tactical M1 icon.png|frameless|link=ANA Tactical M1 armored rig]]
+[[ANA Tactical M1 armored rig]]
+|-
+![[File:bleachicon.png|frameless|link=Ox bleach]] x4&lt;br/&gt;[[Ox bleach]]&lt;br/&gt;&lt;br/&gt;[[File:Shampoo icon.png|frameless|link=Schaman shampoo]] x2&lt;br/&gt;[[Schaman shampoo]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Wartech TV-110 plate carrier icon.png|frameless|link=Wartech TV-110 plate carrier]]
+[[Wartech TV-110 plate carrier]]
+|-
+![[File:Whiskey icon.png|frameless|link=Bottle of Dan Jackiel Whiskey]] x5&lt;br/&gt;[[Bottle of Dan Jackiel Whiskey]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:A18 Icon.png|frameless|link=Ars Arma A18 Skanda plate carrier]]
+[[Ars Arma A18 Skanda plate carrier]]
+|-
+![[File:condmilkicon.png|frameless|link=Condensed milk]] x3&lt;br/&gt;[[Condensed milk]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 3 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MPPV ICon.png|frameless|link=Velocity Systems Multi-Purpose Patrol Vest]]
+[[Velocity Systems Multi-Purpose Patrol Vest]]
+|-
+![[File:plexicon.png|frameless|link=Piece of plexiglas]] x4&lt;br/&gt;[[Piece of plexiglas]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Altynfshieldicon.png|frameless|link=Altyn face shield]]
+[[Altyn face shield]]
+|-
+![[File:Dogtags.png|frameless|link=Dogtag]] x6&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 20]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Altynfshieldicon.png|frameless|link=Altyn face shield]]
+[[Altyn face shield]]
+|-
+![[File:gp coin icon.png|frameless|link=GP coin]] x2&lt;br/&gt;[[GP coin]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:NormalMaskaShieldTradeIcon.png|frameless|link=Maska 1Sch face shield]]
+[[Maska 1Sch face shield]]
+|-
+![[File:plexicon.png|frameless|link=Piece of plexiglas]] x7&lt;br/&gt;[[Piece of plexiglas]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Vulkan-5 face shield icon.png|frameless|link=Vulkan-5 face shield]]
+[[Vulkan-5 face shield]]
+|-
+![[File:plexicon.png|frameless|link=Piece of plexiglas]] x4&lt;br/&gt;[[Piece of plexiglas]]&lt;br/&gt;+&lt;br/&gt;[[File:Boltsicon.png|frameless|link=Bolts]] x1&lt;br/&gt;[[Bolts]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Rystfshield.png|frameless|link=Rys-T face shield]]
+[[Rys-T face shield]]
+|-
+![[File:Marked-key-Icon.png|frameless|link=Marked key]] x1&lt;br/&gt;[[Marked key]]&lt;br/&gt;+&lt;br/&gt;[[File:San112icon.png|frameless|link=Office 112 West wing key]] x1&lt;br/&gt;[[Office 112 West wing key]]&lt;br/&gt;+&lt;br/&gt;[[File:ParacordIcon.png|frameless|link=Paracord]] x5&lt;br/&gt;[[Paracord]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]&lt;br/&gt;After completing his task&lt;br/&gt;[[Scavenger]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:CrashAxeIcon.png|frameless|link=Crash Axe]]
+[[Crash Axe]]
+|-
+![[File:RoundPliersIcon.png|frameless|link=Round pliers]] x6&lt;br/&gt;[[Round pliers]]&lt;br/&gt;+&lt;br/&gt;[[File:Construction Measuring Tape Icon.png|frameless|link=Construction measuring tape]] x5&lt;br/&gt;[[Construction measuring tape]]&lt;br/&gt;+&lt;br/&gt;[[File:Plier Icon.png|frameless|link=Pliers]] x5&lt;br/&gt;[[Pliers]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AltynHelmetIcon.png|frameless|link=Altyn helmet]]
+[[Altyn helmet]]
+|-
+![[File:Aramid Icon .png|frameless|link=Aramid fiber cloth]] x5&lt;br/&gt;[[Aramid fiber cloth]]&lt;br/&gt;+&lt;br/&gt;[[File:plexicon.png|frameless|link=Piece of plexiglas]] x6&lt;br/&gt;[[Piece of plexiglas]]&lt;br/&gt;+&lt;br/&gt;[[File:Cordura Icon.png|frameless|link=Polyamide fabric Cordura]] x1&lt;br/&gt;[[Polyamide fabric Cordura]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:RystIcon.png|frameless|link=Rys-T helmet]]
+[[Rys-T helmet]]
+|-
+![[File:BEAR Dogtag Icon.png|frameless|link=Dogtag]] x10&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 30, BEAR]]&lt;br/&gt;+&lt;br/&gt;[[File:USEC Dogtag Icon.png|frameless|link=Dogtag]] x10&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 30, USEC]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FORT armor icon.png|frameless|link=6B43 Zabralo-Sh 6A Armor]]
+[[6B43 Zabralo-Sh 6A Armor]]
+|-
+![[File:Fort DMG.png|frameless|link=6B43 Zabralo-Sh 6A Armor]] x4&lt;br/&gt;[[6B43 Zabralo-Sh 6A Armor|6B43 Zabralo-Sh 6A Armor (damaged)]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FORT armor icon.png|frameless|link=6B43 Zabralo-Sh 6A Armor]]
+[[6B43 Zabralo-Sh 6A Armor]]
+|-
+![[File:Fiece hatchling moonshine icon.png|frameless|link="Fierce Hatchling" moonshine]] x1&lt;br/&gt;[["Fierce Hatchling" moonshine]]&lt;br/&gt;+&lt;br/&gt;[[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x5&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FORT armor icon.png|frameless|link=6B43 Zabralo-Sh 6A Armor]]
+[[6B43 Zabralo-Sh 6A Armor]]
+|-
+![[File:Bronze Lion Icon.png|frameless|link=Bronze lion]] x4&lt;br/&gt;[[Bronze lion]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]&lt;br/&gt;After completing his task&lt;br/&gt;[[Hot delivery]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:IOTVfullIcon.png|frameless|link=IOTV Gen4 armor (full protection)]]
+[[IOTV Gen4 armor (full protection)]]
+|-
+![[File:SkullRing Icon.png|frameless|link=Gold skull ring]] x3&lt;br/&gt;[[Gold skull ring]]&lt;br/&gt;+&lt;br/&gt;[[File:Golden neck chain Icon.png|frameless|link=Golden neck chain]] x5&lt;br/&gt;[[Golden neck chain]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:gen4assault.png|frameless|link=IOTV Gen4 armor (assault kit)]]
+[[IOTV Gen4 armor (assault kit)]]
+|-
+![[File:Vaseicon.png|frameless|link=Antique vase]] x3&lt;br/&gt;[[Antique vase]]&lt;br/&gt;[[File:Teapot icon.png|frameless|link=Antique teapot]] x3&lt;br/&gt;[[Antique teapot]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Zhuk-6a heavy armor icon.png|frameless|link=Zhuk-6a heavy armor]]
+[[Zhuk-6a heavy armor]]
+|-
+![[File:Airfiltericon.png|frameless|link=Air filter for gas mask]] x6&lt;br/&gt;[[Air filter for gas mask]]&lt;br/&gt;+&lt;br/&gt;[[File:ParacordIcon.png|frameless|link=Paracord]] x2&lt;br/&gt;[[Paracord]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FORT Redut-T5 body armor icon.png|frameless|link=FORT Redut-T5 body armor]]
+[[FORT Redut-T5 body armor]]
+|-
+![[File:Highcom Trooper TFO armor (multicam) icon.png|frameless|link=Highcom Trooper TFO armor (multicam)]] x2&lt;br/&gt;[[Highcom Trooper TFO armor (multicam)]]&lt;br/&gt;+&lt;br/&gt;[[File:CorduraFabricIcon.png|frameless|link=Polyamide fabric Cordura]] x2&lt;br/&gt;[[Polyamide fabric Cordura]]&lt;br/&gt;+&lt;br/&gt;[[File:Aramid Icon .png|frameless|link=Aramid fiber cloth]] x4&lt;br/&gt;[[Aramid fiber cloth]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt; [[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Slick Icon.png|frameless|link=LBT 6094A Slick Plate Carrier]]
+[[LBT 6094A Slick Plate Carrier]]
+|-
+![[File:Dogtags.png|frameless|link=Dogtag]] x10&lt;br/&gt;[[Dogtag|Dogtag ≥ Lvl 20]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M2Inventory.PNG|frameless|link=ANA Tactical M2 armored rig]]
+[[ANA Tactical M2 armored rig]]
+|-
+![[File:Vaseicon.png|frameless|link=Antique vase]] x1&lt;br/&gt;[[Antique vase]]&lt;br/&gt;+&lt;br/&gt;[[File:Chainlet icon.png|frameless|link=Chainlet]] x10&lt;br/&gt;[[Chainlet]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:TactecIcon.png|frameless|link=5.11 Tactec plate carrier]]
+[[5.11 Tactec plate carrier]]
+|-
+![[File:SkullRing Icon.png|frameless|link=Gold skull ring]] x1&lt;br/&gt;[[Gold skull ring]]&lt;br/&gt;+&lt;br/&gt;[[File:Golden neck chain Icon.png|frameless|link=Golden neck chain]] x3&lt;br/&gt;[[Golden neck chain]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:A18 Icon.png|frameless|link=Ars Arma A18 Skanda plate carrier]]
+[[Ars Arma A18 Skanda plate carrier]]
+|-
+![[File:Cordura Icon.png|frameless|link=Polyamide fabric Cordura]] x3&lt;br/&gt;[[Polyamide fabric Cordura]]&lt;br/&gt;+&lt;br/&gt;[[File:Whiskey icon.png|frameless|link=Bottle of Dan Jackiel Whiskey]] x1&lt;br/&gt;[[Bottle of Dan Jackiel Whiskey]]&lt;br/&gt;+&lt;br/&gt;[[File:Ripstop icon.png|frameless|link=Ripstop cloth]] x3&lt;br/&gt;[[Ripstop cloth]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt; [[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AACPC icon.png|frameless|link=Ars Arma CPC MOD.2 plate carrier]]
+[[Ars Arma CPC MOD.2 plate carrier]]
+|-
+![[File:Prokill medallion Icon.png|frameless|link=Chain with Prokill medallion]] x1&lt;br/&gt;[[Chain with Prokill medallion]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AttackInventory.PNG|frameless|link=SSO "Attack 2" raid backpack]]
+[[SSO "Attack 2" raid backpack]]
+|-
+![[File:Bulb icon.png|frameless|link=Light bulb]] x6&lt;br/&gt;[[Light bulb]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Beta2 outside.png|frameless|link=Ana tactical Beta 2 battle backpack]]
+[[Ana tactical Beta 2 battle backpack]]
+|-
+![[File:bleachicon.png|frameless|link=Ox bleach]] x8&lt;br/&gt;[[Ox bleach]]&lt;br/&gt;+&lt;br/&gt;[[File:Cordura Icon.png|frameless|link=Polyamide fabric Cordura]] x2&lt;br/&gt;[[Polyamide fabric Cordura]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ragman 4 icon.png|frameless|link=Ragman]]&lt;br/&gt;[[Ragman|Ragman LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mystery Ranch Blackjack 50 backpack icon.png|frameless|link=Mystery Ranch Blackjack 50 backpack (multicam)]]
+[[Mystery Ranch Blackjack 50 backpack (multicam)]]
+|}
+
+===Jaeger===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Trade
+!colspan =3 style="width:Auto;"| Loyalty Requirement
+!style="width:Auto;"|Item
+|-
+![[File:Nippers small.png|frameless|link=Nippers]] x3&lt;br/&gt;[[Nippers]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 1 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:CMS Icon.png|frameless|link=CMS kit]]
+[[CMS kit]]
+|-
+![[File:Matches Icon.png|frameless|link=Classic matches]] x1&lt;br/&gt;[[Classic matches]]&lt;br/&gt;+&lt;br/&gt;[[File:Apollon Soyuz cigarettes Icon.png|frameless|link=Apollon Soyuz cigarettes]] x1&lt;br/&gt;[[Apollon Soyuz cigarettes]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 1 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:sprm.png|frameless|link=Kiba Arms International SPRM mount for pump-action shotguns]]
+[[Kiba Arms International SPRM mount for pump-action shotguns|Kiba Arms International SPRM mount]]
+|-
+![[File:Toilet paper icon.png|frameless|link=Toilet paper]] x1&lt;br/&gt;[[Toilet paper]]&lt;br/&gt;+&lt;br/&gt;[[File:ShortNameSafe.png|frameless|link=Weapon safe key]] x1&lt;br/&gt;[[Weapon safe key]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 1 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:30mmmount.png|frameless|link=30mm Scope mount]]
+[[30mm Scope mount]]
+|-
+![[File:Matches Icon.png|frameless|link=Classic matches]] x12&lt;br/&gt;[[Classic matches]]&lt;br/&gt;+&lt;br/&gt;[[File:HunterMatches Icon.png|frameless|link=Hunter matches]] x5&lt;br/&gt;[[Hunter matches]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 1 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Metal-fuel-tank-icon.png|frameless|link=Metal fuel tank]]
+[[Metal fuel tank]]
+|-
+![[File:Wrench Icon.png|frameless|link=Wrench]] x2&lt;br/&gt;[[Wrench]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwdriver Icon.png|frameless|link=Screwdriver]] x2&lt;br/&gt;[[Screwdriver]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 1 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MP 153 icon.png|frameless|link=MP-153 12ga semi-automatic shotgun]]
+[[MP-153 12ga semi-automatic shotgun]]
+|-
+![[File:Slickers bar icon.png|frameless|link=Slickers bar]] x1&lt;br/&gt;[[Slickers bar]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 1 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Scav Vest icon.png|frameless|link=Scav Vest]]
+[[Scav Vest]]
+|-
+![[File:Soap icon.png|frameless|link=Soap]] x1&lt;br/&gt;[[Soap]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 1 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL1]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Armybagicon.png|frameless|link=VKBO army bag]]
+[[VKBO army bag]]
+|-
+![[File:PowerbankIcon.png|frameless|link=Powerbank]] x1&lt;br/&gt;[[Powerbank]]&lt;br/&gt;+&lt;br/&gt;[[File:Magnet Icon.png|frameless|link=Magnet]] x2&lt;br/&gt;[[Magnet]]&lt;br/&gt;+&lt;br/&gt;[[File:UV lamp Icon.png|frameless|link=Ultraviolet lamp]] x1&lt;br/&gt;[[Ultraviolet lamp]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 2 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Nightforce ATACR 7-35x56Icon.png|frameless|link=Nightforce ATACR 7-35x56 riflescope]]
+[[Nightforce ATACR 7-35x56 riflescope]]
+|-
+![[File:5L propane tank icon.png|frameless|link=5L propane tank]] x1&lt;br/&gt;[[5L propane tank]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 2 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:34mmmounticon.png|frameless|link=34mm one piece magmount made by Nightforce]]
+[[34mm one piece magmount made by Nightforce]]
+|-
+![[File:Emeyla Croutons.png|frameless|link=Emelya rye croutons]] x5&lt;br/&gt;[[Emelya rye croutons]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 2 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Sugar icon.png|frameless|link=Pack of sugar]]
+[[Pack of sugar]]
+|-
+![[File:Factory key icon.png|frameless|link=Factory exit key]] x1&lt;br/&gt;[[Factory exit key|Factory exit key (used)]]&lt;br/&gt;+&lt;br/&gt;[[File:Lunchbox icon.png|frameless|link=Iskra lunch box]] x4&lt;br/&gt;[[Iskra lunch box]]&lt;br/&gt;+&lt;br/&gt;[[File:MRE icon.png|frameless|link=MRE lunch box]] x1&lt;br/&gt;[[MRE lunch box]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 2 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Factory key icon.png|frameless|link=Factory exit key]]
+[[Factory exit key]]
+|-
+![[File:Lada manual icon.png|frameless|link=Technical documentation]] x2&lt;br/&gt;[[Technical documentation]]&lt;br/&gt;+&lt;br/&gt;[[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x4&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]&lt;br/&gt;+&lt;br/&gt;[[File:Can of beef stew Icon.png|frameless|link=Can of beef stew]] x2&lt;br/&gt;[[Can of beef stew]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 2 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Checkpoint Key icon.png|frameless|link=Military base checkpoint key]]
+[[Military base checkpoint key]]
+|-
+![[File:Hor Rod icon.png|frameless|link=Hot Rod]] x10&lt;br/&gt;[[Hot Rod]]&lt;br/&gt;+&lt;br/&gt;[[File:Tar Cola icon.png|frameless|link=TarCola]] x5&lt;br/&gt;[[TarCola]]&lt;br/&gt;+&lt;br/&gt;[[File:Herring icon.png|frameless|link=Can of herring]] x5&lt;br/&gt;[[Can of herring]]&lt;br/&gt;+&lt;br/&gt;[[File:Squash Spread icon.png|frameless|link=Squash spread]] x5&lt;br/&gt;[[Squash spread]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 2 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Mr. Holodilnick thermobag icon.png|frameless|link=Mr. Holodilnick thermobag]]
+[[Mr. Holodilnick thermobag]]
+|-
+![[File:HunterMatches Icon.png|frameless|link=Hunter matches]] x1&lt;br/&gt;[[Hunter matches]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 2 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL2]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Tarzan icon.png|frameless|link=Splav Tarzan M22 Rig]]
+[[Splav Tarzan M22 Rig]]
+|-
+![[File:Lunchbox icon.png|frameless|link=Iskra lunch box]] x2&lt;br/&gt;[[Iskra lunch box]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 3 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:BramitTradeIcon.png|frameless|link=Bramit silencer for a Mosin rifle]]
+[[Bramit silencer for a Mosin rifle]]
+|-
+![[File:Sugar icon.png|frameless|link=Pack of sugar]] x10&lt;br/&gt;[[Pack of sugar]]&lt;br/&gt;+&lt;br/&gt;[[File:Aquamari icon.png|frameless|link=Water bottle with a filter Aquamari]] x6&lt;br/&gt;[[Water bottle with a filter Aquamari]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 3 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FLIR RS-32 Icon.png|frameless|link=FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope]]
+[[FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope]]
+|-
+![[File:Can of sprats Icon.png|frameless|link=Can of sprats]] x10&lt;br/&gt;[[Can of sprats]]&lt;br/&gt;+&lt;br/&gt;[[File:Aquamari icon.png|frameless|link=Water bottle with a filter Aquamari]] x10&lt;br/&gt;[[Water bottle with a filter Aquamari]]&lt;br/&gt;+&lt;br/&gt;[[File:Squash Spread icon.png|frameless|link=Squash spread]] x10&lt;br/&gt;[[Squash spread]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 3 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Saiga 12 NERFGUN Trade.png|frameless|link=Saiga 12ga ver. 10 12/76 shotgun]]
+[[Saiga 12ga ver. 10 12/76 shotgun]]
+|-
+![[File:RB-VO key icon.png|frameless|link=RB-VO key]] x1&lt;br/&gt;[[RB-VO key]]&lt;br/&gt;+&lt;br/&gt;[[File:RB-PKPM key icon.png|frameless|link=RB-PKPM key]] x1&lt;br/&gt;[[RB-PKPM key]]&lt;br/&gt;+&lt;br/&gt;[[File:RB-BK Icon.png|frameless|link=RB-BK key]] x1&lt;br/&gt;[[RB-BK key]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 3 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Marked-key-Icon.png|frameless|link=Marked key]]
+[[Marked key]]
+|-
+![[File:5L propane tank icon.png|frameless|link=5L propane tank]] x15&lt;br/&gt;[[5L propane tank]]&lt;br/&gt;+&lt;br/&gt;[[File:fuelcondicon.png|frameless|link=Fuel conditioner]] x10&lt;br/&gt;[[Fuel conditioner]]&lt;br/&gt;+&lt;br/&gt;[[File:Dryfuelicon.png|frameless|link=Dry fuel]] x15&lt;br/&gt;[[Dry fuel]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 3 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AdzeIcon.png|frameless|link=Red Rebel Ice pick]]
+[[Red Rebel Ice pick]]
+|-
+![[File:Toothpasteicon.png|frameless|link=Toothpaste]] x5&lt;br/&gt;[[Toothpaste]]&lt;br/&gt;+&lt;br/&gt;[[File:Toilet paper icon.png|frameless|link=Toilet paper]] x5&lt;br/&gt;[[Toilet paper]]&lt;br/&gt;+&lt;br/&gt;[[File:Hydrogen Peroxide icon.png|frameless|link=Hydrogen peroxide]] x2&lt;br/&gt;[[Hydrogen peroxide]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 3 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:X7 Axe icon.png|frameless|link=Camper axe]]
+[[Camper axe]]
+|-
+![[File:ParacordIcon.png|frameless|link=Paracord]] x12 &lt;br/&gt;[[Paracord]]&lt;br/&gt;+&lt;br/&gt;[[File:Duct tape Icon.png|frameless|link=Duct tape]] x15&lt;br/&gt;[[Duct tape]]&lt;br/&gt;+&lt;br/&gt;[[File:Insulating tape Icon.png|frameless|link=Insulating tape]] x15&lt;br/&gt;[[Insulating tape]]&lt;br/&gt;+&lt;br/&gt;[[File:Nailsicon.png|frameless|link=A pack of nails]] x15&lt;br/&gt;[[A pack of nails]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 3 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SmallSICCIcon.png|frameless|link=Small S I C C case]]
+[[Small S I C C case]]
+|-
+![[File:SurvL Icon.png|frameless|link=SurvL Survivor Lighter]] x5&lt;br/&gt;[[SurvL Survivor Lighter]]&lt;br/&gt;+&lt;br/&gt;[[File:HunterMatches Icon.png|frameless|link=Hunter matches]] x15&lt;br/&gt;[[Hunter matches]]&lt;br/&gt;+&lt;br/&gt;[[File:RepellentIcon.png|frameless|link=Repellent]] x8 &lt;br/&gt;[[Repellent]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 3 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL3]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Grenade.png|frameless|link=Grenade case]]
+[[Grenade case]]
+|-
+![[File:Humpback icon.png|frameless|link=Humpback salmon]] x2&lt;br/&gt;[[Humpback salmon]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 4 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Warmage.png|frameless|link=20 pcs pack 5.56x45 Warmage ammo]]
+[[20 pcs pack 5.56x45 Warmage ammo]]
+|-
+![[File:Green Tea icon.png|frameless|link=Green Ice]] x1&lt;br/&gt;[[Green Ice]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 4 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:DippAmmobox20icon.png|frameless|link=20 pcs. 9x19 mm DIPP ammo box]]
+[[20 pcs. 9x19 mm DIPP ammo box]]
+|-
+![[File:Cyclon Icon.png|frameless|link=Cyclon accumulator battery]] x7&lt;br/&gt;[[Cyclon accumulator battery]]&lt;br/&gt;+&lt;br/&gt;[[File:GreenBat Icon.png|frameless|link=GreenBat lithium battery]] x10&lt;br/&gt;[[GreenBat lithium battery]]&lt;br/&gt;+&lt;br/&gt;[[File:Long screwdriver icon.png|frameless|link=Long flat screwdriver]] x5&lt;br/&gt;[[Long flat screwdriver]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Jaeger 4 icon.png|frameless|link=Jaeger]]&lt;br/&gt;[[Jaeger|Jaeger LL4]]
+!&lt;big&gt;→&lt;/big&gt;
+![[File:RB-PSP2 key icon.png|frameless|link=Key RB-PSP2]]
+[[Key RB-PSP2]]
+|}
+
+[[Category:Escape from Tarkov]]
+
+[[cs:Výměnné obchody]]
+[[de:Tauschgeschäfte]]
+[[fr:Liste des échanges]]
+[[ru:Бартерная торговля]]</text>
+      <sha1>qcgkechr4qctlm7bkjpvetlwifeqox8</sha1>
+    </revision>
+  </page>
+</mediawiki>

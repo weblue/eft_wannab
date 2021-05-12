@@ -1,0 +1,2146 @@
+{
+  "folder_with_intelligence": {
+    "name": "Folder with intelligence",
+    "img": "FolderWithIntelligence_Icon.png"
+  },
+  "classic_matches": {
+    "name": "Classic matches",
+    "img": "Matches_Icon.png"
+  },
+  "dogtag": {
+    "name": "Dogtag",
+    "img": "Dogtags.png"
+  },
+  "paracord": {
+    "name": "Paracord",
+    "img": "ParacordIcon.png"
+  },
+  "corrugated_hose": {
+    "name": "Corrugated hose",
+    "img": "Hoseicon.png"
+  },
+  "a_pack_of_nails": {
+    "name": "A pack of nails",
+    "img": "Nailsicon.png"
+  },
+  "a_pack_of_screws": {
+    "name": "A pack of screws",
+    "img": "Screwsicon.png"
+  },
+  "screw_nut": {
+    "name": "Screw nut",
+    "img": "Screwnuticon.png"
+  },
+  "bolts": {
+    "name": "Bolts",
+    "img": "Boltsicon.png"
+  },
+  "piece_of_plexiglas": {
+    "name": "Piece of plexiglas",
+    "img": "plexicon.png"
+  },
+  "zibbo_lighter": {
+    "name": "Zibbo lighter",
+    "img": "Zibbo_lighter_Icon.png"
+  },
+  "apollon_soyuz_cigarettes": {
+    "name": "Apollon Soyuz cigarettes",
+    "img": "Apollon_Soyuz_cigarettes_Icon.png"
+  },
+  "malboro_cigarettes": {
+    "name": "Malboro Cigarettes",
+    "img": "Malboro_Cigarettes_Icon.png"
+  },
+  "wilston_cigarettes": {
+    "name": "Wilston cigarettes",
+    "img": "Wilstonicon.png"
+  },
+  "strike_cigarettes": {
+    "name": "Strike Cigarettes",
+    "img": "Cigred.png"
+  },
+  "horse_figurine": {
+    "name": "Horse figurine",
+    "img": "Horse_figurine_Icon.png"
+  },
+  "cat_figurine": {
+    "name": "Cat figurine",
+    "img": "Caticon.png"
+  },
+  "bronze_lion": {
+    "name": "Bronze lion",
+    "img": "Bronze_Lion_Icon.png"
+  },
+  "wooden_clock": {
+    "name": "Wooden clock",
+    "img": "Wooden_clock_icon.png"
+  },
+  "gas_analyzer": {
+    "name": "Gas analyzer",
+    "img": "Gas_Analyzer_Icon.png"
+  },
+  "ssd_drive": {
+    "name": "SSD drive",
+    "img": "ssd_icon.png"
+  },
+  "sas_drive": {
+    "name": "SAS drive",
+    "img": "Sas_icon.png"
+  },
+  "military_cofdm_wireless_signal_transmitter": {
+    "name": "Military COFDM wireless Signal Transmitter",
+    "img": "COFDM_Icon.png"
+  },
+  "uhf_rfid_reader": {
+    "name": "UHF RFID Reader",
+    "img": "UHFRFIDIcon.png"
+  },
+  "vpx_flash_storage_module": {
+    "name": "VPX Flash Storage Module",
+    "img": "VPXFlashIcon.png"
+  },
+  "virtex_programmable_processor": {
+    "name": "Virtex programmable processor",
+    "img": "Virtex_programmable_processor_Icon.png"
+  },
+  "capacitors": {
+    "name": "Capacitors",
+    "img": "Capacitorsicon.png"
+  },
+  "wires": {
+    "name": "Wires",
+    "img": "Wiresicon.png"
+  },
+  "broken_gphone_x": {
+    "name": "Broken GPhone X",
+    "img": "Broken_GPhone_x_Icon.png"
+  },
+  "wd_40_400ml": {
+    "name": "WD-40 400ml",
+    "img": "wd-40400icon.png"
+  },
+  "wd_40_100ml": {
+    "name": "WD-40 100ml.",
+    "img": "WD40_100ml_Icon.png"
+  },
+  "aa_battery": {
+    "name": "AA Battery",
+    "img": "AA_Battery_Icon_2.png"
+  },
+  "d_size_battery": {
+    "name": "D Size Battery",
+    "img": "D_Size_Battery_Icon.png"
+  },
+  "car_battery": {
+    "name": "Car battery",
+    "img": "Car_Battery_Icon.png"
+  },
+  "spark_plug": {
+    "name": "Spark plug",
+    "img": "Spark_Plug_Icon_.png"
+  },
+  "energy_saving_lamp": {
+    "name": "Energy-saving lamp",
+    "img": "Energy-Saving_Lamp_Icon.png"
+  },
+  "ultraviolet_lamp": {
+    "name": "Ultraviolet lamp",
+    "img": "UV_lamp_Icon.png"
+  },
+  "geiger_muller_counter": {
+    "name": "Geiger-Muller counter",
+    "img": "Geiger-Mueller_counter_Icon.png"
+  },
+  "broken_gphone": {
+    "name": "Broken GPhone",
+    "img": "Broken_GPhone_Icon.png"
+  },
+  "cpu_fan": {
+    "name": "CPU Fan",
+    "img": "CPU_Fan_Icon.png"
+  },
+  "pc_cpu": {
+    "name": "PC CPU",
+    "img": "PC_CPU_Icon.png"
+  },
+  "dvd_drive": {
+    "name": "DVD drive",
+    "img": "DVD_drive_Icon.png"
+  },
+  "ram": {
+    "name": "RAM",
+    "img": "ramicon.png"
+  },
+  "power_supply_unit": {
+    "name": "Power supply unit",
+    "img": "Psuicon.png"
+  },
+  "printed_circuit_board": {
+    "name": "Printed circuit board",
+    "img": "Circuit_Icon.png"
+  },
+  "graphics_card": {
+    "name": "Graphics card",
+    "img": "Graphics_Card_icon.png"
+  },
+  "powercord": {
+    "name": "Powercord",
+    "img": "Powercord_icon.png"
+  },
+  "insulating_tape": {
+    "name": "Insulating tape",
+    "img": "Insulating_tape_Icon.png"
+  },
+  "duct_tape": {
+    "name": "Duct tape",
+    "img": "Duct_tape_Icon.png"
+  },
+  "construction_measuring_tape": {
+    "name": "Construction measuring tape",
+    "img": "Construction_Measuring_Tape_Icon.png"
+  },
+  "toothpaste": {
+    "name": "Toothpaste",
+    "img": "Toothpasteicon.png"
+  },
+  "usb_adapter": {
+    "name": "USB Adapter",
+    "img": "USB_Adapter_Icon.png"
+  },
+  "t_shaped_plug": {
+    "name": "T-Shaped Plug",
+    "img": "T-Shaped_Plug_Icon.png"
+  },
+  "printer_paper": {
+    "name": "Printer paper",
+    "img": "Printer_Paper_icon.png"
+  },
+  "screwdriver": {
+    "name": "Screwdriver",
+    "img": "Screwdriver_Icon.png"
+  },
+  "wrench": {
+    "name": "Wrench",
+    "img": "Wrench_Icon.png"
+  },
+  "pliers": {
+    "name": "Pliers",
+    "img": "Plier_Icon.png"
+  },
+  "electric_drill": {
+    "name": "Electric drill",
+    "img": "Electric_Drill_icon.png"
+  },
+  "antique_vase": {
+    "name": "Antique vase",
+    "img": "Vaseicon.png"
+  },
+  "antique_teapot": {
+    "name": "Antique teapot",
+    "img": "Teapot_icon.png"
+  },
+  "silver_badge": {
+    "name": "Silver Badge",
+    "img": "Silver_Badge_icon.png"
+  },
+  "chainlet": {
+    "name": "Chainlet",
+    "img": "Chainlet_icon.png"
+  },
+  "golden_neck_chain": {
+    "name": "Golden neck chain",
+    "img": "Golden_neck_chain_Icon.png"
+  },
+  "physical_bitcoin": {
+    "name": "Physical bitcoin",
+    "img": "Bitcoin_icon.png"
+  },
+  "damaged_hard_drive": {
+    "name": "Damaged hard drive",
+    "img": "Damaged_Hard_Drive_Icon.png"
+  },
+  "magnet": {
+    "name": "Magnet",
+    "img": "Magnet_Icon.png"
+  },
+  "paid_antiroach": {
+    "name": "Paid AntiRoach",
+    "img": "paidicon.png"
+  },
+  "clin_wiper": {
+    "name": "Clin wiper",
+    "img": "Clin_Wiper_icon.png‎"
+  },
+  "portable_defibrillator": {
+    "name": "Portable defibrillator",
+    "img": "Defibrillatoricon.png"
+  },
+  "ledx_skin_transilluminator": {
+    "name": "LEDX Skin Transilluminator",
+    "img": "TransilluminatorIcon.png"
+  },
+  "saline_solution": {
+    "name": "Saline solution",
+    "img": "Saline_Solution_icon.png"
+  },
+  "medical_bloodset": {
+    "name": "Medical bloodset",
+    "img": "Medical_Bloodset_Icon.png"
+  },
+  "hydrogen_peroxide": {
+    "name": "Hydrogen peroxide",
+    "img": "Hydrogen_Peroxide_icon.png"
+  },
+  "ox_bleach": {
+    "name": "Ox bleach",
+    "img": "bleachicon.png"
+  },
+  "shustrilo_sealing_foam": {
+    "name": "Shustrilo sealing foam",
+    "img": "Shusicon.png"
+  },
+  "xenomorph_sealing_foam": {
+    "name": "Xenomorph sealing foam",
+    "img": "Xenoicon.png"
+  },
+  "sodium_bicarbonate": {
+    "name": "Sodium bicarbonate",
+    "img": "Sodium_Bicarbonate_icon.png"
+  },
+  "soap": {
+    "name": "Soap",
+    "img": "Soap_icon.png"
+  },
+  "toilet_paper": {
+    "name": "Toilet paper",
+    "img": "Toilet_paper_icon.png"
+  },
+  "5l_propane_tank": {
+    "name": "5L propane tank",
+    "img": "5L_propane_tank_icon.png"
+  },
+  "fuel_conditioner": {
+    "name": "Fuel conditioner",
+    "img": "fuelcondicon.png"
+  },
+  "heat_exchange_alkali_surface_washer": {
+    "name": "Heat-exchange alkali surface washer",
+    "img": "Heat-exchange_alkali_surface_washer_icon.png"
+  },
+  "dry_fuel": {
+    "name": "Dry fuel",
+    "img": "Dryfuelicon.png"
+  },
+  "a_set_of_tools": {
+    "name": "A set of tools",
+    "img": "Toolsicon.png"
+  },
+  "rechargeable_battery": {
+    "name": "Rechargeable battery",
+    "img": "Recicon.png"
+  },
+  "air_filter_for_gas_mask": {
+    "name": "Air filter for gas mask",
+    "img": "Airfiltericon.png"
+  },
+  "secure_flash_drive": {
+    "name": "Secure Flash drive",
+    "img": "Secure_Flash_drive_Icon.png"
+  },
+  "coffee_majaica": {
+    "name": "Coffee Majaica",
+    "img": "Coffeicon.png"
+  },
+  "ophthalmoscope": {
+    "name": "Ophthalmoscope",
+    "img": "Ophthalmoscopeicon.png"
+  },
+  "pliers_elite": {
+    "name": "Pliers Elite",
+    "img": "PliersElite.png"
+  },
+  "powerbank": {
+    "name": "Powerbank",
+    "img": "PowerbankIcon.png"
+  },
+  "42nd_signature_blend_english_tea": {
+    "name": "42nd Signature Blend English Tea",
+    "img": "EnglishTeaIcon.png"
+  },
+  "golden_rooster": {
+    "name": "Golden rooster",
+    "img": "GoldenRoosterIcon.png"
+  },
+  "roler_submariner_gold_wrist_watch": {
+    "name": "Roler submariner gold wrist watch",
+    "img": "Roler_icon.png"
+  },
+  "battered_antique_book": {
+    "name": "Battered antique Book",
+    "img": "BatteredBookIcon.png"
+  },
+  "fireklean_gun_lube": {
+    "name": "FireKlean gun lube",
+    "img": "FireKlean_icon.png"
+  },
+  "old_firesteel": {
+    "name": "Old firesteel",
+    "img": "FireSteelIcon.png"
+  },
+  "deadlyslob's_beard_oil": {
+    "name": "Deadlyslob's beard oil",
+    "img": "Deadlyslobs_beard_oil_icon.png"
+  },
+  "golden_1gphone": {
+    "name": "Golden 1GPhone",
+    "img": "1gphone_icon.png"
+  },
+  "tetriz_portable_game": {
+    "name": "Tetriz portable game",
+    "img": "Tetriz_icon.png"
+  },
+  "chain_with_prokill_medallion": {
+    "name": "Chain with Prokill medallion",
+    "img": "Prokill_medallion_Icon.png"
+  },
+  "nippers": {
+    "name": "Nippers",
+    "img": "Nippers_small.png"
+  },
+  "metal_cutting_scissors": {
+    "name": "Metal cutting scissors",
+    "img": "Metal_cutting_scissors_icon.png"
+  },
+  "hand_drill": {
+    "name": "Hand drill",
+    "img": "Handdrill_icon.png"
+  },
+  "6_sten_140_m_military_battery": {
+    "name": "6-STEN-140-M military battery",
+    "img": "Mil_Batt_icon.png"
+  },
+  "nixxor_lens": {
+    "name": "NIXXOR lens",
+    "img": "NIXXOR_lens_icon.png"
+  },
+  "expeditionary_fuel_tank": {
+    "name": "Expeditionary fuel tank",
+    "img": "Expeditionary-fuel-tank-icon.png"
+  },
+  "metal_fuel_tank": {
+    "name": "Metal fuel tank",
+    "img": "Metal-fuel-tank-icon.png"
+  },
+  "fp_100_filter_absorber": {
+    "name": "FP-100 filter absorber",
+    "img": "FP-100_filter_absorber_icon.png"
+  },
+  "electric_motor": {
+    "name": "Electric motor",
+    "img": "Electric_motor_icon.png"
+  },
+  "broken_lcd": {
+    "name": "Broken LCD",
+    "img": "Lcd-icon.PNG"
+  },
+  "working_lcd": {
+    "name": "Working LCD",
+    "img": "Working_LCD_Icon.png"
+  },
+  "gp_coin": {
+    "name": "GP coin",
+    "img": "gp_coin_icon.png"
+  },
+  "water_filter": {
+    "name": "Water filter",
+    "img": "Water_filter_icon.png"
+  },
+  "gunpowder_kite": {
+    "name": "Gunpowder \"Kite\"",
+    "img": "Gunpowder_Icon.png"
+  },
+  "gunpowder_eagle": {
+    "name": "Gunpowder \"Eagle\"",
+    "img": "Gunpowder_eagle_icon.png"
+  },
+  "gunpowder_hawk": {
+    "name": "Gunpowder \"Hawk\"",
+    "img": "GunpowderHawkIcon.png"
+  },
+  "pile_of_meds": {
+    "name": "Pile of meds",
+    "img": "Pile_of_meds_icon.png"
+  },
+  "disposable_syringe": {
+    "name": "Disposable syringe",
+    "img": "DisposableSyringeIcon.png"
+  },
+  "phased_array_element": {
+    "name": "Phased array element",
+    "img": "Phased-Array-Element-icon.png"
+  },
+  "military_circuit_board": {
+    "name": "Military circuit board",
+    "img": "MilitaryCircuitBoardIcon.png"
+  },
+  "military_thermal_vision_module_iridium": {
+    "name": "Military thermal vision module Iridium",
+    "img": "Mil_thervis.png"
+  },
+  "military_gyrotachometer": {
+    "name": "Military gyrotachometer",
+    "img": "MGT_Icon.png"
+  },
+  "weapon_parts": {
+    "name": "Weapon parts",
+    "img": "WeaponPartsIcon.png"
+  },
+  "round_pliers": {
+    "name": "Round pliers",
+    "img": "RoundPliersIcon.png"
+  },
+  "ofz_30x160mm_shell": {
+    "name": "OFZ 30x160mm shell",
+    "img": "30x160mmShellicon.png"
+  },
+  "military_cable": {
+    "name": "Military cable",
+    "img": "MilitaryCableIcon.png"
+  },
+  "military_power_filter": {
+    "name": "Military power filter",
+    "img": "Mil_Filter_Icon.png"
+  },
+  "pressure_gauge": {
+    "name": "Pressure gauge",
+    "img": "Pressure_gauge_icon.png"
+  },
+  "analog_thermometer": {
+    "name": "Analog thermometer",
+    "img": "Anal_Thermometer_Icon.png"
+  },
+  "light_bulb": {
+    "name": "Light bulb",
+    "img": "Bulb_icon.png"
+  },
+  "radiator_helix": {
+    "name": "Radiator helix",
+    "img": "RadiatorHelixIcon.png"
+  },
+  "gold_skull_ring": {
+    "name": "Gold skull ring",
+    "img": "SkullRing_Icon.png"
+  },
+  "technical_documentation": {
+    "name": "Technical documentation",
+    "img": "Lada_manual_icon.png"
+  },
+  "schaman_shampoo": {
+    "name": "Schaman shampoo",
+    "img": "Shampoo_icon.png"
+  },
+  "ortodontox_toothpaste": {
+    "name": "Ortodontox toothpaste",
+    "img": "OrtodontoxToothpasteIcon.png"
+  },
+  "long_flat_screwdriver": {
+    "name": "Long flat screwdriver",
+    "img": "Long_screwdriver_icon.png"
+  },
+  "flat_screwdriver": {
+    "name": "Flat screwdriver",
+    "img": "Flat_Screwdriver_Icon.PNG"
+  },
+  "phase_control_relay": {
+    "name": "Phase control relay",
+    "img": "Relay_Icon.png"
+  },
+  "silicone_tube": {
+    "name": "Silicone tube",
+    "img": "SiliconeTubeIcon.png"
+  },
+  "diary": {
+    "name": "Diary",
+    "img": "Diary_Icon1.png"
+  },
+  "slim_diary": {
+    "name": "Slim diary",
+    "img": "SlimDiaryIcon.png"
+  },
+  "christmas_tree_decoration_ball_red": {
+    "name": "Christmas tree decoration ball (red)",
+    "img": "Christmas_ornament_red_icon.png"
+  },
+  "christmas_tree_decoration_ball_silver": {
+    "name": "Christmas tree decoration ball (silver)",
+    "img": "Christmas_ornament_silver_icon.png"
+  },
+  "christmas_tree_decoration_ball_violet": {
+    "name": "Christmas tree decoration ball (violet)",
+    "img": "Christmas_ornament_violet_icon.png"
+  },
+  "greenbat_lithium_battery": {
+    "name": "GreenBat lithium battery",
+    "img": "GreenBat_Icon.png"
+  },
+  "cyclon_accumulator_battery": {
+    "name": "Cyclon accumulator battery",
+    "img": "Cyclon_Icon.png"
+  },
+  "tube_of_poxeram_cold_welding": {
+    "name": "Tube of Poxeram Cold Welding",
+    "img": "PoxeramIcon.png"
+  },
+  "kektape_duct_tape": {
+    "name": "KEKTAPE duct tape",
+    "img": "KEKTape_icon.png"
+  },
+  "pack_of_chlorine": {
+    "name": "Pack of chlorine",
+    "img": "PackOfChlorine_icon.png"
+  },
+  "smoked_chimney_drain_cleaner": {
+    "name": "Smoked Chimney drain cleaner",
+    "img": "Smokedchimneydraincleanericon.png"
+  },
+  "repellent": {
+    "name": "Repellent",
+    "img": "RepellentIcon.png"
+  },
+  "raven_figurine": {
+    "name": "Raven figurine",
+    "img": "Raven_figurine_icon.png"
+  },
+  "survl_survivor_lighter": {
+    "name": "SurvL Survivor Lighter",
+    "img": "SurvL_Icon.png"
+  },
+  "hunter_matches": {
+    "name": "Hunter matches",
+    "img": "HunterMatches_Icon.png"
+  },
+  "ripstop_cloth": {
+    "name": "Ripstop cloth",
+    "img": "Ripstop_icon.png"
+  },
+  "aramid_fiber_cloth": {
+    "name": "Aramid fiber cloth",
+    "img": "Aramid_Icon_.png"
+  },
+  "fleece_cloth": {
+    "name": "Fleece cloth",
+    "img": "Fleece_Icon.png"
+  },
+  "polyamide_fabric_cordura": {
+    "name": "Polyamide fabric Cordura",
+    "img": "Cordura_Icon.png"
+  },
+  "can_of_dr_lupo's_coffee_beans": {
+    "name": "Can of Dr. Lupo's coffee beans",
+    "img": "Lupo_Icon.png"
+  },
+  "uzrgm_grenade_fuze": {
+    "name": "UZRGM grenade fuze",
+    "img": "Fuze_icon.png"
+  },
+  "veritas_guitar_pick": {
+    "name": "Veritas guitar pick",
+    "img": "VeritasGuitarPickIcon.png"
+  },
+  "pack_of_sugar": {
+    "name": "Pack of sugar",
+    "img": "Sugar_icon.png"
+  },
+  "purified_water": {
+    "name": "Purified water",
+    "img": "Purified_water_icon.png"
+  },
+  "fierce_hatchling_moonshine": {
+    "name": "\"Fierce Hatchling\" moonshine",
+    "img": "Fiece_hatchling_moonshine_icon.png"
+  },
+  "terragroup_labs_access_keycard": {
+    "name": "TerraGroup Labs access keycard",
+    "img": "Terragroup_Labs_access_keycard_icon.png"
+  },
+  "signal_jammer": {
+    "name": "Signal Jammer",
+    "img": "Signal_Jammer_icon.png"
+  },
+  "object_21ws_keycard": {
+    "name": "Object 21WS keycard",
+    "img": "21ws_icon.png"
+  },
+  "object_11sr_keycard": {
+    "name": "Object 11SR keycard",
+    "img": "11sr_icon.png"
+  },
+  "lab_yellow_keycard": {
+    "name": "Lab. Yellow keycard",
+    "img": "Lab._key._Alarm_system_control_panel_icon.png"
+  },
+  "lab_violet_keycard": {
+    "name": "Lab. Violet keycard",
+    "img": "Lab._key._Security_post_icon.png"
+  },
+  "gp_5_gasmask": {
+    "name": "GP-5 gasmask",
+    "img": "GP-5_Icon.png"
+  },
+  "aseptic_bandage": {
+    "name": "Aseptic bandage",
+    "img": "EFT_Aseptic-Bandage_Icon.png"
+  },
+  "bottle_of_vodka_tarkovskaya": {
+    "name": "Bottle of vodka Tarkovskaya",
+    "img": "VodkaIcon.png"
+  },
+  "army_bandage": {
+    "name": "Army bandage",
+    "img": "EFT_Army-Bandage_Icon.png"
+  },
+  "paca_soft_armor": {
+    "name": "PACA Soft Armor",
+    "img": "PACA_icon.png"
+  },
+  "security_vest": {
+    "name": "Security vest",
+    "img": "Securityvesticon.png"
+  },
+  "scav_vest": {
+    "name": "Scav Vest",
+    "img": "Scav_Vest_icon.png"
+  },
+  "tactical_sling_bag": {
+    "name": "Tactical sling bag",
+    "img": "SlingBackPackIcon.png"
+  },
+  "mf_untar_armor_vest": {
+    "name": "MF-UNTAR armor vest",
+    "img": "UNTARArmorIcon.png"
+  },
+  "immobilizing_splint_alu": {
+    "name": "Immobilizing splint (alu)",
+    "img": "AluSplintIcon.png"
+  },
+  "06l_water_bottle": {
+    "name": "0.6L water bottle",
+    "img": "Water_icon.png"
+  },
+  "flyye_mbss_backpack": {
+    "name": "Flyye MBSS Backpack",
+    "img": "Flyye_MBSS_Backpack.png"
+  },
+  "scav_backpack": {
+    "name": "Scav Backpack",
+    "img": "ScavBP_Icon.png"
+  },
+  "tac_kek_fast_mt_helmet_non_ballistic_replica": {
+    "name": "Tac-Kek Fast MT Helmet (non-ballistic replica)",
+    "img": "TK_FAST_Icon.png"
+  },
+  "lzsh_light_helmet": {
+    "name": "LZSh light helmet",
+    "img": "LZSh_light_helmet_icon.png"
+  },
+  "ux_pro_beanie": {
+    "name": "UX PRO Beanie",
+    "img": "uxproicon.png"
+  },
+  "splav_tarzan_m22_rig": {
+    "name": "Splav Tarzan M22 Rig",
+    "img": "Tarzan_icon.png"
+  },
+  "module_3m_bodyarmor": {
+    "name": "Module-3M bodyarmor",
+    "img": "3M_icon.png"
+  },
+  "blackrock_chest_rig": {
+    "name": "BlackRock chest rig",
+    "img": "Blackrock_Icon.png"
+  },
+  "crickent_lighter": {
+    "name": "Crickent lighter",
+    "img": "Cricket_lighter_Icon.png"
+  },
+  "30_round_6l23_545x39_magazine_for_ak_74_and_compatibles": {
+    "name": "30-round 6L23 5.45x39 magazine for AK-74 and compatibles",
+    "img": "30rndakplastic.png"
+  },
+  "60_round_6l31_545x39_magazine_for_ak_74_and_compatibles": {
+    "name": "60-round 6L31 5.45x39 magazine for AK-74 and compatibles",
+    "img": "6L31-60-mag_icon.png"
+  },
+  "lk_3f_transfer_tourist_backpack": {
+    "name": "LK 3F Transfer tourist backpack",
+    "img": "LK_3F_backpack_icon.png"
+  },
+  "pilgrim_tourist_backpack": {
+    "name": "Pilgrim tourist backpack",
+    "img": "Pilgrim_Backpack_icon.png"
+  },
+  "duffle_bag": {
+    "name": "Duffle bag",
+    "img": "Duffel_icon.png"
+  },
+  "bars_a_2607_95x18": {
+    "name": "Bars A-2607- 95x18",
+    "img": "A-2607_Bars.png"
+  },
+  "magazine_case": {
+    "name": "Magazine case",
+    "img": "Magbox_icon.png"
+  },
+  "lucky_scav_junkbox": {
+    "name": "Lucky Scav Junkbox",
+    "img": "Junkbox.png"
+  },
+  "grenade_case": {
+    "name": "Grenade case",
+    "img": "Grenade.png"
+  },
+  "triton_m43_a_chest_harness": {
+    "name": "Triton M43-A Chest Harness",
+    "img": "Triton_M43-A_Chest_Harness_icon.png"
+  },
+  "velocity_systems_multi_purpose_patrol_vest": {
+    "name": "Velocity Systems Multi-Purpose Patrol Vest",
+    "img": "MPPV_ICon.png"
+  },
+  "vkbo_army_bag": {
+    "name": "VKBO army bag",
+    "img": "Armybagicon.png"
+  },
+  "leatherman_multitool": {
+    "name": "Leatherman Multitool",
+    "img": "Multitoolicon.png"
+  },
+  "6sh118_raid_backpack": {
+    "name": "6SH118 raid backpack",
+    "img": "6SH118_Icon.png"
+  },
+  "ai_2_medikit": {
+    "name": "AI-2 medikit",
+    "img": "AI-2_Icon.png"
+  },
+  "calok_b_hemostatic": {
+    "name": "CALOK-B Hemostatic",
+    "img": "HemostaticIcon.png"
+  },
+  "analgin_painkillers": {
+    "name": "Analgin painkillers",
+    "img": "EFT_Painkillers_Icon.png"
+  },
+  "esmarch_tourniquet": {
+    "name": "Esmarch tourniquet",
+    "img": "TournIcon.png"
+  },
+  "salewa_first_aid_kit": {
+    "name": "Salewa FIRST AID KIT",
+    "img": "EFT_Salewa-First-Aid-Kit_Icon_2.png"
+  },
+  "augmentin_antibiotic_pills": {
+    "name": "Augmentin antibiotic pills",
+    "img": "EFT_Augmentin-antibiotic-pills_Icon.png"
+  },
+  "ifak_personal_tactical_first_aid_kit": {
+    "name": "IFAK personal tactical first aid kit",
+    "img": "EFT_IFAK_Icon.png"
+  },
+  "adrenaline_injector": {
+    "name": "Adrenaline injector",
+    "img": "Adrenaline_Icon.png"
+  },
+  "antidote_xtg_12": {
+    "name": "Antidote xTG-12",
+    "img": "XTG-12icon.png"
+  },
+  "morphine_injector": {
+    "name": "Morphine injector",
+    "img": "EFT_Morphine_Icon.png"
+  },
+  "propital": {
+    "name": "Propital",
+    "img": "PropitalIcon.png"
+  },
+  "combat_stimulant_injector_sj1_tglabs": {
+    "name": "Combat stimulant injector SJ1 TGLabs",
+    "img": "Combat_stimulant_SJ1_icon.png"
+  },
+  "hemostatic_drug_zagustin": {
+    "name": "Hemostatic drug Zagustin",
+    "img": "Hemostatic_drug_Zagustin_icon.png"
+  },
+  "max_energy": {
+    "name": "Max energy",
+    "img": "NRG_Drink_icon.png"
+  },
+  "mule_stimulator": {
+    "name": "M.U.L.E. stimulator",
+    "img": "M.U.L.E._Stimulator_Icon.png"
+  },
+  "vaseline": {
+    "name": "Vaseline",
+    "img": "EFT_Vaseline_Icon.png"
+  },
+  "grizzly_first_aid_kit": {
+    "name": "Grizzly First Aid Kit",
+    "img": "EFT_Grizzly_Icon.png"
+  },
+  "surv12_field_surgical_kit": {
+    "name": "Surv12 field surgical kit",
+    "img": "Surv12_icon.png"
+  },
+  "combat_stimulant_injector_sj6_tglabs": {
+    "name": "Combat stimulant injector SJ6 TGLabs",
+    "img": "Combat_stimulant_SJ6_icon.png"
+  },
+  "ibuprofen_painkillers": {
+    "name": "Ibuprofen painkillers",
+    "img": "Ibuprofen_painkiller_icon.png"
+  },
+  "golden_star_balm": {
+    "name": "Golden Star Balm",
+    "img": "Golden_Star_Balm_Icon.png"
+  },
+  "army_crackers": {
+    "name": "Army Crackers",
+    "img": "Army_Crackers_icon.png"
+  },
+  "can_of_beef_stew": {
+    "name": "Can of beef stew",
+    "img": "Can_of_beef_stew_Icon.png"
+  },
+  "squash_spread": {
+    "name": "Squash spread",
+    "img": "Squash_Spread_icon.png"
+  },
+  "iskra_lunch_box": {
+    "name": "Iskra lunch box",
+    "img": "Lunchbox_icon.png"
+  },
+  "emelya_rye_croutons": {
+    "name": "Emelya rye croutons",
+    "img": "Emeyla_Croutons.png"
+  },
+  "premium_kvass_norvinskiy_yadreniy_06l_bottle": {
+    "name": "Premium Kvass \"Norvinskiy Yadreniy\" 0.6L bottle",
+    "img": "kvass_icon.png"
+  },
+  "can_of_delicious_beef_stew": {
+    "name": "Can of delicious beef stew",
+    "img": "Can_of_beef_stew_alt_Icon.png"
+  },
+  "rye_croutons": {
+    "name": "Rye croutons",
+    "img": "Rye_Croutons.png"
+  },
+  "tarcola": {
+    "name": "TarCola",
+    "img": "Tar_Cola_icon.png"
+  },
+  "alyonka_chocolate_bar": {
+    "name": "Alyonka chocolate bar",
+    "img": "Alyonka_Chocolate_Bar_icon.png"
+  },
+  "pack_of_oat_flakes": {
+    "name": "Pack of oat flakes",
+    "img": "Oatflakes_icon.png"
+  },
+  "slickers_bar": {
+    "name": "Slickers bar",
+    "img": "Slickers_bar_icon.png"
+  },
+  "pack_of_milk": {
+    "name": "Pack of milk",
+    "img": "Pack_ofMilk_icon.png"
+  },
+  "condensed_milk": {
+    "name": "Condensed milk",
+    "img": "condmilkicon.png"
+  },
+  "bottle_of_dan_jackiel_whiskey": {
+    "name": "Bottle of Dan Jackiel Whiskey",
+    "img": "Whiskey_icon.png"
+  },
+  "water_bottle_with_a_filter_aquamari": {
+    "name": "Water bottle with a filter Aquamari",
+    "img": "Aquamari_icon.png"
+  },
+  "hot_rod": {
+    "name": "Hot Rod",
+    "img": "Hor_Rod_icon.png"
+  },
+  "40_mm_vog_25": {
+    "name": "40 mm VOG-25",
+    "img": "40_VOG-25.png"
+  },
+  "vog_25_khattabka_grenade": {
+    "name": "VOG-25 Khattabka grenade",
+    "img": "Vog-25_icon.png"
+  },
+  "vepr_akm_vpo_209_366tkm_carbine": {
+    "name": "Vepr AKM / VPO-209 366TKM carbine",
+    "img": "VPO-209_icon.png"
+  },
+  "wooden_ak_74_handguard_6p20_sb6": {
+    "name": "Wooden AK-74 handguard (6P20 Sb.6)",
+    "img": "6p20sb6.png"
+  },
+  "izhmash_wooden_ak_74_stock_6p20_sb5": {
+    "name": "Izhmash wooden AK-74 stock (6P20 Sb.5)",
+    "img": "6p20sb5icon.png"
+  },
+  "ak_74n_545x39_assault_rifle": {
+    "name": "AK-74N 5.45x39 assault rifle",
+    "img": "AK-74N_Magpul.png"
+  },
+  "vepr_km_vpo_136_762x39_carbine": {
+    "name": "Vepr KM / VPO-136 7.62x39 carbine",
+    "img": "VPO_136_icon.png"
+  },
+  "izhmash_762x39_akm_muzzle_brake_&amp;_compensator_6p1_0_14": {
+    "name": "Izhmash 7.62x39 AKM muzzle brake &amp; compensator (6P1 0-14)",
+    "img": "6p1.png"
+  },
+  "akm_762x39_assault_rifle": {
+    "name": "AKM 7.62x39 assault rifle",
+    "img": "AKM_icon.png"
+  },
+  "545x39_mm_ps": {
+    "name": "5.45x39 mm PS",
+    "img": "74PSICON.png"
+  },
+  "12_70_85_mm_magnum_buckshot": {
+    "name": "12/70 8.5 mm \"Magnum\" Buckshot",
+    "img": "127065ExpressMagnumIcon.png"
+  },
+  "9x18_pm_mm_rg028_gzh": {
+    "name": "9x18 PM mm RG028 gzh",
+    "img": "9x18RG028GZH.png"
+  },
+  "rdg_2b_smoke_grenade": {
+    "name": "RDG-2B Smoke grenade",
+    "img": "RDG-2B_Smoke_grenade_icon.png"
+  },
+  "zarya_stun_grenade": {
+    "name": "Zarya stun grenade",
+    "img": "Zarya_stun_grenade_icon.png"
+  },
+  "polymer_ak_74_foregrip_6p20_sb9": {
+    "name": "Polymer AK-74 foregrip (6P20 Sb.9)",
+    "img": "6p20sb9.png"
+  },
+  "polymer_stock_for_ak_74m_6p34_sb15": {
+    "name": "Polymer stock for AK-74M (6P34 Sb.15)",
+    "img": "6p45sb15icon.png"
+  },
+  "ak_74m_545x39_assault_rifle": {
+    "name": "AK-74M 5.45x39 assault rifle",
+    "img": "AK74M_Zenitco_icon.png"
+  },
+  "m67_hand_grenade": {
+    "name": "M67 Hand grenade",
+    "img": "m67icon.png"
+  },
+  "762x54r_snb": {
+    "name": "7.62x54R SNB",
+    "img": "SNBICON.png"
+  },
+  "12_70_flechette": {
+    "name": "12/70 Flechette",
+    "img": "12-70_Flechette_icon.png"
+  },
+  "9x18_mm_pm_pst_gzh": {
+    "name": "9x18 mm PM Pst gzh",
+    "img": "9x18PSTGZH.png"
+  },
+  "9x18_mm_pm_pbm": {
+    "name": "9x18 mm PM PBM",
+    "img": "9x18PBM.png"
+  },
+  "12_70_hp_slug_superformance": {
+    "name": "12/70 HP Slug \"SuperFormance\"",
+    "img": "12-70_HP_SF_icon.png"
+  },
+  "wifi_camera": {
+    "name": "WIFI Camera",
+    "img": "WIFI_Camera_Icon.png"
+  },
+  "9x39_mm_sp_6": {
+    "name": "9x39 mm SP-6",
+    "img": "SP6ICON.png"
+  },
+  "762x39_mm_ps": {
+    "name": "7.62x39 mm PS",
+    "img": "7.62x39PS.png"
+  },
+  "366_ap": {
+    "name": ".366 AP",
+    "img": "366APIcon.png"
+  },
+  "545x39_mm_pp": {
+    "name": "5.45x39 mm PP",
+    "img": "74PPICON.png"
+  },
+  "9x19_mm_pst_gzh": {
+    "name": "9x19 mm Pst gzh",
+    "img": "9x19pst.png"
+  },
+  "9x19_mm_ap_63": {
+    "name": "9x19 mm AP 6.3",
+    "img": "9x19ap.png"
+  },
+  "762x39_mm_hp": {
+    "name": "7.62x39 mm HP",
+    "img": "7.62x39HP.png"
+  },
+  "556x45_mm_m855": {
+    "name": "5.56x45 mm M855",
+    "img": "M855ICON.png"
+  },
+  "556x45_mm_m856a1": {
+    "name": "5.56x45 mm M856A1",
+    "img": "M856A1ICON.png"
+  },
+  "flir_rs_32_225_9x_35mm_60hz_thermal_riflescope": {
+    "name": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
+    "img": "FLIR_RS-32_Icon.png"
+  },
+  "rgd_5_hand_grenade": {
+    "name": "RGD-5 hand grenade",
+    "img": "RGD-5_grenade_icon.png"
+  },
+  "9x19_mm_rip": {
+    "name": "9x19 mm RIP",
+    "img": "9x19ripicon.png"
+  },
+  "12_70_ap_20_slug": {
+    "name": "12/70 AP-20 Slug",
+    "img": "12-70_AP-20_icon.png"
+  },
+  "23x75mm_star": {
+    "name": "23x75mm \"Star\"",
+    "img": "23x75_Star_icon.png"
+  },
+  "556x45_mm_warmage": {
+    "name": "5.56x45 mm Warmage",
+    "img": "556warmageicon.png"
+  },
+  "9x21_mm_sp13": {
+    "name": "9x21 mm SP13",
+    "img": "9x21sp13.png"
+  },
+  "9x39_mm_7n9_spp": {
+    "name": "9x39 mm 7N9 SPP",
+    "img": "7n9icon.png"
+  },
+  "762x39_mm_bp": {
+    "name": "7.62x39 mm BP",
+    "img": "7.62x39BP.png"
+  },
+  "9x39_mm_7n12_bp": {
+    "name": "9x39 mm 7N12 BP",
+    "img": "7n12icon.png"
+  },
+  "762x51_mm_m61": {
+    "name": "7.62x51 mm M61",
+    "img": "M61ICON.png"
+  },
+  "556x45_mm_m995": {
+    "name": "5.56x45 mm M995",
+    "img": "M995ICON.png"
+  },
+  "545x39_mm_7n39_igolnik": {
+    "name": "5.45x39 mm 7N39 \"Igolnik\"",
+    "img": "7n39icon.png"
+  },
+  "9x19_mm_7n31": {
+    "name": "9x19 mm 7N31",
+    "img": "7N31Icon.png"
+  },
+  "respirator": {
+    "name": "Respirator",
+    "img": "Respirator_icon.png"
+  },
+  "cms_kit": {
+    "name": "CMS kit",
+    "img": "CMS_Icon.png"
+  },
+  "3_b_tg": {
+    "name": "3-(b-TG)",
+    "img": "3-b-TG_icon.png"
+  },
+  "ahf1_m": {
+    "name": "AHF1-M",
+    "img": "AHF1-M_icon.png"
+  },
+  "antique_axe": {
+    "name": "Antique axe",
+    "img": "Antique_Axe_icon.png"
+  },
+  "can_of_sprats": {
+    "name": "Can of sprats",
+    "img": "Can_of_sprats_Icon.png"
+  },
+  "fake_mustache": {
+    "name": "Fake mustache",
+    "img": "Fake_Mustache_icon.png"
+  },
+  "jar_of_devildog_mayo": {
+    "name": "Jar of DevilDog mayo",
+    "img": "DDGMayoIcon.png"
+  },
+  "kotton_beanie": {
+    "name": "Kotton beanie",
+    "img": "Kotton_Beanie_icon.png"
+  },
+  "pestily_plague_mask": {
+    "name": "Pestily plague mask",
+    "img": "Plague_mask_icon.png"
+  },
+  "shroud_half_mask": {
+    "name": "Shroud half-mask",
+    "img": "Shroud_Icon.png"
+  },
+  "kinda_cowboy_hat": {
+    "name": "Kinda cowboy hat",
+    "img": "Cow_boy_hat_icon.png"
+  },
+  "ushanka_ear_flap_cap": {
+    "name": "Ushanka ear-flap cap",
+    "img": "Ushanka_icon.png"
+  },
+  "dogtag_usec": {
+    "name": "Dogtag (USEC)",
+    "img": "USEC_Dogtag_Icon.png"
+  },
+  "maska_1sch_helmet_killa": {
+    "name": "Maska 1Sch helmet (Killa)",
+    "img": "Maska_1Sch_helmet_icon.gif"
+  },
+  "tt_pistol_762x25_tt_gold": {
+    "name": "TT pistol 7.62x25 TT Gold",
+    "img": "GoldenTTIcon.png"
+  },
+  "shturman_key": {
+    "name": "Shturman key",
+    "img": "Shturman_Key_Icon.png"
+  },
+  "cocktail_obdolbos": {
+    "name": "Cocktail \"Obdolbos\"",
+    "img": "Cocktail_Obdolbos_Icon.png"
+  },
+  "meldonin": {
+    "name": "Meldonin",
+    "img": "Meldonin_Icon.png"
+  },
+  "p22": {
+    "name": "P22",
+    "img": "P22_Icon.png"
+  },
+  "ski_hat_with_holes_for_eyes": {
+    "name": "Ski hat with holes for eyes",
+    "img": "ShmaskaIcon.png"
+  },
+  "wartech_gear_rig": {
+    "name": "Wartech gear rig",
+    "img": "Wartech_gear_rig_icon.png"
+  },
+  "toz_106_bolt_action_shotgun": {
+    "name": "TOZ-106 bolt-action shotgun",
+    "img": "TOZ-106_icon.png"
+  },
+  "lower_half_mask": {
+    "name": "Lower half-mask",
+    "img": "Lower_half-mask_icon.png"
+  },
+  "colt_m4a1_556x45_assault_rifle": {
+    "name": "Colt M4A1 5.56x45 Assault Rifle",
+    "img": "M4A1_LVOA_Icon.png"
+  },
+  "pm_9x18pm_pistol": {
+    "name": "PM 9x18PM pistol",
+    "img": "PM_icon.png"
+  },
+  "dogtag_bear": {
+    "name": "Dogtag (BEAR)",
+    "img": "BEAR_Dogtag_Icon.png"
+  },
+  "prapor": {
+    "name": "Prapor",
+    "img": "Prapor_4_icon.png"
+  },
+  "30_pcs_545x39_bp_gs_ammo_pack": {
+    "name": "30 pcs. 5.45x39 BP gs ammo pack",
+    "img": "545BPAmmoPack30RoundsIcon.png"
+  },
+  "30_pcs_545x39_bt_gs_ammo_pack": {
+    "name": "30 pcs. 5.45x39 BT gs ammo pack",
+    "img": "545BTAmmoPack30RoundsIcon.png"
+  },
+  "f_1_hand_grenade": {
+    "name": "F-1 Hand grenade",
+    "img": "F-1_grenade_icon.png"
+  },
+  "standard_9x18pm_30_round_magazine_for_pp_91": {
+    "name": "Standard 9x18PM 30-round magazine for PP-91",
+    "img": "kedr30rnd.png"
+  },
+  "zenit_belomo_pso_1m2_1_4x24_scope": {
+    "name": "Zenit-Belomo PSO 1M2-1 4x24 scope",
+    "img": "Psoicon.png"
+  },
+  "kalashnikov_aks_74u_545x39": {
+    "name": "Kalashnikov AKS-74U 5.45x39",
+    "img": "AKS-74U_icon.png"
+  },
+  "stechkin_automatic_pistol_9x18pm": {
+    "name": "Stechkin Automatic Pistol 9x18PM",
+    "img": "APSTrade.png"
+  },
+  "submachinegun_pp_19_01_vityaz_sn_9x19": {
+    "name": "Submachinegun PP-19-01 Vityaz-SN 9x19",
+    "img": "PP-19-01_Zenit.png"
+  },
+  "can_of_pacific_saury": {
+    "name": "Can of pacific saury",
+    "img": "Saury_icon.png"
+  },
+  "sssh_95_sfera_s_sphere_s": {
+    "name": "SSSh-95 Sfera-S (Sphere-S)",
+    "img": "SFERAHelmetIcon.png"
+  },
+  "mosin_bolt_action_sniper_rifle": {
+    "name": "Mosin bolt-action sniper rifle",
+    "img": "MosinObrezM.png"
+  },
+  "6b23_1_armor_digital_flora_pattern": {
+    "name": "6B23-1 armor (digital flora pattern)",
+    "img": "6B23-1icon.png"
+  },
+  "umtbs_6sh112_scout_sniper": {
+    "name": "UMTBS 6sh112 Scout-Sniper",
+    "img": "Scout_Sniper_rig_icon.png"
+  },
+  "6l18_45_round_545x39_magazine_for_ak_74_and_compatible_weapons": {
+    "name": "6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons",
+    "img": "45orangeakmagicon.png"
+  },
+  "71_round_762x25_magazine_for_ppsh_41": {
+    "name": "71-round 7.62x25 magazine for PPSH-41",
+    "img": "ppsh71icon.png"
+  },
+  "mre_lunch_box": {
+    "name": "MRE lunch box",
+    "img": "MRE_icon.png"
+  },
+  "valday_ps_320_1x_6x_scope": {
+    "name": "Valday PS-320 1x/6x Scope",
+    "img": "Valday_PS-320_icon.png"
+  },
+  "yarygin_mp_443_grach_9x19_pistol": {
+    "name": "Yarygin MP-443 Grach 9x19 pistol",
+    "img": "Yarygin_MP-443_Grach_icon.png"
+  },
+  "9x21_serdyukov_automatic_pistol_sr1mp_gyurza": {
+    "name": "9x21 Serdyukov automatic pistol SR1MP Gyurza",
+    "img": "SH-1MP_icon.png"
+  },
+  "pompon_hat": {
+    "name": "Pompon hat",
+    "img": "Pompon_hat_icon.png"
+  },
+  "mpl_50_entrenching_tool": {
+    "name": "MPL-50 entrenching tool",
+    "img": "MLP50icon.png"
+  },
+  "kalashnikov_aks_74ub_545x39": {
+    "name": "Kalashnikov AKS-74UB 5.45x39",
+    "img": "AKS-74UBTrade.png"
+  },
+  "ak_74_545x39_assault_rifle": {
+    "name": "AK-74 5.45x39 assault rifle",
+    "img": "AK-74_Plum_Trade.png"
+  },
+  "toz_ks_23m_23x75mm_shotgun": {
+    "name": "TOZ KS-23M 23x75mm shotgun",
+    "img": "KS-23M_Drozd.png"
+  },
+  "sv_98_bolt_action_sniper_rifle": {
+    "name": "SV-98 bolt-action sniper rifle",
+    "img": "SV-98_icon.PNG"
+  },
+  "30_pcs_545x39_bs_gs_ammo_pack": {
+    "name": "30 pcs. 5.45x39 BS gs ammo pack",
+    "img": "545BSAmmoPack30RoundsIcon.png"
+  },
+  "8_pcs_pack_of_9x39_7n9_spp_ammo": {
+    "name": "8 pcs pack of 9x39 7N9 SPP ammo",
+    "img": "8_pcs_pack_9x39_7N9_SPP_ammo_icon.png"
+  },
+  "30_round_sr3m130_9x39_sr3m_magazine": {
+    "name": "30-round SR3M.130 9x39 SR3M magazine",
+    "img": "vssval30roundericon.png"
+  },
+  "95_round_545x39_magazine_for_rpk_16_and_compatibles": {
+    "name": "95-round 5.45x39 magazine for RPK-16 and compatibles",
+    "img": "95-round_5.45x39_magazine_for_RPK-16_icon.png"
+  },
+  "rpk_16_545x39_light_machine_gun": {
+    "name": "RPK-16 5.45x39 light machine gun",
+    "img": "RPKTradeNoMag.png"
+  },
+  "6h5_bayonet": {
+    "name": "6h5 Bayonet",
+    "img": "6h5bayoneticon.png"
+  },
+  "special_sniper_rifle_vss_vintorez": {
+    "name": "Special Sniper Rifle VSS Vintorez",
+    "img": "VSS_icon.png"
+  },
+  "bnti_korund_vm_armor": {
+    "name": "BNTI Korund-VM armor",
+    "img": "KORUNDIcon.png"
+  },
+  "8_pcs_pack_of_9x39_7n12_bp_ammo": {
+    "name": "8 pcs pack of 9x39 7N12 BP ammo",
+    "img": "9x39BPammoPackIcon.png"
+  },
+  "ash_12_127x55_assault_rifle": {
+    "name": "ASh-12 12.7x55 assault rifle",
+    "img": "ASh_Silenced_Trade.png"
+  },
+  "therapist": {
+    "name": "Therapist",
+    "img": "Therapist_4_icon.png"
+  },
+  "car_first_aid_kit": {
+    "name": "Car first aid kit",
+    "img": "EFT_Car-first-aid-kit_Icon.png"
+  },
+  "vita_juice": {
+    "name": "Vita juice",
+    "img": "Vita_Juice_icon.png"
+  },
+  "humpback_salmon": {
+    "name": "Humpback salmon",
+    "img": "Humpback_icon.png"
+  },
+  "green_ice": {
+    "name": "Green Ice",
+    "img": "Green_Tea_icon.png"
+  },
+  "customs_office_key": {
+    "name": "Customs office key",
+    "img": "Customs-office-key-Icon.png"
+  },
+  "west_wing_room_221_key": {
+    "name": "West wing room 221 key",
+    "img": "San.221.png"
+  },
+  "russian_army_pineapple_juice": {
+    "name": "Russian Army pineapple juice",
+    "img": "Pineapple_Juice_icon.png"
+  },
+  "pistol_case": {
+    "name": "Pistol case",
+    "img": "Pistol-Case.png"
+  },
+  "documents_case": {
+    "name": "Documents case",
+    "img": "Document-Case.png"
+  },
+  "keytool": {
+    "name": "Keytool",
+    "img": "Keybar_icon.png"
+  },
+  "meds_case": {
+    "name": "Meds case",
+    "img": "Medscaseicon.png"
+  },
+  "regenerative_stimulant_injector_etg_change": {
+    "name": "Regenerative stimulant injector eTG-change",
+    "img": "ETG_change_icon.png"
+  },
+  "rb_ak_key": {
+    "name": "RB-AK key",
+    "img": "Rb-ak_item.png"
+  },
+  "items_case": {
+    "name": "Items case",
+    "img": "Items_case_icon.png"
+  },
+  "lbt_2670_slim_field_med_pack": {
+    "name": "LBT-2670 Slim Field Med Pack",
+    "img": "LBT-2670_Icon.png"
+  },
+  "key_to_kiba_store_outlet": {
+    "name": "Key to KIBA store outlet",
+    "img": "KibaKeyIcon.png"
+  },
+  "money_case": {
+    "name": "Money case",
+    "img": "Money_case_icon.png"
+  },
+  "t_h_i_c_c_items_case": {
+    "name": "T H I C C Items case",
+    "img": "THICCItemsCaseTrade.png"
+  },
+  "skier": {
+    "name": "Skier",
+    "img": "Skier_4_icon.png"
+  },
+  "zenit_rp_1_charge_handle_for_ak": {
+    "name": "Zenit RP-1 charge handle for AK",
+    "img": "rp-1icon.png"
+  },
+  "zhuk_3_press_armor": {
+    "name": "Zhuk-3 Press armor",
+    "img": "Zhuk-3_Press_armor_icon.png"
+  },
+  "yotota_car_key": {
+    "name": "Yotota car key",
+    "img": "Yotota-car-key-Icon.png"
+  },
+  "car_key": {
+    "name": "Car key",
+    "img": "Car-key-Icon.png"
+  },
+  "vaz_key": {
+    "name": "VAZ key",
+    "img": "Sixpack-Key-Icon.png"
+  },
+  "mp_153_12ga_semi_automatic_shotgun": {
+    "name": "MP-153 12ga semi-automatic shotgun",
+    "img": "MP_153_icon.png"
+  },
+  "magex_g30_magazine_for_glock_45_acp": {
+    "name": "Magex G30 magazine for Glock .45 ACP",
+    "img": "Magex_G30_magazine_for_Glock_45_ACP_icon.png"
+  },
+  "hexagon_12k_sound_suppressor": {
+    "name": "Hexagon 12K sound suppressor",
+    "img": "Hexagon12kicon.png"
+  },
+  "rotor_43_9x19_muzzle_brake": {
+    "name": "Rotor 43 9x19 muzzle brake",
+    "img": "Icon_Rotor43_9.19.png"
+  },
+  "sig_mcx_300_aac_blackout_assault_rifle": {
+    "name": "SIG MCX .300 AAC Blackout Assault Rifle",
+    "img": "MCX_Icon.png"
+  },
+  "5_pcs_12x70_dipp_ammo_box": {
+    "name": "5 pcs. 12x70 DIPP ammo box",
+    "img": "DippAmmoboxicon.png"
+  },
+  "rotor_43_762x51_muzzle_brake_for_vpo_101": {
+    "name": "Rotor 43 7.62x51 muzzle brake for VPO-101",
+    "img": "Rotor43vpo.png"
+  },
+  "eotech_553_holographic_sight": {
+    "name": "Eotech 553 holographic sight",
+    "img": "553icon.png"
+  },
+  "hensoldt_ff_4_16x56_scope": {
+    "name": "Hensoldt FF 4-16x56 scope",
+    "img": "ff3-12icon.png"
+  },
+  "eotech_vudu_1_6_riflescope": {
+    "name": "EOtech Vudu 1-6 riflescope",
+    "img": "1_6_vudu_icon.png"
+  },
+  "skeletonized_ar_15_pistol_grip": {
+    "name": "Skeletonized AR-15 pistol grip",
+    "img": "Skeletonized_AR-15_pistol_grip_Icon.png"
+  },
+  "dvl_10_saboteur_sniper_rifle": {
+    "name": "DVL-10 Saboteur sniper rifle",
+    "img": "DVL-10_Urbana.png"
+  },
+  "20_pcs_9x19_mm_dipp_ammo_box": {
+    "name": "20 pcs. 9x19 mm DIPP ammo box",
+    "img": "DippAmmobox20icon.png"
+  },
+  "tgp_a_545x39_muzzle_device_suppressor": {
+    "name": "TGP-A 5.45x39 muzzle device/suppressor",
+    "img": "tgp-aicon.png"
+  },
+  "sig_sauer_srd_qd_762x51_sound_suppressor": {
+    "name": "Sig-Sauer SRD QD 7.62x51 Sound Suppressor",
+    "img": "Sig-SauerSRDQDSuppressoricon.png"
+  },
+  "trijicon_reap_ir_thermal_riflescope": {
+    "name": "Trijicon REAP-IR thermal riflescope",
+    "img": "thermalicon.png"
+  },
+  "military_base_checkpoint_key": {
+    "name": "Military base checkpoint key",
+    "img": "Checkpoint_Key_icon.png"
+  },
+  "miller_bros_blades_m_2_tactical_sword": {
+    "name": "Miller Bros. Blades M-2 Tactical Sword",
+    "img": "m2swordtradeicon.png"
+  },
+  "weapon_case": {
+    "name": "Weapon case",
+    "img": "Weapon_case_icon.png"
+  },
+  "peacekeeper": {
+    "name": "Peacekeeper",
+    "img": "Peacekeeper_4_icon.png"
+  },
+  "standard_ump_25_round_45_acp_magazine": {
+    "name": "Standard UMP 25-round .45 ACP magazine",
+    "img": "UMP_Magazine_Icon.png"
+  },
+  "bars_a_2607_damascus": {
+    "name": "Bars A-2607- Damascus",
+    "img": "Damascusknifeicon.png"
+  },
+  "p226r_9x19_pistol": {
+    "name": "P226R 9x19 pistol",
+    "img": "P226R_icon.png"
+  },
+  "hk_mp5_9x19_submachinegun_navy_3_round_burst": {
+    "name": "HK MP5 9x19 submachinegun (Navy 3 Round Burst)",
+    "img": "MP5_SD.png"
+  },
+  "sig_mpx_9x19_submachine_gun": {
+    "name": "SIG MPX 9x19 Submachine gun",
+    "img": "MPX_MQB.png"
+  },
+  "lbt_8005a_day_pack_backpack": {
+    "name": "LBT-8005A Day Pack backpack",
+    "img": "Day_pack_icon.PNG"
+  },
+  "standard_9x19_30_round_magazine_for_mp9": {
+    "name": "Standard 9x19 30-round magazine for MP9",
+    "img": "Standard_9x19_30-round_magazine_for_MP9_icon.png"
+  },
+  "sig_bravo4_4x30_scope": {
+    "name": "Sig BRAVO4 4X30 Scope",
+    "img": "Bravo4icon.png"
+  },
+  "m14_utg_4_point_locking_deluxe_mount": {
+    "name": "M14 UTG 4 point locking deluxe mount",
+    "img": "UTG4Icon.png"
+  },
+  "ds_arms_sa_58_762x51": {
+    "name": "DS Arms SA-58 7.62x51",
+    "img": "DS_Arms_SA-58_762x51_PBR.png"
+  },
+  "fn_five_seven_mk2_57x28_pistol": {
+    "name": "FN Five-seveN MK2 5.7x28 pistol",
+    "img": "Five-seveN_FDE_icon.png"
+  },
+  "secure_container_beta": {
+    "name": "Secure container Beta",
+    "img": "Beta_icon.png"
+  },
+  "20_pcs_pack_556x45_warmage_ammo": {
+    "name": "20 pcs pack 5.56x45 Warmage ammo",
+    "img": "Warmage.png"
+  },
+  "60_round_mag5_60_556x45_stanag_magazine": {
+    "name": "60-round MAG5-60 5.56x45 STANAG magazine",
+    "img": "STANAG_magazine_60-round_MAG5_-5.56x45.png"
+  },
+  "magpul_pmag_d_60_556x45_60_round_magazine": {
+    "name": "Magpul PMAG D-60 5.56x45 60-round magazine",
+    "img": "Magpul_PMAG_D-60.png"
+  },
+  "gpnvg_18_night_vision": {
+    "name": "GPNVG-18 Night Vision",
+    "img": "Gpnvgicon.png"
+  },
+  "team_wendy_exfil_ballistic_helmet": {
+    "name": "Team Wendy EXFIL Ballistic Helmet",
+    "img": "EXFIL_Icon_Black.png"
+  },
+  "remington_r11_rsass_762x51": {
+    "name": "Remington R11 RSASS 7.62x51",
+    "img": "Rsassstandardtrade.png"
+  },
+  "fn_p90_57x28_submachinegun": {
+    "name": "FN P90 5.7x28 submachinegun",
+    "img": "FN_P90_5.7x28_submachinegun_CWDG.png"
+  },
+  "springfield_armory_m1a_762x51": {
+    "name": "Springfield Armory M1A 7.62x51",
+    "img": "m1sasstrade.png"
+  },
+  "fn_gl40_mk2_grenade_launcher": {
+    "name": "FN GL40 Mk.2 grenade launcher",
+    "img": "GL40barter.png"
+  },
+  "crye_airframe_chops": {
+    "name": "Crye Airframe Chops",
+    "img": "CryeAirframeChops_icon.png"
+  },
+  "hk_mp7a2_46x30_submachinegun": {
+    "name": "HK MP7A2 4.6x30 submachinegun",
+    "img": "HKMP7A2Icon.png"
+  },
+  "mechanic": {
+    "name": "Mechanic",
+    "img": "Mechanic_4_icon.png"
+  },
+  "vog_17_khattabka_grenade": {
+    "name": "VOG-17 Khattabka grenade",
+    "img": "Vog-17_icon.png"
+  },
+  "vulcan_mg_night_scope_35x": {
+    "name": "Vulcan MG night scope 3.5x",
+    "img": "Vulcan_MG_night_scope_3.5x_Icon.png"
+  },
+  "an_pvs_14_night_vision_monocular": {
+    "name": "AN/PVS-14 Night Vision Monocular",
+    "img": "PVS-14_Icon.png"
+  },
+  "magpul_m_lok_25_inch_guide": {
+    "name": "Magpul M-LOK 2.5 inch guide",
+    "img": "Magpul_MLOK_2_5_inch_rail_Icon.png"
+  },
+  "magpul_m_lok_41_inch_guide": {
+    "name": "Magpul M-LOK 4.1 inch guide",
+    "img": "Magpul_MLOK_4_1_inch_rail_Icon.png"
+  },
+  "custom_plastic_mp_133_forestock_with_mounts": {
+    "name": "Custom plastic MP-133 forestock with mounts",
+    "img": "custommp133.png"
+  },
+  "b_11_aks_74u_handguard": {
+    "name": "B-11 AKS-74U Handguard",
+    "img": "B-11hg.png"
+  },
+  "tt_pistol_762x25_tt": {
+    "name": "TT pistol 7.62x25 TT",
+    "img": "TTBrunner.png"
+  },
+  "glock_17_9x19_pistol": {
+    "name": "GLOCK 17 9x19 pistol",
+    "img": "GLOCK17_Fischer.png"
+  },
+  "mp_133_12ga_shotgun": {
+    "name": "MP-133 12ga shotgun",
+    "img": "MR-133_Tactical.png"
+  },
+  "hk_mp7a1_46x30_submachinegun": {
+    "name": "HK MP7A1 4.6x30 submachinegun",
+    "img": "MP7BitcoinIcon.png"
+  },
+  "wilcox_skull_lock_head_mount": {
+    "name": "Wilcox Skull Lock head mount",
+    "img": "HeadLockTrade.png"
+  },
+  "hk_ump_45_submachinegun": {
+    "name": "HK UMP 45 submachinegun",
+    "img": "UMP45_Icon.png"
+  },
+  "ammo_case": {
+    "name": "Ammo case",
+    "img": "Ammocaseicon.png"
+  },
+  "pm_ppsh_9x18pm_84_round_drum_mag_for_pm": {
+    "name": "PM/PPSH 9x18PM 84-round drum mag for PM",
+    "img": "Makarovdrumicon.png"
+  },
+  "x_products_x_5_mp5_50_round_9x19_magazine": {
+    "name": "X Products X-5 MP5 50-round 9x19 magazine",
+    "img": "Mp5drumicon.png"
+  },
+  "sgmt_drum_mag_for_glock_9x19_50_rounds_capacity": {
+    "name": "SGMT Drum mag for Glock 9x19, 50 rounds capacity",
+    "img": "glockdrumicon.png"
+  },
+  "promag_ak_a_16_73_round_762x39_magazine_for_akm_and_compatibles": {
+    "name": "ProMag AK-A-16 73-round 7.62x39 magazine for AKM and compatibles",
+    "img": "ProMag_AK-A-16_73-round_7.62x39_magazine_for_AKM_and_compatibles_icon.png"
+  },
+  "silencerco_hybrid_46_multi_caliber_silencer": {
+    "name": "Silencerco Hybrid 46 multi-caliber silencer",
+    "img": "Hybrid46icon.png"
+  },
+  "silencerco_osprey_9_9x19mm_sound_suppressor": {
+    "name": "SilencerCo Osprey 9 9x19mm sound suppressor",
+    "img": "Osprey9icon.png"
+  },
+  "elcan_specterdr_1x_4x_scope": {
+    "name": "ELCAN SpecterDR 1x/4x Scope",
+    "img": "SpectreDR_Icon.gif"
+  },
+  "badger_ordnance_tactical_charging_handle_latch": {
+    "name": "Badger Ordnance Tactical Charging Handle Latch",
+    "img": "botlicon.png"
+  },
+  "m14_ultimak_m8_upper_part": {
+    "name": "M14 Ultimak M8 upper part",
+    "img": "M14_Ultimak_M8_upper_part.png"
+  },
+  "34mm_one_piece_magmount_made_by_i_e_a_mil_optics": {
+    "name": "34mm one piece magmount made by I-E-A Mil Optics",
+    "img": "KH-F_Icon.png"
+  },
+  "sga_stock_for_m870": {
+    "name": "SGA stock for M870",
+    "img": "m870stockmagpulicon.png"
+  },
+  "fab_defence_gl_shock_stock": {
+    "name": "Fab Defence GL Shock Stock",
+    "img": "glshockstockicon.png"
+  },
+  "260mm_barrel_for_ar_15_and_compatible_556x45": {
+    "name": "260mm barrel for AR-15 and compatible 5.56x45",
+    "img": "260mmm4icon.png"
+  },
+  "magpul_moe_m870_forestock": {
+    "name": "Magpul MOE M870 forestock",
+    "img": "magpulm870forestockicon.png"
+  },
+  "daniel_defence_fde_ris_ii_fsp_95_foregrip_for_ar_15_compatible_systems": {
+    "name": "Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems",
+    "img": "RIS_II_FSP_Icon.png"
+  },
+  "simonov_semi_automatic_carbine_sks_762x39": {
+    "name": "Simonov Semi-Automatic Carbine SKS 7.62x39",
+    "img": "SKS_for_GP_Coin.png"
+  },
+  "simonov_semi_automatic_carbine_sks_762x39_hunting_rifle_version": {
+    "name": "Simonov Semi-Automatic Carbine SKS 7.62x39 Hunting Rifle Version",
+    "img": "OP-SKS_Mehcanic.png"
+  },
+  "remington_model_870_12ga_shotgun": {
+    "name": "Remington Model 870 12ga shotgun",
+    "img": "M870_Breacher.png"
+  },
+  "mosin_rifle_sniper_carbine_stock": {
+    "name": "Mosin rifle sniper carbine stock",
+    "img": "MosinRifleCarabineStock_Icon.png"
+  },
+  "regular_730mm_mosin_barrel": {
+    "name": "Regular 730mm Mosin barrel",
+    "img": "730mm_Mosin_Icon.png"
+  },
+  "remington_model_700_sniper_rifle": {
+    "name": "Remington Model 700 Sniper rifle",
+    "img": "M700AACTrade.png"
+  },
+  "rotor_43_762x39_muzzle_brake": {
+    "name": "Rotor 43 7.62x39 muzzle brake",
+    "img": "Icon_Rotor43_7.62.png"
+  },
+  "lab_black_keycard": {
+    "name": "Lab. Black keycard",
+    "img": "LkEA_Icon.png"
+  },
+  "ak_104_762x39_assault_rifle": {
+    "name": "AK-104 7.62x39 assault rifle",
+    "img": "AK-104_T-SAW_Trade.png"
+  },
+  "lone_star_tx_15_dml_rifle": {
+    "name": "Lone Star TX-15 DML Rifle",
+    "img": "TX-15_DML_D-WARRIOR_Trade.png"
+  },
+  "6b43_zabralo_sh_6a_armor": {
+    "name": "6B43 Zabralo-Sh 6A Armor",
+    "img": "FORT_armor_icon.png"
+  },
+  "x_14_m14_50_round_762x51_magazine": {
+    "name": "X-14 M14 50 round 7.62x51 magazine",
+    "img": "m1450roundericon.png"
+  },
+  "x_fal_fal_sa_58_762x51_50_rnd_magazine": {
+    "name": "X-FAL FAL/SA-58 7.62x51 50 rnd magazine",
+    "img": "FAL_50_Icon.png"
+  },
+  "maxrounds_powermag_20_round_12_76_magazine_for_sok_12_and_compatible_weapons": {
+    "name": "MaxRounds Powermag 20-round 12/76 magazine for SOK-12 and compatible weapons",
+    "img": "Saiga_Powermag20_Icon.png"
+  },
+  "t_h_i_c_c_weapon_case": {
+    "name": "T H I C C Weapon case",
+    "img": "THICCWCaseTrade.png"
+  },
+  "ragman": {
+    "name": "Ragman",
+    "img": "Ragman_4_icon.png"
+  },
+  "k1s_visor": {
+    "name": "K1S Visor",
+    "img": "K1svisoricon.png"
+  },
+  "kiver_m_helmet": {
+    "name": "Kiver-M Helmet",
+    "img": "Kiver-M_Helmet_icon.png"
+  },
+  "6b47_ratnik_bsh_helmet": {
+    "name": "6B47 Ratnik-BSh Helmet",
+    "img": "6b47icon.png"
+  },
+  "gssh_01_active_headset": {
+    "name": "GSSh-01 active headset",
+    "img": "Gssh.png"
+  },
+  "psh_97_djeta_helmet": {
+    "name": "PSH-97 \"Djeta\" helmet",
+    "img": "PSH-97_-Jeta-_helmet_Icon.png"
+  },
+  "wartech_berkut_vv_102_backpack": {
+    "name": "Wartech Berkut VV-102 backpack",
+    "img": "Wartech_Berkut_VV-102_backpack_icon.png"
+  },
+  "zsh_1_2m_face_shield": {
+    "name": "ZSh-1-2M face shield",
+    "img": "zshfaceshieldicon.png"
+  },
+  "tactical_fleece_hat": {
+    "name": "Tactical fleece hat",
+    "img": "Fleecicon.png"
+  },
+  "6b47_helmet_with_cover_flora_digital": {
+    "name": "6B47 Helmet with cover (flora digital)",
+    "img": "6bhelmetcamo.png"
+  },
+  "anti_fragmentation_glasses": {
+    "name": "Anti-fragmentation glasses",
+    "img": "Anti-fragmentation_goggles_icon.png"
+  },
+  "untar_helmet": {
+    "name": "UNTAR helmet",
+    "img": "UNTARHelmetIcon.png"
+  },
+  "peltor_comtac_2_headset": {
+    "name": "Peltor ComTac 2 headset",
+    "img": "Comtac_icon.png"
+  },
+  "bnti_kirasa_n_armor": {
+    "name": "BNTI Kirasa-N armor",
+    "img": "BNTIKirasaNarmorIcon.png"
+  },
+  "crye_precision_avs_platecarrier": {
+    "name": "Crye Precision AVS platecarrier",
+    "img": "AVS_icon.png"
+  },
+  "ana_tactical_alpha_chest_rig": {
+    "name": "ANA Tactical Alpha chest rig",
+    "img": "Alpha_Rig_icon.png"
+  },
+  "6b5_15_zh_86_uley_armored_rig": {
+    "name": "6B5-15 Zh -86 \"Uley\" armored rig",
+    "img": "6B5-15icon.png"
+  },
+  "6b3tm_01m_armored_rig": {
+    "name": "6B3TM-01M armored rig",
+    "img": "6B3TM-01M_Icon.png"
+  },
+  "camelbak_tri_zip_backpack": {
+    "name": "Camelbak Tri-Zip Backpack",
+    "img": "Tri-Zip_Backpack.png"
+  },
+  "sso_attack_2_raid_backpack": {
+    "name": "SSO \"Attack 2\" raid backpack",
+    "img": "AttackInventory.PNG"
+  },
+  "altyn_face_shield": {
+    "name": "Altyn face shield",
+    "img": "Altynfshieldicon.png"
+  },
+  "lshz_2dtm_face_shield": {
+    "name": "LSHZ-2DTM face shield",
+    "img": "LSHZ_Face_Shield.PNG"
+  },
+  "devtac_ronin_ballistic_helmet": {
+    "name": "DEVTAC Ronin ballistic helmet",
+    "img": "DEVTAC_Ronin_ballistic_helmet_Icon.png"
+  },
+  "maska_1sch_helmet": {
+    "name": "Maska 1Sch helmet",
+    "img": "Maska1Schicon.png"
+  },
+  "bnti_gzhel_k_armor": {
+    "name": "BNTI Gzhel-K armor",
+    "img": "GZHELKArmorIcon.png"
+  },
+  "iotv_gen4_armor_high_mobility_kit": {
+    "name": "IOTV Gen4 armor (high mobility kit)",
+    "img": "gen4hmk.png"
+  },
+  "round_frame_sunglasses": {
+    "name": "Round frame sunglasses",
+    "img": "Round_frame_sunglasses_icon.png"
+  },
+  "511_hexgrid_plate_carrier": {
+    "name": "5.11 Hexgrid plate carrier",
+    "img": "5.11_Hexgrid_plate_carrier.png"
+  },
+  "ana_tactical_m2_armored_rig": {
+    "name": "ANA Tactical M2 armored rig",
+    "img": "M2Inventory.PNG"
+  },
+  "neoprene_mask": {
+    "name": "Neoprene mask",
+    "img": "Neoprene_Mask_Icon.png"
+  },
+  "511_tactec_plate_carrier": {
+    "name": "5.11 Tactec plate carrier",
+    "img": "TactecIcon.png"
+  },
+  "belt_a_+_belt_b_gear_rig": {
+    "name": "Belt-A + Belt-B gear rig",
+    "img": "Belt-A_Belt-B_gear_rig_icon.png"
+  },
+  "ana_tactical_m1_armored_rig": {
+    "name": "ANA Tactical M1 armored rig",
+    "img": "ANA_Tactical_M1_icon.png"
+  },
+  "wartech_tv_110_plate_carrier": {
+    "name": "Wartech TV-110 plate carrier",
+    "img": "Wartech_TV-110_plate_carrier_icon.png"
+  },
+  "ars_arma_a18_skanda_plate_carrier": {
+    "name": "Ars Arma A18 Skanda plate carrier",
+    "img": "A18_Icon.png"
+  },
+  "maska_1sch_face_shield": {
+    "name": "Maska 1Sch face shield",
+    "img": "NormalMaskaShieldTradeIcon.png"
+  },
+  "vulkan_5_face_shield": {
+    "name": "Vulkan-5 face shield",
+    "img": "Vulkan-5_face_shield_icon.png"
+  },
+  "rys_t_face_shield": {
+    "name": "Rys-T face shield",
+    "img": "Rystfshield.png"
+  },
+  "marked_key": {
+    "name": "Marked key",
+    "img": "Marked-key-Icon.png"
+  },
+  "office_112_west_wing_key": {
+    "name": "Office 112 West wing key",
+    "img": "San112icon.png"
+  },
+  "crash_axe": {
+    "name": "Crash Axe",
+    "img": "CrashAxeIcon.png"
+  },
+  "altyn_helmet": {
+    "name": "Altyn helmet",
+    "img": "AltynHelmetIcon.png"
+  },
+  "rys_t_helmet": {
+    "name": "Rys-T helmet",
+    "img": "RystIcon.png"
+  },
+  "iotv_gen4_armor_full_protection": {
+    "name": "IOTV Gen4 armor (full protection)",
+    "img": "IOTVfullIcon.png"
+  },
+  "iotv_gen4_armor_assault_kit": {
+    "name": "IOTV Gen4 armor (assault kit)",
+    "img": "gen4assault.png"
+  },
+  "zhuk_6a_heavy_armor": {
+    "name": "Zhuk-6a heavy armor",
+    "img": "Zhuk-6a_heavy_armor_icon.png"
+  },
+  "fort_redut_t5_body_armor": {
+    "name": "FORT Redut-T5 body armor",
+    "img": "FORT_Redut-T5_body_armor_icon.png"
+  },
+  "highcom_trooper_tfo_armor_multicam": {
+    "name": "Highcom Trooper TFO armor (multicam)",
+    "img": "Highcom_Trooper_TFO_armor_multicam_icon.png"
+  },
+  "lbt_6094a_slick_plate_carrier": {
+    "name": "LBT 6094A Slick Plate Carrier",
+    "img": "Slick_Icon.png"
+  },
+  "ars_arma_cpc_mod2_plate_carrier": {
+    "name": "Ars Arma CPC MOD.2 plate carrier",
+    "img": "AACPC_icon.png"
+  },
+  "ana_tactical_beta_2_battle_backpack": {
+    "name": "Ana tactical Beta 2 battle backpack",
+    "img": "Beta2_outside.png"
+  },
+  "mystery_ranch_blackjack_50_backpack_multicam": {
+    "name": "Mystery Ranch Blackjack 50 backpack (multicam)",
+    "img": "Mystery_Ranch_Blackjack_50_backpack_icon.png"
+  },
+  "jaeger": {
+    "name": "Jaeger",
+    "img": "Jaeger_4_icon.png"
+  },
+  "kiba_arms_international_sprm_mount_for_pump_action_shotguns": {
+    "name": "Kiba Arms International SPRM mount for pump-action shotguns",
+    "img": "sprm.png"
+  },
+  "weapon_safe_key": {
+    "name": "Weapon safe key",
+    "img": "ShortNameSafe.png"
+  },
+  "30mm_scope_mount": {
+    "name": "30mm Scope mount",
+    "img": "30mmmount.png"
+  },
+  "nightforce_atacr_7_35x56_riflescope": {
+    "name": "Nightforce ATACR 7-35x56 riflescope",
+    "img": "Nightforce_ATACR_7-35x56Icon.png"
+  },
+  "34mm_one_piece_magmount_made_by_nightforce": {
+    "name": "34mm one piece magmount made by Nightforce",
+    "img": "34mmmounticon.png"
+  },
+  "factory_exit_key": {
+    "name": "Factory exit key",
+    "img": "Factory_key_icon.png"
+  },
+  "can_of_herring": {
+    "name": "Can of herring",
+    "img": "Herring_icon.png"
+  },
+  "mr_holodilnick_thermobag": {
+    "name": "Mr. Holodilnick thermobag",
+    "img": "Mr._Holodilnick_thermobag_icon.png"
+  },
+  "bramit_silencer_for_a_mosin_rifle": {
+    "name": "Bramit silencer for a Mosin rifle",
+    "img": "BramitTradeIcon.png"
+  },
+  "saiga_12ga_ver_10_12_76_shotgun": {
+    "name": "Saiga 12ga ver. 10 12/76 shotgun",
+    "img": "Saiga_12_NERFGUN_Trade.png"
+  },
+  "rb_vo_key": {
+    "name": "RB-VO key",
+    "img": "RB-VO_key_icon.png"
+  },
+  "rb_pkpm_key": {
+    "name": "RB-PKPM key",
+    "img": "RB-PKPM_key_icon.png"
+  },
+  "rb_bk_key": {
+    "name": "RB-BK key",
+    "img": "RB-BK_Icon.png"
+  },
+  "red_rebel_ice_pick": {
+    "name": "Red Rebel Ice pick",
+    "img": "AdzeIcon.png"
+  },
+  "camper_axe": {
+    "name": "Camper axe",
+    "img": "X7_Axe_icon.png"
+  },
+  "small_s_i_c_c_case": {
+    "name": "Small S I C C case",
+    "img": "SmallSICCIcon.png"
+  },
+  "key_rb_psp2": {
+    "name": "Key RB-PSP2",
+    "img": "RB-PSP2_key_icon.png"
+  }
+}

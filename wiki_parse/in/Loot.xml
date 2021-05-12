@@ -1,0 +1,1304 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Escape from Tarkov Wiki</sitename>
+    <dbname>escapefromtarkov_gamepedia</dbname>
+    <base>https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki</base>
+    <generator>MediaWiki 1.33.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Escape from Tarkov Wiki</namespace>
+      <namespace key="5" case="first-letter">Escape from Tarkov Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="202" case="first-letter">UserProfile</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Loot</title>
+    <ns>0</ns>
+    <id>4135</id>
+    <revision>
+      <id>155243</id>
+      <parentid>155242</parentid>
+      <timestamp>2021-02-19T12:50:03Z</timestamp>
+      <contributor>
+        <username>Titi4600</username>
+        <id>41346626</id>
+      </contributor>
+      <minor/>
+      <comment>/* List of loot */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40872">'''Loot''' is what you [[Looting|scavenge]] from the depths of Tarkov. It is the cornerstone of survival.
+
+==Image Guides==
+&lt;li style="display: inline-block;"&gt;&lt;gallery widths="250" mode="packed"&gt;
+File:QuestItemRequirements.png|Quest Items To Keep
+File:QuestItemsInRaid.png|Quest Items To Keep (Filtered to In Raid)
+File:Hideout-Requirements-Items-to-Keep.jpg|Hideout Items To Keep
+&lt;/gallery&gt;&lt;/li&gt;
+
+==List of loot==
+Use this table to prioritize what to take and what to leave behind.
+
+{|class="wikitable sortable"
+!Icon
+! Name
+! Type
+! Notes
+|-
+![[File:FolderWithIntelligence Icon.png|127px|link=Folder with intelligence]]
+![[Folder with intelligence]]
+|Info item
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+
+'''Hideout'''
+
+* 1 needs to be found for the [[Hideout#Modules|intelligence center level 1]]
+* 3 need to be found for the [[Hideout#Modules|intelligence center level 2]]
+|-
+![[File:Matches Icon.png|64px|link=Classic matches]]
+![[Classic matches]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+'''Hideout'''
+
+* 2 need to be found for the [[Hideout#Modules|heating level 1]]
+|-
+![[File:Dogtags.png|127px|link=Dogtag]]
+![[Dogtag]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+* 7 [[USEC]] need to be found for the quest [[Friend from the West - Part 1]]
+* 7 [[USEC]] need to be found for the quest [[The Punisher - Part 6]]
+* 7 [[BEAR]] need to be found for the quest [[The Punisher - Part 6]]
+|-
+![[File:ParacordIcon.png|127px|link=Paracord]]
+![[Paracord]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Quests'''
+*3 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Textile - Part 1]]
+
+*Extract item [[Reserve]]; cannot wear body armor
+|-
+![[File:Hoseicon.png|127px|link=Corrugated hose]]
+![[Corrugated hose]]
+|Building Materials
+|'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;
+'''Quests'''
+*2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Spa Tour - Part 3]]
+*2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Spa Tour - Part 7]]
+
+
+'''Hideout'''
+* 5 need to be found for the [[Hideout#Modules|booze generator]]
+* 2 need to be found for the [[Hideout#Modules|nutrition unit level 2]]
+* 4 need to be found for the [[Hideout#Modules|water collector level 1]]
+* 6 need to be found for the [[Hideout#Modules|water collector level 2]]
+* 3 need to be found for the [[Hideout#Modules|lavatory level 2]]
+* 6 need to be found for the [[Hideout#Modules|lavatory level 3]]
+|-
+![[File:Cricket lighter Icon.png|link=Crickent lighter]]
+![[Crickent lighter]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+|-
+![[File:Nailsicon.png|64px|link=A pack of nails]]
+![[A pack of nails]]
+|Building Materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+'''Hideout'''
+* 4 need to be found for the [[Hideout#Modules|shooting range]]
+* 5 need to be found for the [[Hideout#Modules|stash level 2]]
+|-
+![[File:Screwsicon.png|64px|link=A pack of screws]]
+![[A pack of screws]]
+|Building Materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+'''Hideout'''
+
+* 5 need to be found for the [[Hideout#Modules|lavatory level 2]]
+* 10 need to be found for the [[Hideout#Modules|stash level 2]]
+* 15 need to be found for the [[Hideout#Modules|stash level 3]]
+|-
+![[File:Screwnuticon.png|64px|link=Screw nut]]
+![[Screw nut]]
+|Building Materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+
+'''Hideout'''
+* 5 need to be found for the [[Hideout#Modules|shooting range]]
+* 5 need to be found for the [[Hideout#Modules|water collector level 1]]
+* 2 need to be found for the [[Hideout#Modules|workbench level 1]]
+* 5 need to be found for the [[Hideout|stash level 4]]
+|-
+![[File:Boltsicon.png|64px|link=Bolts]]
+![[Bolts]]
+|Building Materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+
+'''Hideout'''
+* 5 need to be found for the [[Hideout#Modules|shooting range]]
+* 5 need to be found for the [[Hideout#Modules|water collector level 1]]
+* 2 need to be found for the [[Hideout#Modules|workbench level 1]]
+* 6 need to be found for the [[Hideout#Modules|workbench level 2]]
+* 5 need to be found for the [[Hideout|stash level 4]]
+|-
+![[File:Plexicon.png|64px|link=Piece of plexiglas]]
+![[Piece of plexiglas]]
+|Building Materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]''' 
+|-
+![[File:Zibbo lighter Icon.png|64px|link=Zibbo lighter]]
+![[Zibbo lighter]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+
+|-
+![[File:Apollon Soyuz cigarettes Icon.png|64px|link=Apollon Soyuz cigarettes]]
+![[Apollon Soyuz cigarettes]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+|-
+![[File:Malboro Cigarettes Icon.png|64px|link=Malboro Cigarettes]]
+![[Malboro Cigarettes]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*5 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Bad habit]]
+|-
+![[File:Wilstonicon.png|64px|link=Wilston cigarettes]]
+![[Wilston cigarettes]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+
+'''Quests'''
+*5 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Bad habit]]
+|-
+![[File:Cigred.png|64px|link=Strike Cigarettes]]
+![[Strike Cigarettes]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*5 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Bad habit]]
+|-
+![[File:Horse figurine Icon.png|64px|link=Horse figurine]]
+![[Horse figurine]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+* 2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Living high is not a crime - Part 1]]
+
+'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|library]]
+|-
+![[File:Caticon.png|64px|link=Cat figurine]]
+![[Cat figurine]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*1 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Living high is not a crime - Part 1]]
+|-
+![[File:Bronze Lion Icon.png|190px|link=Bronze lion]]
+![[Bronze lion]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Quests'''
+* 2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Living high is not a crime - Part 1]]
+'''Hideout'''
+* 4 need to be found for the [[Hideout#Modules|Scav case]]
+|-
+![[File:Wooden clock icon.png|127px|link=Wooden clock]]
+![[Wooden clock]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Gas Analyzer Icon.png|64px|link=Gas analyzer]]
+![[Gas analyzer]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+'''Quests'''
+*1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Sanitary Standards - Part 1]]
+*2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Sanitary Standards - Part 2]]
+
+
+'''Hideout'''
+* 3 need to be found for the [[Hideout#Modules|Intelligence Center level 3]]
+|-
+![[File:Ssd icon.png|64px|link=SSD drive]]
+![[SSD drive]]
+|Info item
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Hideout'''
+
+* 1 needs to be found for the [[Hideout#Modules|security level 3]]
+|-
+![[File:Sas icon.png|64px|link=SAS drive]]
+![[SAS drive]]
+|Info item
+|'''[[Crafts|Crafting item]]'''
+|-
+![[File:COFDM Icon.png|127px|link=Military COFDM wireless Signal Transmitter]]
+![[Military COFDM wireless Signal Transmitter]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Lend lease - Part 2]]
+
+'''Hideout'''
+
+* 2 need to be found for [[Hideout#Modules|intelligence center level 3]]
+|-
+![[File:UHFRFIDIcon.png|64px|link=UHF RFID Reader]]
+![[UHF RFID Reader]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Quests'''
+* 1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Import]].
+|-
+![[File:VPXFlashIcon.png|64px|link=VPX Flash Storage Module]]
+![[VPX Flash Storage Module]]
+|Electronics
+|'''Quests'''
+* 1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Import]]
+
+
+'''Hideout'''
+*2 need to be found for the [[Hideout#Modules|intelligence Center level 3]]
+|-
+![[File:Virtex programmable processor Icon.png|64px|link=Virtex programmable processor]]
+![[Virtex programmable processor]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Quests'''
+*2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Lend lease - Part 2]]
+|-
+![[File:Capacitorsicon.png|64px|link=Capacitors]]
+![[Capacitors]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+
+'''Quests'''
+*5 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Fertilizers]]
+'''Hideout'''
+* 5 need to be found for the [[Hideout#Modules|rest space level 3]]
+* 7 need to be found for the [[Hideout#Modules|illumination level 3]]
+|-
+![[File:Wiresicon.png|64px|link=Wires]]
+![[Wires]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+
+'''Quests'''
+*5 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Fertilizers]]
+'''Hideout'''
+* 15 need to be found for the [[Hideout#Modules|generator level 2]]
+* 5 need to be found for the [[Hideout#Modules|illumination level 2]]
+* 6 need to be found for the [[Hideout#Modules|illumination level 3]]
+* 8 need to be found for the [[Hideout#Modules|heating level 3]]
+* 4 need to be found for the [[Hideout#Modules|security level 3]]
+* 14 need to be found for the [[Hideout#Modules|vents level 3]]
+* 7 need to be found for the [[Hideout#Modules|rest space level 3]]
+|-
+![[File:Broken GPhone x Icon.png|64px|link=Broken GPhone X]]
+![[Broken GPhone X]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+'''[[Crafts|Crafting Item]]'''
+|-
+![[File:Wd-40400icon.png|64px|link=WD-40 400ml]]
+![[WD-40 400ml]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+|-
+![[File:WD40 100ml Icon.png|64px|link=WD-40 100ml.]]
+![[WD-40 100ml.|WD-40 100ml]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''
+'''[[Crafts|Crafting item]]'''&lt;br /&gt;&lt;br /&gt;
+'''Quests'''
+*1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Spa Tour - Part 3]]
+'''Hideout'''
+* 4 need to be found for the [[Hideout#Modules|stash level 2]]
+|-
+![[File:AA Battery Icon 2.png|64px|link=AA Battery]]
+![[AA Battery]]
+|Energy elements
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:D Size Battery Icon.png|64px|link=D Size Battery]]
+![[D Size Battery]]
+|Energy elements
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Car Battery Icon.png|190px|link=Car battery]]
+![[Car battery]]
+|Energy elements
+|'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;
+'''Quests'''
+*4 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Car repair]]
+'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|vents level 2]]
+* 4 need to be found for the [[Hideout#Modules|vents level 3]]
+|-
+![[File:Spark Plug Icon .png|64px|link=Spark plug]]
+![[Spark plug]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*8 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Car repair]]
+'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|generator level 1]]
+* 5 need to be found for the [[Hideout#Modules|generator level 3]]
+|-
+![[File:Energy-Saving Lamp Icon.png|64px|link=Energy-saving lamp]]
+![[Energy-saving lamp]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+
+'''Hideout'''
+* 3 need to be found for the [[Hideout#Modules|rest space level 2]]
+|-
+![[File:UV lamp Icon.png|64px|link=Ultraviolet lamp]]
+![[Ultraviolet lamp]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Geiger-Mueller counter Icon.png|64px|link=Geiger-Muller counter]]
+![[Geiger-Muller counter]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+|-
+![[File:Broken GPhone Icon.png|64px|link=Broken GPhone]]
+![[Broken GPhone]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*3 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Signal - Part 2]]
+|-
+![[File:CPU Fan Icon.png|64px|link=CPU Fan]]
+![[CPU Fan]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+'''Quests'''
+*8 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Farming - Part 4]]
+'''Hideout'''
+* 15 need to be found for the [[Hideout#Modules|Bitcoin Farm level 1]]
+* 15 need to be found for the [[Hideout#Modules|Bitcoin Farm level 2]]
+* 25 need to be found for the [[Hideout#Modules|Bitcoin Farm level 3]]
+* 3 need to be found for the [[Hideout#Modules|vents level 2]]
+|-
+![[File:PC CPU Icon.png|64px|link=PC CPU]]
+![[PC CPU]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+'''Quests'''
+*3 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Signal - Part 2]]
+|-
+![[File:DVD drive Icon.png|127px|link=DVD drive]]
+![[DVD drive]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|rest space level 2]]
+|-
+![[File:ramicon.png|64px|link=RAM]]
+![[RAM]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+|-
+![[File:Psuicon.png|127px|link=Power supply unit]]
+![[Power supply unit]]
+|Electronics
+|'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+
+'''Hideout'''
+* 10 need to be found for the [[Hideout#Modules|bitcoin farm level 1]]
+* 10 need to be found for the [[Hideout#Modules|bitcoin farm level 2]]
+* 5 need to be found for the [[Hideout#Modules|generator level 3]]
+|-
+![[File:Circuit Icon.png|64px|link=Printed circuit board]]
+![[Printed circuit board]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+
+'''Quests'''
+*2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Farming - Part 2]]
+*3 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Signal - Part 2]]
+'''Hideout'''
+* 15 need to be found for the [[Hideout#Modules|bitcoin farm level 2]]
+* 5 need to be found for the [[Hideout#Modules|vents level 3]]
+|-
+![[File:Graphics Card icon.png|127px|link=Graphics card]]
+![[Graphics card]]
+|Electronics
+|
+'''[[Barter trades|Barter Item]]'''
+
+'''Hideout'''
+
+*Used to run the [[Hideout#Modules|Bitcoin farm]]
+
+'''Quests'''
+*3 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Farming - Part 4]]
+|-
+![[File:Powercord icon.png|127px|link=Powercord]]
+![[Powercord]]
+|Electronics
+|'''[[Crafts|Crafting item]]'''
+'''Quests'''
+
+*2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Farming - Part 2]]
+'''Hideout'''
+* 10 need to be found for the [[Hideout#Modules|bitcoin farm level 1]]
+* 4 need to be found for the [[Hideout#Modules|intelligence center level 2]]
+* 4 need to be found for the [[Hideout#Modules|rest space level 3]]
+|-
+![[File:Insulating tape Icon.png|64px|link=Insulating tape]]
+![[Insulating tape]]
+|Building Materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:Duct tape Icon.png|64px|link=Duct tape]]
+![[Duct tape]]
+|Building Materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Hideout'''
+* 3 need to be found for the [[Hideout#Modules|shooting range]]
+* 3 need to be found for the [[Hideout#Modules|water collector level 1]]
+|-
+![[File:Construction Measuring Tape Icon.png|64px|link=Construction measuring tape]]
+![[Construction measuring tape]]
+|Tools
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:toothpasteicon.png|64px|link=Toothpaste]]
+![[Toothpaste]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:USB Adapter Icon.png|64px|link=USB Adapter]]
+![[USB Adapter]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:T-Shaped Plug Icon.png|64px|link=T-Shaped Plug]]
+![[T-Shaped Plug]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;'''Quests'''
+
+*4 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Farming - Part 2]]
+|-
+![[File:Printer Paper icon.png|127px|link=Printer paper]]
+! [[Printer paper]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:Screwdriver Icon.png|64px|link=Screwdriver]]
+![[Screwdriver]]
+|Tools
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:Wrench Icon.png|64px|link=Wrench]]
+![[Wrench]]
+|Tools
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Hideout'''
+* 4 need to be found for the [[Hideout#Modules|nutrition Unit level 2]]
+|-
+![[File:Plier Icon.png|64px|link=Pliers]]
+![[Pliers]]
+|Tools
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Electric Drill icon.png|127px|link=Electric drill]]
+![[Electric drill]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;
+'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|bitcoin farm level 1]]
+* 1 needs to be found for the [[Hideout#Modules|lavatory level 2]]
+* 2 need to be found for the [[Hideout#Modules|stash level 2]]
+* 2 need to be found for the [[Hideout#Modules|workbench level 2]]
+|-
+![[File:Vaseicon.png|127px|link=Antique vase]]
+![[Antique vase]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Living high is not a crime - Part 2]]
+|-
+![[File:Teapot icon.png|64px|link=Antique teapot]]
+![[Antique teapot]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*3 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Living high is not a crime - Part 2]]
+|-
+![[File:Silver Badge icon.png|64px|link=Silver Badge]]
+![[Silver Badge]]
+|Valuables
+|'''Quests'''
+*1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+|-
+![[File:Chainlet icon.png|64px|link=Chainlet]]
+![[Chainlet]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''
+
+'''Hideout'''
+* 2 need to be found for the [[Hideout#Modules|library]]
+|-
+![[File:Golden neck chain Icon.png|64px|link=Golden neck chain]]
+![[Golden neck chain]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*9 need to be found for the quest [[Chumming]]
+
+'''Hideout'''
+*8 need to be found for the [[Hideout#Modules|Scav case]]
+|-
+![[File:Bitcoin icon.png|64px|link=Physical bitcoin]]
+![[Physical bitcoin]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Damaged Hard Drive Icon.png|127px|link=Damaged hard drive]]
+![[Damaged hard drive]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;'''Hideout'''
+
+* 4 need to be found for the [[Hideout#Modules|intelligence center level 2]]
+|-
+![[File:Magnet Icon.png|64px|link=Magnet]]
+![[Magnet]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|rest space level 2]]
+|-
+![[File:Paidicon.png|64px|link=Paid AntiRoach]]
+![[Paid AntiRoach]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Clin Wiper icon.png|64px|link=Clin wiper]]
+![[Clin wiper]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;'''Quests'''
+*2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Spa Tour - Part 3]]
+|-
+![[File:Defibrillatoricon.png|64px|link=Portable defibrillator]]
+![[Portable defibrillator]]
+|Medical Supplies
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Quests'''
+* 1 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Ambulance]]
+|-
+![[File:TransilluminatorIcon.png|64px|link=LEDX Skin Transilluminator]]
+![[LEDX Skin Transilluminator]]
+|Medical Supplies
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*1 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Private clinic]]
+'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|medstation level 3]]
+|-
+![[File:Saline Solution icon.png|64px|link=Saline solution]]
+![[Saline solution]]
+|Medical Supplies
+|'''[[Barter trades|Barter Item]]'''
+
+'''Hideout'''
+
+* 3 need to be found for the [[Hideout#Modules|medstation level 2]]
+* 4 need to be found for the [[Hideout#Modules|medstation level 3]]
+|-
+![[File:Medical Bloodset Icon.png|64px|link=Medical bloodset]]
+![[Medical bloodset]]
+|Medical Supplies
+|'''Quests'''
+* 3 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [["Vitamins" - Part 2]]
+'''Hideout'''
+* 2 needs to be found for the [[Hideout#Modules|medstation level 2]]
+|-
+![[File:Hydrogen Peroxide icon.png|64px|link=Hydrogen peroxide]]
+![[Hydrogen peroxide]]
+|Medical Supplies
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:Bleachicon.png|64px|link=Ox bleach]]
+![[Ox bleach]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;'''Quests'''
+*3 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Spa Tour - Part 3]]
+|-
+![[File:Shusicon.png|64px|link=Shustrilo sealing foam]]
+![[Shustrilo sealing foam]]
+|Building Materials
+|'''Hideout'''
+* 5 need to be found for the [[Hideout#Modules|water collector level 3]]
+* 5 need to be found for the [[Hideout|stash level 4]]
+|-
+![[File:Xenoicon.png|64px|link=Xenomorph sealing foam]]
+![[Xenomorph sealing foam]]
+|Building Materials
+|'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Hideout'''
+* 3 need to be found for the [[Hideout#Modules|lavatory level 3]]
+|-
+![[File:Sodium Bicarbonate icon.png|64px|link=Sodium bicarbonate]]
+![[Sodium bicarbonate]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;
+'''Hideout'''
+* 3 need to be found for the [[Hideout#Modules|nutrition unit level 3]]
+|-
+![[File:Soap icon.png|64px|link=Soap]]
+![[Soap]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:Toilet paper icon.png|64px|link=Toilet paper]]
+![[Toilet paper]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;
+'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|lavatory level 1]]
+|-
+![[File:5L propane tank icon.png|127px|link=5L propane tank]]
+![[5L propane tank]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Spa Tour - Part 7]]
+|-
+![[File:fuelcondicon.png|64px|link=Fuel conditioner]]
+![[Fuel conditioner]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''
+
+'''Quests'''
+
+*4 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[The Blood of War - Part 2]]
+|-
+![[File:Heat-exchange alkali surface washer icon.png|64px|link=Heat-exchange alkali surface washer]]
+![[Heat-exchange alkali surface washer]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;'''Quests'''
+*2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Spa Tour - Part 7]]
+'''Hideout'''
+* 2 need to be found for the [[Hideout#Modules|nutrition unit level 2]]
+|-
+![[File:Dryfuelicon.png|64px|link=Dry fuel]]
+![[Dry fuel]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''
+
+'''Hideout'''
+* 3 need to be found for the [[Hideout#Modules|heating level 2]]
+|-
+![[File:Toolsicon.png|127px|link=A set of tools]]
+![[A set of tools]]
+|Tools
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;'''Quests'''
+*2 need to be found for the quest [[Farming - Part 1]]
+'''Hideout'''
+* 2 need to be found for the [[Hideout#Modules|water collector level 2]]
+* 3 need to be found for the [[Hideout#Modules|workbench level 2]]
+* 1 needs to be found for the [[Hideout#Modules|lavatory level 3]]
+|-
+![[File:Recicon.png|64px|link=Rechargeable battery]]
+![[Rechargeable battery]]
+|Energy elements
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;'''Quests'''
+*3 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Signal - Part 2]]
+|-
+![[File:Airfiltericon.png|127px|link=Air filter for gas mask]]
+![[Air filter for gas mask]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+
+'''Hideout'''
+* 2 need to be found for the [[Hideout#Modules|air filtering unit]]
+|-
+![[File:Secure Flash drive Icon.png|64px|link=Secure Flash drive]]
+![[Secure Flash drive]]
+|Info item
+|'''Quests'''
+* 2 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[What's on the flash drive?]]
+* 3 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Shady business]]
+
+'''Hideout'''
+
+* 3 need to be found for the [[Hideout#Modules|intelligence center level 2]]
+|-
+![[File:Coffeicon.png|64px|link=Coffee Majaica]]
+![[Coffee Majaica]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Hideout'''
+* 3 need to be found for the [[Hideout#Modules|nutrition unit level 3]]
+|-
+![[File:Ophthalmoscopeicon.png|64px|link=Ophthalmoscope]]
+![[Ophthalmoscope]]
+|Medical Supplies
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Quests'''
+*1 needs to be found for the quest [[Private clinic]]
+'''Hideout'''
+* 1 need to be found for the [[Hideout#Modules|medstation level 3]]
+|-
+![[File:PliersElite.png|64px|link=Pliers Elite]]
+![[Pliers Elite]]
+|Tools
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Hideout'''
+* 2 need to be found for the [[Hideout#Modules|water collector level 3]]
+* 2 need to be found for the [[Hideout#Modules|workbench level 3]]
+|-
+![[File:PowerbankIcon.png|64px|link=Powerbank]]
+![[Powerbank]]
+|Energy elements
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:EnglishTeaIcon.png|64px|link=42nd Signature Blend English Tea]]
+![[42nd Signature Blend English Tea]]
+|Others
+|'''Quests'''
+* 1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+'''[[Crafts|Crafting item]]'''
+|-
+![[File:GoldenRoosterIcon.png|127px|link=Golden rooster]]
+![[Golden rooster]]
+|Valuables
+|'''Quests'''
+*1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+|-
+![[File:Roler icon.png|64px|link=Roler submariner gold wrist watch]]
+![[Roler submariner gold wrist watch]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*1 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Living high is not a crime - Part 1]]
+*1 need to be found for the quest [[Bullshit]]
+&lt;br/&gt;'''Hideout'''
+* 4 need to be found for the [[Hideout#Modules|Scav case]]
+|-
+![[File:BatteredBookIcon.png|64px|link=Battered antique Book]]
+![[Battered antique Book]]
+|Valuables
+|'''Quests'''
+*1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+|-
+![[File:FireKlean icon.png|64px|link=FireKlean gun lube]]
+![[FireKlean gun lube]]
+|Flammable materials
+|'''Quests'''
+*1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+&lt;br/&gt;'''Hideout'''
+* 1 is needed for the [[Hideout#Modules|workbench level 3]]
+|-
+![[File:FireSteelIcon.png|64px|link=Old firesteel]]
+![[Old firesteel]]
+|Valuables
+|'''Quests'''
+*1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+|-
+![[File:Deadlyslobs beard oil icon.png|64px|link=Deadlyslob's beard oil]]
+![[Deadlyslob's beard oil]]
+|Household Goods
+|'''Quests'''
+*1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+|-
+![[File:1gphone icon.png|64px|link=Golden 1GPhone]]
+![[Golden 1GPhone]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+|-
+![[File:Tetriz icon.png|64px|link=Tetriz portable game]]
+![[Tetriz portable game]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Prokill medallion Icon.png|64px|link=Chain with Prokill medallion]]
+![[Chain with Prokill medallion]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Nippers small.png|64px|link=Nippers]]
+![[Nippers]]
+|Tools
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Metal cutting scissors icon.png|64px|link=Metal cutting scissors]]
+![[Metal cutting scissors]]
+|Tools
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:Handdrill icon.png|190px|link=Hand drill]]
+![[Hand drill]]
+|Tools
+|'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|stash level 2]]
+|-
+![[File:Mil Batt icon.png|190px|link=6-STEN-140-M military battery]]
+![[6-STEN-140-M military battery]]
+|Energy elements
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Quests'''
+*1 is needed &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Regulated materials]]
+|-
+![[File:NIXXOR lens icon.png|64px|link=NIXXOR lens]]
+![[NIXXOR lens]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Hideout'''
+* 8 need to be found for the [[Hideout#Modules|security level 3]]
+|-
+![[File:expeditionary-fuel-tank-icon.png|127px|link=Expeditionary fuel tank]]
+![[Expeditionary fuel tank]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+
+*Can be used as fuel for the Generator in the [[Hideout]]
+|-
+![[File:Metal-fuel-tank-icon.png|127px|link=Metal fuel tank]]
+![[Metal fuel tank]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+
+*Can be used as fuel for the Generator in the [[Hideout]]
+|-
+![[File:FP-100 filter absorber icon.png|190px|link=FP-100 filter absorber]]
+![[FP-100 filter absorber]]
+|Others
+|'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Hideout'''
+
+* Used to run the [[Hideout#Modules|air filtering unit]]
+|-
+![[File:Electric motor icon.png|127px|link=Electric motor]]
+![[Electric motor]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|generator level 2]]
+* 2 need to be found for the [[Hideout#Modules|generator level 3]]
+* 1 needs to be found for the [[Hideout#Modules|vents level 2]]
+* 4 need to be found for the [[Hideout#Modules|vents level 3]]
+* 2 need to be found for the [[Hideout#Modules|water collector level 2]]
+* 10 needs to be found for the [[Hideout#Modules|bitcoin farm level 3]]
+|-
+![[File:lcd-icon.PNG|64px|link=Broken LCD]]
+![[Broken LCD]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:Working LCD Icon.png|64px|link=Working LCD]]
+![[Working LCD]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;'''Hideout'''
+
+* 2 need to be found for the [[Hideout#Modules|security level 3]]
+|-
+![[File:gp coin icon.png|64px|link=GP coin]]
+![[GP coin]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:water filter icon.png|64px|link=Water filter]]
+![[Water filter]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:Gunpowder Icon.png|64px|link=Gunpowder "Kite"]]
+![[Gunpowder "Kite"]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;'''Quests'''
+*3 need to be found for the quest [[Health Care Privacy - Part 5]]
+|-
+![[File:gunpowder eagle icon.png|64px|link=Gunpowder "Eagle"]]
+![[Gunpowder "Eagle"]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:GunpowderHawkIcon.png|64px|link=Gunpowder "Hawk"]]
+![[Gunpowder "Hawk"]]
+|Flammable materials
+|'''[[Crafts|Crafting item]]'''
+|-
+![[File:Pile of meds icon.png|64px|link=Pile of meds]]
+![[Pile of meds]]
+|Medical Supplies
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:DisposableSyringeIcon.png|64px|link=Disposable syringe]]
+![[Disposable syringe]]
+|Medical Supplies
+|'''[[Barter trades|Barter Item]]'''
+'''[[Crafts|Crafting item]]'''
+|-
+![[File:Phased-Array-Element-icon.png|127px|link=Phased array element]]
+![[Phased array element]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+Hideout
+
+* 4 need to be found for [[Hideout#Solar Power|Solar Power]]
+|-
+![[File:MilitaryCircuitBoardIcon.png|64px|link=Military circuit board]]
+![[Military circuit board]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:mil thervis.png|64px|link=Military thermal vision module Iridium]]
+![[Military thermal vision module Iridium]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+'''[[Crafts|Crafting item]]'''
+|-
+![[File:MGT Icon.png|64px|link=Military gyrotachometer]]
+![[Military gyrotachometer]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:WeaponPartsIcon.png|127px|link=Weapon parts]]
+![[Weapon parts]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:RoundPliersIcon.png|64px|link=Round pliers]]
+![[Round pliers]]
+|Tools
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:30x160mmShellicon.png|64px|link=OFZ 30x160mm shell]]
+![[OFZ 30x160mm shell]]
+|Others
+|'''[[Crafts|Crafting item]]'''&lt;br/&gt;&lt;br/&gt;
+'''Quests'''
+*5 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Regulated materials]]
+|-
+![[File:MilitaryCableIcon.png|127px|link=Military cable]]
+![[Military cable]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+
+'''Hideout'''
+* 4 need to be found for the [[Hideout#Modules|intelligence center level 3]]
+* 10 need to be found for the [[Hideout#Solar Power|Solar Power]]
+|-
+![[File:Mil Filter Icon.png|64px|link=Military power filter]]
+![[Military power filter]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+'''Hideout'''
+
+* 1 needs to be found for the [[Hideout#Modules|air filtering unit]]
+* 10 need to be found for the [[Hideout#Solar Power|Solar Power]]
+|-
+![[File:Pressure gauge icon.png|127px|link=Pressure gauge]]
+![[Pressure gauge]]
+|Building materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Hideout'''
+* 2 need to be found for the [[Hideout#Modules|booze generator level 1]]
+* 10 need to be found for the [[Hideout#Modules|bitcoin farm level 3]]
+* 2 need to be found for the [[Hideout#Modules|lavatory level 3]]
+|-
+![[File:Anal Thermometer Icon.png|64px|link=Analog thermometer]]
+![[Analog thermometer]]
+|Building materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Hideout'''
+* 2 need to be found for the [[Hideout#Modules|booze generator level 1]]
+|-
+![[File:Bulb icon.png|64px|link=Light bulb]]
+![[Light bulb]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''
+
+'''Hideout'''
+
+* 14 need to be found for the [[Hideout#Modules|illumination level 2]]
+|-
+![[File:RadiatorHelixIcon.png|64px|link=Radiator helix]]
+![[Radiator helix]]
+|Electronics
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+
+
+'''Hideout'''
+* 8 need to be found for the [[Hideout#Modules|heating level 3]]
+|-
+![[File:SkullRing Icon.png|64px|link=Gold skull ring]]
+![[Gold skull ring]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Hideout'''
+* 6 need to be found for the [[Hideout#Modules|Scav case]]
+|-
+![[File:lada manual icon.png|64px|link=Technical documentation]]
+![[Technical documentation]]
+|Info item
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Shampoo icon.png|64px|link=Schaman shampoo]]
+![[Schaman shampoo]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:OrtodontoxToothpasteIcon.png|64px|link=Ortodontox toothpaste]]
+![[Ortodontox toothpaste]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Long screwdriver icon.png|64px|link=Long flat screwdriver]]
+![[Long flat screwdriver]]
+|Tools
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Flat Screwdriver Icon.PNG|64px|link=Flat screwdriver]]
+![[Flat screwdriver]]
+|Tools
+|'''[[Crafts|Crafting item]]'''
+|-
+![[File:Relay Icon.png|64px|link=Phase control relay]]
+![[Phase control relay]]
+|Electronics
+|'''Hideout'''
+* 5 need to be found for the [[Hideout#Modules|bitcoin farm level 2]]
+* 5 need to be found for the [[Hideout#Modules|generator level 2]]
+* 6 need to be found for the [[Hideout#Modules|generator level 3]]
+* 2 need to be found for the [[Hideout#Modules|nutrition unit level 1]]
+* 1 needs to be found for the [[Hideout#Modules|nutrition unit level 2]]
+|-
+![[File:SiliconeTubeIcon.png|64px|link=Silicone tube]]
+![[Silicone tube]]
+|Building Materials
+|'''[[Crafts|Crafting item]]'''&lt;br/&gt;
+'''Hideout'''
+* 4 need to be found for the [[Hideout#Modules|booze generator level 1]]
+* 15 need to be found for the [[Hideout#Modules|bitcoin farm level 3]]
+|-
+![[File:Diary Icon1.png|frameless|link=Diary]]
+![[Diary]]
+|Info item
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:SlimDiaryIcon.png|frameless|link=Slim diary]]
+![[Slim diary]]
+|Info item
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Christmas ornament red icon.png|frameless|link=Christmas tree decoration ball (red)]]
+![[Christmas tree decoration ball (red)]]
+|Valuables
+|
+|-
+![[File:Christmas ornament silver icon.png|frameless|link=Christmas tree decoration ball (silver)]]
+![[Christmas tree decoration ball (silver)]]
+|Valuables
+|
+|-
+![[File:Christmas ornament violet icon.png|frameless|link=Christmas tree decoration ball (violet)]]
+![[Christmas tree decoration ball (violet)]]
+|Valuables
+|
+|-
+![[File:GreenBat Icon.png|64px|link=GreenBat lithium battery]]
+![[GreenBat lithium battery]]
+|Energy elements
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Cyclon Icon.png|127px|link=Cyclon accumulator battery]]
+![[Cyclon accumulator battery]]
+|Energy elements
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:PoxeramIcon.png|64px|link=Tube of Poxeram Cold Welding]]
+![[Tube of Poxeram Cold Welding]]
+|Building Materials
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:KEKTape icon.png|64px|link=KEKTAPE duct tape]]
+![[KEKTAPE duct tape]]
+|Building Materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+*5 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Textile - Part 2]]
+
+'''Hideout'''
+* 1 needs to be found for the [[Hideout#Modules|lavatory level 2]]
+* 1 needs to be found for the [[Hideout#Modules|water collector level 2]]
+|-
+![[File:PackOfChlorine icon.png|127px|link=Pack of chlorine]]
+![[Pack of chlorine]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Smokedchimneydraincleanericon.png|64px|link=Smoked Chimney drain cleaner]]
+![[Smoked Chimney drain cleaner]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''
+
+'''Hideout'''
+* 2 need to be found for the [[Hideout#Modules|nutrition unit level 3]]
+|-
+![[File:RepellentIcon.png|64px|link=Repellent]]
+![[Repellent]]
+|Household Goods
+|'''[[Barter trades|Barter Item]]'''
+|-
+![[File:Raven figurine icon.png|64px|link=Raven figurine]]
+![[Raven figurine]]
+|Valuables
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''Quests'''
+* 1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+|-
+![[File:SurvL Icon.png|64px|link=SurvL Survivor Lighter]]
+![[SurvL Survivor Lighter]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+|-
+![[File:HunterMatches Icon.png|64px|link=Hunter matches]]
+![[Hunter matches]]
+|Flammable materials
+|'''[[Barter trades|Barter Item]]'''
+
+'''Hideout''
+* 2 need to be found for the [[Hideout#Modules|heating level 2]]
+|-
+![[File:Ripstop icon.png|127px|link=Ripstop cloth]]
+![[Ripstop cloth]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+'''Quests'''
+*10 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Textile - Part 1]]
+|-
+![[File:Aramid Icon .png|127px|link=Aramid fiber cloth]]
+![[Aramid fiber cloth]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+'''Quests'''
+*5 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Textile - Part 1]]
+|-
+![[File:Fleece Icon.png|127px|link=Fleece cloth]]
+![[Fleece cloth]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+'''Quests'''
+*10 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Textile - Part 2]]
+|-
+![[File:Cordura Icon.png|127px|link=Polyamide fabric Cordura]]
+![[Polyamide fabric Cordura]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;
+'''[[Crafts|Crafting item]]'''
+'''Quests'''
+*10 need to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Textile - Part 2]]
+|-
+![[File:Lupo Icon.png|64px|link=Can of Dr. Lupo's coffee beans]]
+![[Can of Dr. Lupo's coffee beans]]
+|Others
+|
+'''Quests'''
+* 1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+|-
+![[File:Fuze icon.png|64px|link=UZRGM grenade fuze]]
+![[UZRGM grenade fuze]]
+|Others
+|'''[[Barter trades|Barter Item]]'''&lt;br/&gt;'''[[Crafts|Crafting item]]'''
+|-
+![[File:VeritasGuitarPickIcon.png|64px|link=Veritas guitar pick]]
+![[Veritas guitar pick]]
+|Valuables
+|'''Quests'''
+* 1 needs to be found &lt;font color="red"&gt;in raid&lt;/font&gt; for the quest [[Collector]]
+|}
+
+{{Navbox items}}
+[[Category:Loot]]
+[[Category:Escape from Tarkov]]
+
+[[cs:Kořist]]
+[[de:Loot]]
+[[fr:Butin]]</text>
+      <sha1>oqimynqb0lw1xcknzcozs4397lyhcqj</sha1>
+    </revision>
+  </page>
+</mediawiki>

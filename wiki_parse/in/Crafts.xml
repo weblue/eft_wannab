@@ -1,0 +1,861 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Escape from Tarkov Wiki</sitename>
+    <dbname>escapefromtarkov_gamepedia</dbname>
+    <base>https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki</base>
+    <generator>MediaWiki 1.33.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Escape from Tarkov Wiki</namespace>
+      <namespace key="5" case="first-letter">Escape from Tarkov Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="202" case="first-letter">UserProfile</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Crafts</title>
+    <ns>0</ns>
+    <id>17020</id>
+    <revision>
+      <id>156127</id>
+      <parentid>155956</parentid>
+      <timestamp>2021-03-02T14:57:11Z</timestamp>
+      <contributor>
+        <username>Titi4600</username>
+        <id>41346626</id>
+      </contributor>
+      <minor/>
+      <comment>/* Lavatory */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="57326">'''Crafts''' in ''[[Escape from Tarkov]]'' allows you to produce many items. It is done through various [[hideout]] modules such as the [[Hideout#Modules|booze generator]], [[Hideout#Modules|lavatory]], [[Hideout#Modules|medstation]], [[Hideout#Modules|nutrition unit]], [[Hideout#Modules|water collector]] and [[Hideout#Modules|workbench]]. Every item crafted in the hideout will have the "found in raid" status. Below is a complete list of these crafts. Item craft time is affected by the [[Crafting]] skill.
+
+If you see a craft missing from the list, please join our [https://discord.gg/7ZeEyfU Discord] or note it [[Talk:Crafts|here]]. 
+
+To search the list use &lt;code&gt;Ctrl+F&lt;/code&gt;.
+
+==List of crafts==
+===Booze generator===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Needed items
+!colspan =3 style="width:Auto;"|Module and time
+!style="width:Auto;"|Produced items
+|-
+![[File:Sugar icon.png|frameless|link=Pack of sugar]] x2&lt;br/&gt;[[Pack of sugar]]&lt;br/&gt;+&lt;br/&gt;[[File:Purified water icon.png|frameless|link=Purified water]] x1&lt;br/&gt;[[Purified water]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Booze generator level 1]]&lt;/big&gt;&lt;br/&gt;3 h 3 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Fiece hatchling moonshine icon.png|frameless|link="Fierce Hatchling" moonshine]] x1&lt;br/&gt;[["Fierce Hatchling" moonshine]]
+|}
+
+===Intelligence center===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Needed items
+!colspan =3 style="width:Auto;"|Module and time
+!style="width:Auto;"|Produced items
+|-
+![[File:Broken GPhone Icon.png|frameless|link=Broken GPhone]] x1&lt;br/&gt;[[Broken GPhone]]&lt;br/&gt;+&lt;br/&gt;[[File:Broken GPhone x Icon.png|frameless|link=Broken GPhone X]] x1&lt;br/&gt;[[Broken GPhone X]]&lt;br/&gt;+&lt;br/&gt;[[File:ssd icon.png|frameless|link=SSD drive]] x1&lt;br/&gt;[[SSD drive]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Intelligence Center level 2]]&lt;/big&gt;&lt;br/&gt;34 h 13 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Secure Flash drive Icon.png|frameless|link=Secure Flash drive]] x3&lt;br/&gt;[[Secure Flash drive]]
+|-
+![[File:MilitaryCircuitBoardIcon.png|frameless|link=Military circuit board]] x2&lt;br/&gt;[[Military circuit board]]&lt;br/&gt;+&lt;br/&gt;[[File:PC CPU Icon.png|frameless|link=PC CPU]] x2&lt;br/&gt;[[PC CPU]]&lt;br/&gt;+&lt;br/&gt;[[File:Capacitorsicon.png|frameless|link=Capacitors]] x5&lt;br/&gt;[[Capacitors]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Intelligence Center level 2]]&lt;/big&gt;&lt;br/&gt;37 h 37 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Virtex programmable processor Icon.png|frameless|link=Virtex programmable processor]] x1&lt;br/&gt;[[Virtex programmable processor]]
+|-
+![[File:Broken GPhone x Icon.png|frameless|link=Broken GPhone X]] x1&lt;br/&gt;[[Broken GPhone X]]&lt;br/&gt;+&lt;br/&gt; [[File:PowerbankIcon.png|frameless|link=Powerbank]] x1&lt;br/&gt;[[Powerbank]]&lt;br/&gt;+&lt;br/&gt;[[File:MilitaryCircuitBoardIcon.png|frameless|link=Military circuit board]] x1&lt;br/&gt;[[Military circuit board]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Intelligence Center level 2]]&lt;/big&gt;&lt;br/&gt;38 h 53 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:COFDM Icon.png|frameless|link=Military COFDM wireless Signal Transmitter]] x1&lt;br/&gt;[[Military COFDM wireless Signal Transmitter]]
+|-
+![[File:ramicon.png|frameless|link=RAM]] x3&lt;br/&gt;[[RAM]]&lt;br/&gt;+&lt;br/&gt;[[File:ssd icon.png|frameless|link=SSD drive]] x1&lt;br/&gt;[[SSD drive]]&lt;br/&gt;+&lt;br/&gt;[[File:Broken GPhone Icon.png|frameless|link=Broken GPhone]] x1&lt;br/&gt;[[Broken GPhone]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Intelligence Center level 2]]&lt;/big&gt;&lt;br/&gt;45 h 50 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:VPXFlashIcon.png|frameless|link=VPX Flash Storage Module]] x2&lt;br/&gt;[[VPX Flash Storage Module]]
+|-
+![[File:Terragroup Labs access keycard icon.png|frameless|link=TerraGroup Labs access keycard]] x1&lt;br/&gt;[[TerraGroup Labs access keycard]]&lt;br/&gt;+&lt;br/&gt;[[File:Signal Jammer icon.png|frameless|link=Signal Jammer]] x2&lt;br/&gt;[[Signal Jammer]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Intelligence Center level 2]]&lt;/big&gt;&lt;br/&gt;53 h 20 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:UHFRFIDIcon.png|frameless|link=UHF RFID Reader]] x1&lt;br/&gt;[[UHF RFID Reader]]
+|-
+![[File:UHFRFIDIcon.png|frameless|link=UHF RFID Reader]] x1&lt;br/&gt;[[UHF RFID Reader]]&lt;br/&gt;+&lt;br/&gt;[[File:Secure Flash drive Icon.png|frameless|link=Secure Flash drive]] x3&lt;br/&gt;[[Secure Flash drive]]&lt;br/&gt;+&lt;br/&gt;[[File:VPXFlashIcon.png|frameless|link=VPX Flash Storage Module]] x1&lt;br/&gt;[[VPX Flash Storage Module]]&lt;br/&gt;+&lt;br/&gt;[[File:21ws icon.png|frameless|link=Object 21WS keycard]] x1&lt;br/&gt;[[Object 21WS keycard]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Intelligence Center level 2]]&lt;/big&gt;&lt;br/&gt;65 h 33 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:11sr icon.png|frameless|link=Object 11SR keycard]] x1&lt;br/&gt;[[Object 11SR keycard]]
+|-
+![[File:Circuit Icon.png|frameless|link=Printed circuit board]] x8&lt;br /&gt;[[Printed circuit board]]&lt;br /&gt;+&lt;br /&gt;[[File:PC CPU Icon.png|frameless|link=PC CPU]] x4&lt;br/&gt;[[PC CPU]]&lt;br/&gt;+&lt;br/&gt;[[File:CPU Fan Icon.png|frameless|link=CPU Fan]] x2&lt;br/&gt;[[CPU Fan]]&lt;br/&gt;+&lt;br/&gt;[[File:VPXFlashIcon.png|frameless|link=VPX Flash Storage Module]] x1&lt;br/&gt;[[VPX Flash Storage Module]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Intelligence Center level 2]]&lt;/big&gt;&lt;br/&gt;69 h 10 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Graphics Card icon.png|frameless|link=Graphics card]] x1&lt;br/&gt;[[Graphics card]]
+|-
+![[File:Secure Flash drive Icon.png|frameless|link=Secure Flash drive]] x3&lt;br/&gt;[[Secure Flash drive]]&lt;br/&gt;+&lt;br/&gt;[[File:Printer Paper icon.png|frameless|link=Printer paper]] x1&lt;br/&gt;[[Printer paper]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Intelligence Center level 3]]&lt;/big&gt;&lt;br/&gt;31 h 40 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FolderWithIntelligence Icon.png|frameless|link=Folder with intelligence]] x1&lt;br/&gt;[[Folder with intelligence]]
+|-
+![[File:UHFRFIDIcon.png|frameless|link=UHF RFID Reader]] x1&lt;br/&gt;[[UHF RFID Reader]]&lt;br/&gt;+&lt;br/&gt;[[File:Terragroup Labs access keycard icon.png|frameless|link=TerraGroup Labs access keycard]] x12&lt;br/&gt;[[TerraGroup Labs access keycard]]&lt;br/&gt;+&lt;br/&gt;[[File:Lab. key. Alarm system control panel icon.png|frameless|link=Lab. Yellow keycard]] x3&lt;br/&gt;[[Lab. Yellow keycard]]&lt;br/&gt;+&lt;br/&gt;[[File:FolderWithIntelligence Icon.png|frameless|link=Folder with intelligence]] x7&lt;br/&gt;[[Folder with intelligence]]&lt;br/&gt;+&lt;br/&gt;[[File:Magnet Icon.png|frameless|link=Magnet]] x3&lt;br/&gt;[[Magnet]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Intelligence Center level 3]]&lt;/big&gt;&lt;br/&gt;104 h 27 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Lab. key. Security post icon.png|frameless|link=Lab. Violet keycard]] x1&lt;br/&gt;[[Lab. Violet keycard]]
+|}
+
+===Lavatory===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Needed items
+!colspan =3 style="width:Auto;"|Module and time
+!style="width:Auto;"|Produced items
+|-
+![[File:GP-5 Icon.png|frameless|link=GP-5 gasmask]] x1&lt;br/&gt;[[GP-5 gasmask]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;2 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Airfiltericon.png|frameless|link=Air filter for gas mask]] x1&lt;br/&gt;[[Air filter for gas mask]]
+|-
+![[File:EFT Aseptic-Bandage Icon.png|frameless|link=Aseptic bandage]] x5&lt;br/&gt;[[Aseptic bandage]]&lt;br/&gt;+&lt;br/&gt;[[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x1&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;17 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT Army-Bandage Icon.png|frameless|link=Army bandage]] x10&lt;br/&gt;[[Army bandage]]
+|-
+![[File:Printer Paper icon.png|frameless|link=Printer paper]] x1&lt;br/&gt;[[Printer paper]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;26 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Toilet paper icon.png|frameless|link=Toilet paper]] x2&lt;br/&gt;[[Toilet paper]]
+|-
+![[File:Fleece Icon.png|frameless|link=Fleece cloth]] x1&lt;br/&gt;[[Fleece cloth]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;32 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT Aseptic-Bandage Icon.png|frameless|link=Aseptic bandage]] x6&lt;br/&gt;[[Aseptic bandage]]
+|-
+![[File:PACA icon.png|frameless|link=PACA Soft Armor]] x1&lt;br/&gt;[[PACA Soft Armor]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;33 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Aramid Icon .png|frameless|link=Aramid fiber cloth]] x2&lt;br/&gt;[[Aramid fiber cloth]]
+|-
+![[File:Securityvesticon.png|frameless|link=Security vest]] x3&lt;br/&gt;[[Security vest]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;36 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Cordura Icon.png|frameless|link=Polyamide fabric Cordura]] x1&lt;br/&gt;[[Polyamide fabric Cordura]]
+|-
+![[File:Scav Vest icon.png|frameless|link=Scav Vest]] x3&lt;br/&gt;[[Scav Vest]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;37 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Ripstop icon.png|frameless|link=Ripstop cloth]] x2&lt;br/&gt;[[Ripstop cloth]]
+|-
+![[File:SlingBackPackIcon.png|frameless|link=Tactical sling bag]] x4&lt;br/&gt;[[Tactical sling bag]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;48 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Cordura Icon.png|frameless|link=Polyamide fabric Cordura]] x1&lt;br/&gt;[[Polyamide fabric Cordura]]
+|-
+![[File:UNTARArmorIcon.png|frameless|link=MF-UNTAR armor vest]] x1&lt;br/&gt;[[MF-UNTAR armor vest]]&lt;br/&gt;+&lt;br/&gt;[[File:Metal cutting scissors icon.png|frameless|link=Metal cutting scissors]] x1&lt;br/&gt;[[Metal cutting scissors]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;53 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AluSplintIcon.png|frameless|link=Immobilizing splint (alu)]] x2&lt;br/&gt;[[Immobilizing splint (alu)]]
+|-
+![[File:Fleece Icon.png|frameless|link=Fleece cloth]] x1&lt;br/&gt;[[Fleece cloth]]&lt;br/&gt;+&lt;br/&gt;[[File:Water icon.png|frameless|link=0.6L water bottle]] x1&lt;br/&gt;[[0.6L water bottle]]&lt;br/&gt;+&lt;br/&gt;[[File:Flyye MBSS Backpack.png|frameless|link=Flyye MBSS Backpack]] x1&lt;br/&gt;[[Flyye MBSS Backpack]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;55 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:ScavBP Icon.png|frameless|link=Scav Backpack]] x2&lt;br/&gt;[[Scav Backpack]]
+|-
+![[File:Aramid Icon .png|frameless|link=Aramid fiber cloth]] x3&lt;br/&gt;[[Aramid fiber cloth]]&lt;br/&gt;+&lt;br/&gt;[[File:Ripstop icon.png|frameless|link=Ripstop cloth]] x2&lt;br/&gt;[[Ripstop cloth]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;1h 14 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:PACA icon.png|frameless|link=PACA Soft Armor]] x1&lt;br/&gt;[[PACA Soft Armor]]
+|-
+![[File:TK FAST Icon.png|frameless|link=Tac-Kek Fast MT Helmet (non-ballistic replica)]] x2&lt;br/&gt;[[Tac-Kek Fast MT Helmet (non-ballistic replica)]]&lt;br/&gt;+&lt;br/&gt;[[File:Duct tape Icon.png|frameless|link=Duct tape]] x1&lt;br/&gt;[[Duct tape]]&lt;br/&gt;+&lt;br/&gt;[[File:Aramid Icon .png|frameless|link=Aramid fiber cloth]] x2&lt;br/&gt;[[Aramid fiber cloth]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 1]]&lt;/big&gt;&lt;br/&gt;1 h 23 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:LZSh light helmet icon.png|frameless|link=LZSh light helmet]] x1&lt;br/&gt;[[LZSh light helmet]]
+|-
+![[File:Soap icon.png|frameless|link=Soap]] x1&lt;br/&gt;[[Soap]]&lt;br/&gt;+&lt;br/&gt;[[File:Water icon.png|frameless|link=0.6L water bottle]] x1&lt;br/&gt;[[0.6L water bottle]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;35 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Shampoo icon.png|frameless|link=Schaman shampoo]] x2&lt;br/&gt;[[Schaman shampoo]]
+|-
+![[File:Soap icon.png|frameless|link=Soap]] x1&lt;br/&gt;[[Soap]]&lt;br/&gt;+&lt;br/&gt;[[File:Heat-exchange alkali surface washer icon.png|frameless|link=Heat-exchange alkali surface washer]] x1&lt;br/&gt;[[Heat-exchange alkali surface washer]]&lt;br/&gt;+&lt;br/&gt;[[File:Sodium Bicarbonate icon.png|frameless|link=Sodium bicarbonate]] x1&lt;br/&gt;[[Sodium bicarbonate]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;39 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:bleachicon.png|frameless|link=Ox bleach]] x5&lt;br/&gt;[[Ox bleach]]
+|-
+![[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x1&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]&lt;br/&gt;+&lt;br/&gt;[[File:Shampoo icon.png|frameless|link=Schaman shampoo]] x1&lt;br/&gt;[[Schaman shampoo]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;41 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Clin Wiper icon.png|frameless|link=Clin wiper]] x1&lt;br/&gt;[[Clin wiper]]
+|-
+![[File:uxproicon.png|frameless|link=UX PRO Beanie]] x4&lt;br/&gt;[[UX PRO Beanie]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;43 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Fleece Icon.png|frameless|link=Fleece cloth]] x1&lt;br/&gt;[[Fleece cloth]]
+|-
+![[File:Cordura Icon.png|frameless|link=Polyamide fabric Cordura]] x1&lt;br/&gt;[[Polyamide fabric Cordura]]&lt;br/&gt;+&lt;br/&gt;[[File:Ripstop icon.png|frameless|link=Ripstop cloth]] x1&lt;br/&gt;[[Ripstop cloth]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;47 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Tarzan icon.png|frameless|link=Splav Tarzan M22 Rig]] x1&lt;br/&gt;[[Splav Tarzan M22 Rig]]
+|-
+![[File:Aramid Icon .png|frameless|link=Aramid fiber cloth]] x2&lt;br/&gt;[[Aramid fiber cloth]]&lt;br/&gt;+&lt;br/&gt;[[File:Ripstop icon.png|frameless|link=Ripstop cloth]] x2&lt;br/&gt;[[Ripstop cloth]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;54 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:3M icon.png|frameless|link=Module-3M bodyarmor]] x1&lt;br/&gt;[[Module-3M bodyarmor]]
+|-
+![[File:Tarzan icon.png|frameless|link=Splav Tarzan M22 Rig]] x1&lt;br/&gt;[[Splav Tarzan M22 Rig]]&lt;br/&gt;+&lt;br/&gt;[[File:Ripstop icon.png|frameless|link=Ripstop cloth]] x1&lt;br/&gt;[[Ripstop cloth]]&lt;br/&gt;+&lt;br/&gt;[[File:Cordura Icon.png|frameless|link=Polyamide fabric Cordura]] x1&lt;br/&gt;[[Polyamide fabric Cordura]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;1 hour
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Blackrock Icon.png|frameless|link=BlackRock chest rig]] x1&lt;br/&gt;[[BlackRock chest rig]]
+|-
+![[File:Zibbo lighter Icon.png|frameless|link=Zibbo lighter]] x10&lt;br/&gt;[[Zibbo lighter]]&lt;br/&gt;+&lt;br/&gt; [[File:Cricket lighter Icon.png|frameless|link=Crickent lighter]] x10&lt;br/&gt;[[Crickent lighter]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;1 h 2 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:expeditionary-fuel-tank-icon.png|frameless|link=Expeditionary fuel tank]] x1&lt;br/&gt;[[Expeditionary fuel tank]]
+|-
+![[File:Duct tape Icon.png|frameless|link=Duct tape]] x2&lt;br/&gt;[[Duct tape]]&lt;br/&gt;+&lt;br/&gt;[[File:Insulating tape Icon.png|frameless|link=Insulating tape]] x2&lt;br/&gt;[[Insulating tape]]&lt;br/&gt;+&lt;br/&gt;[[File:Clin Wiper icon.png‎|frameless|link=Clin wiper]] x1&lt;br/&gt;[[Clin wiper]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;1 h 20 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:KEKTape icon.png|frameless|link=KEKTAPE duct tape]] x1&lt;br/&gt;[[KEKTAPE duct tape]]
+|-
+![[File:30rndakplastic.png|frameless|link=30-round 6L23 5.45x39 magazine for AK-74 and compatibles]] x4&lt;br/&gt;[[30-round 6L23 5.45x39 magazine for AK-74 and compatibles|30-round 6L23 5.45x39 magazine for AK-74]]&lt;br/&gt;+&lt;br/&gt;[[File:KEKTape icon.png|frameless|link=KEKTAPE duct tape]] x1&lt;br/&gt;[[KEKTAPE duct tape]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;1 h 23 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6L31-60-mag icon.png|frameless|link=60-round 6L31 5.45x39 magazine for AK-74 and compatibles]] x1&lt;br/&gt;[[60-round 6L31 5.45x39 magazine for AK-74 and compatibles|60-round 6L31 5.45x39 magazine for AK-74]]
+|-
+![[File:wd-40400icon.png|frameless|link=WD-40 400ml]] x1&lt;br/&gt;[[WD-40 400ml]]&lt;br/&gt;+&lt;br/&gt;[[File:Metal cutting scissors icon.png|frameless|link=Metal cutting scissors]] x1&lt;br/&gt;[[Metal cutting scissors]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;2 h 30 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:WD40 100ml Icon.png|frameless|link=WD-40 100ml.]] x2&lt;br/&gt;[[WD-40 100ml.]]
+|-
+![[File:Cordura Icon.png|frameless|link=Polyamide fabric Cordura]] x1&lt;br/&gt;[[Polyamide fabric Cordura]]&lt;br/&gt;+&lt;br/&gt;[[File:Construction Measuring Tape Icon.png|frameless|link=Construction measuring tape]] x1&lt;br/&gt;[[Construction measuring tape]]&lt;br/&gt;+&lt;br/&gt;[[File:LK 3F backpack icon.png|frameless|link=LK 3F Transfer tourist backpack]] x4&lt;br/&gt;[[LK 3F Transfer tourist backpack]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;2 h 43 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Pilgrim Backpack icon.png|frameless|link=Pilgrim tourist backpack]] x1&lt;br/&gt;[[Pilgrim tourist backpack]]
+|-
+![[File:SiliconeTubeIcon.png|frameless|link=Silicone tube]] x1&lt;br/&gt;[[Silicone tube]]&lt;br/&gt;+&lt;br/&gt;[[File:Wiresicon.png|frameless|link=Wires]] x3&lt;br/&gt;[[Wires]]&lt;br/&gt;+&lt;br/&gt;[[File:Insulating tape Icon.png|frameless|link=Insulating tape]] x3&lt;br/&gt;[[Insulating tape]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;3 h 22 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Hoseicon.png|frameless|link=Corrugated hose]] x2&lt;br/&gt;[[Corrugated hose]]
+|-
+![[File:Duffel icon.png|frameless|link=Duffle bag]] x5&lt;br/&gt;[[Duffle bag]]&lt;br/&gt;+&lt;br/&gt;[[File:Cricket lighter Icon.png|frameless|link=Crickent lighter]] x1&lt;br/&gt;[[Crickent lighter]]&lt;br/&gt;+&lt;br/&gt;[[File:A-2607 Bars.png|frameless|link=Bars A-2607- 95x18]] x1&lt;br/&gt;[[Bars A-2607- 95x18]]&lt;br/&gt;+&lt;br/&gt;[[File:Wiresicon.png|frameless|link=Wires]] x3&lt;br/&gt;[[Wires]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;4 h 18 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:ParacordIcon.png|frameless|link=Paracord]] x1&lt;br/&gt;[[Paracord]]
+|-
+![[File:Expeditionary-fuel-tank-icon.png|frameless|link=Expeditionary fuel tank]] x2&lt;br/&gt;[[Expeditionary fuel tank]]&lt;br/&gt;+&lt;br/&gt;[[File:Metal cutting scissors icon.png|frameless|link=Metal cutting scissors]] x1&lt;br/&gt;[[Metal cutting scissors]]&lt;br/&gt;+&lt;br/&gt;[[File:Boltsicon.png|frameless|link=Bolts]] x3&lt;br/&gt;[[Bolts]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwnuticon.png|frameless|link=Screw nut]] x3&lt;br/&gt;[[Screw nut]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;4 h 53 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Magbox icon.png|frameless|link=Magazine case]] x1&lt;br/&gt;[[Magazine case]]
+|-
+![[File:Airfiltericon.png|frameless|link=Air filter for gas mask]] x4&lt;br/&gt;[[Air filter for gas mask]]&lt;br/&gt;+&lt;br/&gt;[[File:Metal cutting scissors icon.png|frameless|link=Metal cutting scissors]] x1&lt;br/&gt;[[Metal cutting scissors]]&lt;br/&gt;+&lt;br/&gt;[[File:Printer Paper icon.png|frameless|link=Printer paper]] x1&lt;br/&gt;[[Printer paper]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;9 h 53 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Water filter icon.png|frameless|link=Water filter]] x1&lt;br/&gt;[[Water filter]]
+|-
+![[File:Magbox icon.png|frameless|link=Magazine case]] x3&lt;br/&gt;[[Magazine case]]&lt;br/&gt;+&lt;br/&gt;[[File:Metal cutting scissors icon.png|frameless|link=Metal cutting scissors]] x1&lt;br/&gt;[[Metal cutting scissors]]&lt;br/&gt;+&lt;br/&gt;[[File:Boltsicon.png|frameless|link=Bolts]] x6&lt;br/&gt;[[Bolts]]&lt;br/&gt;+&lt;br/&gt;[[File:KEKTape icon.png|frameless|link=KEKTAPE duct tape]] x3&lt;br/&gt;[[KEKTAPE duct tape]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;11 h 23 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Junkbox.png|frameless|link=Lucky Scav Junkbox]] x1&lt;br/&gt;[[Lucky Scav Junkbox]]
+|-
+![[File:Metal-fuel-tank-icon.png|frameless|link=Metal fuel tank]] x2&lt;br/&gt;[[Metal fuel tank]]&lt;br/&gt;+&lt;br/&gt;[[File:Metal cutting scissors icon.png|frameless|link=Metal cutting scissors]] x1&lt;br/&gt;[[Metal cutting scissors]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwnuticon.png|frameless|link=Screw nut]] x5&lt;br/&gt;[[Screw nut]]&lt;br/&gt;+&lt;br/&gt;[[File:Boltsicon.png|frameless|link=Bolts]] x5&lt;br/&gt;[[Bolts]]&lt;br/&gt;+&lt;br/&gt;[[File:Wrench Icon.png|frameless|link=Wrench]] x1&lt;br/&gt;[[Wrench]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 2]]&lt;/big&gt;&lt;br/&gt;16 h 40 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Grenade.png|frameless|link=Grenade case]] x1&lt;br/&gt;[[Grenade case]]
+|-
+![[File:Triton M43-A Chest Harness icon.png|frameless|link=Triton M43-A Chest Harness]] x2&lt;br/&gt;[[Triton M43-A Chest Harness]]&lt;br/&gt;+&lt;br/&gt;[[File:KEKTape icon.png|frameless|link=KEKTAPE duct tape]] x1&lt;br/&gt;[[KEKTAPE duct tape]]&lt;br/&gt;+&lt;br/&gt;[[File:bleachicon.png|frameless|link=Ox bleach]] x1&lt;br/&gt;[[Ox bleach]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 3]]&lt;/big&gt;&lt;br/&gt;2 h 10 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MPPV ICon.png|frameless|link=Velocity Systems Multi-Purpose Patrol Vest]] x2&lt;br/&gt;[[Velocity Systems Multi-Purpose Patrol Vest]]
+|-
+![[File:Armybagicon.png|frameless|link=VKBO army bag]] x4&lt;br/&gt;[[VKBO army bag]]&lt;br/&gt;+&lt;br/&gt;[[File:ParacordIcon.png|frameless|link=Paracord]] x1&lt;br/&gt;[[Paracord]]&lt;br/&gt;+&lt;br/&gt;[[File:Ripstop icon.png|frameless|link=Ripstop cloth]] x2&lt;br/&gt;[[Ripstop cloth]]&lt;br/&gt;+&lt;br/&gt;[[File:Multitoolicon.png|frameless|link=Leatherman Multitool]] x1&lt;br/&gt;[[Leatherman Multitool]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 3]]&lt;/big&gt;&lt;br/&gt;2 h 13 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:6SH118 Icon.png|frameless|link=6SH118 raid backpack]] x1&lt;br/&gt;[[6SH118 raid backpack]]
+|-
+![[File:Airfiltericon.png|frameless|link=Air filter for gas mask]] x2&lt;br/&gt;[[Air filter for gas mask]]&lt;br/&gt;+&lt;br/&gt;[[File:Water filter icon.png|frameless|link=Water filter]] x2&lt;br/&gt;[[Water filter]]&lt;br/&gt;+&lt;br/&gt;[[File:Toolsicon.png|frameless|link=A set of tools]] x1&lt;br/&gt;[[A set of tools]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Lavatory level 3]]&lt;/big&gt;&lt;br/&gt;2 h 37 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FP-100 filter absorber icon.png|frameless|link=FP-100 filter absorber]] x1&lt;br/&gt;[[FP-100 filter absorber]]
+|}
+
+===Medstation===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Needed items
+!colspan =3 style="width:Auto;"|Module and time
+!style="width:Auto;"|Produced items
+|-
+![[File:Pile of meds icon.png|frameless|link=Pile of meds]] x1&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 1]]&lt;/big&gt;&lt;br/&gt;22 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AI-2 Icon.png|frameless|link=AI-2 medikit]] x3&lt;br/&gt;[[AI-2 medikit]]
+|-
+![[File:Hydrogen Peroxide icon.png|frameless|link=Hydrogen peroxide]] x2&lt;br/&gt;[[Hydrogen peroxide]]&lt;br/&gt;+&lt;br/&gt;[[File:Pile of meds icon.png|frameless|link=Pile of meds]] x2&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 1]]&lt;/big&gt;&lt;br/&gt;30 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:HemostaticIcon.png|frameless|link=CALOK-B Hemostatic]] x2&lt;br/&gt;[[CALOK-B Hemostatic]]
+|-
+![[File:EFT Painkillers Icon.png|frameless|link=Analgin painkillers]] x2&lt;br/&gt;[[Analgin painkillers]]&lt;br/&gt;+&lt;br/&gt;[[File:EFT Aseptic-Bandage Icon.png|frameless|link=Aseptic bandage]] x2&lt;br/&gt;[[Aseptic bandage]]&lt;br/&gt;+&lt;br/&gt;[[File:HemostaticIcon.png|frameless|link=CALOK-B Hemostatic]] x1&lt;br/&gt;[[CALOK-B Hemostatic]]&lt;br/&gt;+&lt;br/&gt;[[File:TournIcon.png|frameless|link=Esmarch tourniquet]] x2&lt;br/&gt;[[Esmarch tourniquet]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 1]]&lt;/big&gt;&lt;br/&gt;33 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT Salewa-First-Aid-Kit Icon 2.png|frameless|link=Salewa FIRST AID KIT]] x1&lt;br/&gt;[[Salewa FIRST AID KIT]]
+|-
+![[File:SiliconeTubeIcon.png|frameless|link=Silicone tube]] x1&lt;br/&gt;[[Silicone tube]]&lt;br/&gt;+&lt;br/&gt;[[File:DisposableSyringeIcon.png|frameless|link=Disposable syringe]] x2&lt;br/&gt;[[Disposable syringe]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 2]]&lt;/big&gt;&lt;br/&gt;28 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Medical Bloodset Icon.png|frameless|link=Medical bloodset]] x1&lt;br/&gt;[[Medical bloodset]]
+|-
+![[File:AI-2 Icon.png|frameless|link=AI-2 medikit]] x1&lt;br/&gt;[[AI-2 medikit]]&lt;br/&gt;+&lt;br/&gt;[[File:EFT Aseptic-Bandage Icon.png|frameless|link=Aseptic bandage]] x1&lt;br/&gt;[[Aseptic bandage]]&lt;br/&gt;+&lt;br/&gt;[[File:EFT Augmentin-antibiotic-pills Icon.png|frameless|link=Augmentin antibiotic pills]] x1&lt;br/&gt;[[Augmentin antibiotic pills]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 2]]&lt;/big&gt;&lt;br/&gt;48 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Pile of meds icon.png|frameless|link=Pile of meds]] x3&lt;br/&gt;[[Pile of meds]]
+|-
+![[File:Pile of meds icon.png|frameless|link=Pile of meds]] x2&lt;br/&gt;[[Pile of meds]]&lt;br/&gt;+&lt;br/&gt;[[File:EFT Army-Bandage Icon.png|frameless|link=Army bandage]] x2&lt;br/&gt;[[Army bandage]]&lt;br/&gt;+&lt;br/&gt;[[File:TournIcon.png|frameless|link=Esmarch tourniquet]] x1&lt;br/&gt;[[Esmarch tourniquet]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 2]]&lt;/big&gt;&lt;br/&gt;50 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT IFAK Icon.png|frameless|link=IFAK personal tactical first aid kit]] x2&lt;br/&gt;[[IFAK personal tactical first aid kit]]
+|-
+![[File:Adrenaline Icon.png|frameless|link=Adrenaline injector]] x1&lt;br/&gt;[[Adrenaline injector]]&lt;br/&gt;+&lt;br/&gt;[[File:AI-2 Icon.png|frameless|link=AI-2 medikit]] x2&lt;br/&gt;[[AI-2 medikit]]&lt;br/&gt;+&lt;br/&gt;[[File:Pile of meds icon.png|frameless|link=Pile of meds]] x2&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 2]]&lt;/big&gt;&lt;br/&gt;1 h 10 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:XTG-12icon.png|frameless|link=Antidote xTG-12]] x1&lt;br/&gt;[[Antidote xTG-12]]
+|-
+![[File:Pile of meds icon.png|frameless|link=Pile of meds]] x1&lt;br/&gt;[[Pile of meds]]&lt;br/&gt;+&lt;br/&gt;[[File:EFT Painkillers Icon.png|frameless|link=Analgin painkillers]] x1&lt;br/&gt;[[Analgin painkillers]]&lt;br/&gt;+&lt;br/&gt;[[File:DisposableSyringeIcon.png|frameless|link=Disposable syringe]] x1&lt;br/&gt;[[Disposable syringe]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 2]]&lt;/big&gt;&lt;br/&gt;1 h 13 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT Morphine Icon.png|frameless|link=Morphine injector]] x1&lt;br/&gt;[[Morphine injector]]
+|-
+![[File:Pile of meds icon.png|frameless|link=Pile of meds]] x7&lt;br/&gt;[[Pile of meds]]&lt;br/&gt;+&lt;br/&gt;[[File:Saline Solution icon.png|frameless|link=Saline solution]] x2&lt;br/&gt;[[Saline solution]]&lt;br/&gt;+&lt;br/&gt;[[File:PropitalIcon.png|frameless|link=Propital]] x3&lt;br/&gt;[[Propital]]&lt;br/&gt;+&lt;br/&gt;[[File:EFT Morphine Icon.png|frameless|link=Morphine injector]] x1&lt;br/&gt;[[Morphine injector]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 2]]&lt;/big&gt;&lt;br/&gt;1h 23 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Combat stimulant SJ1 icon.png|frameless|link=Combat stimulant injector SJ1 TGLabs]] x5&lt;br/&gt;[[Combat stimulant injector SJ1 TGLabs]]
+|-
+![[File:Hemostatic drug Zagustin icon.png|frameless|link=Hemostatic drug Zagustin]] x1&lt;br/&gt;[[Hemostatic drug Zagustin]]&lt;br/&gt;+&lt;br/&gt;[[File:EFT Morphine Icon.png|frameless|link=Morphine injector]] x1&lt;br/&gt;[[Morphine injector]]&lt;br/&gt;+&lt;br/&gt;[[File:NRG Drink icon.png|frameless|link=Max energy]] x2&lt;br/&gt;[[Max energy]]&lt;br/&gt;+&lt;br/&gt;[[File:Pile of meds icon.png|frameless|link=Pile of meds]] x2&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 2]]&lt;/big&gt;&lt;br/&gt;1 h 32 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M.U.L.E. Stimulator Icon.png|frameless|link=M.U.L.E. stimulator]] x1&lt;br/&gt;[[M.U.L.E. stimulator]]
+|-
+![[File:Magnet Icon.png|frameless|link=Magnet]] x2&lt;br/&gt;[[Magnet]]&lt;br/&gt;+&lt;br/&gt;[[File:Wiresicon.png|frameless|link=Wires]] x3&lt;br/&gt;[[Wires]]&lt;br/&gt;+&lt;br/&gt;[[File:Capacitorsicon.png|frameless|link=Capacitors]] x4&lt;br/&gt;[[Capacitors]]&lt;br/&gt;+&lt;br/&gt;[[File:PowerbankIcon.png|frameless|link=Powerbank]] x1&lt;br/&gt;[[Powerbank]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 2]]&lt;/big&gt;&lt;br/&gt;5 h 15 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Defibrillatoricon.png|frameless|link=Portable defibrillator]] x1&lt;br/&gt;[[Portable defibrillator]]
+|-
+![[File:Soap icon.png|frameless|link=Soap]] x3&lt;br/&gt;[[Soap]]&lt;br/&gt;+&lt;br/&gt;[[File:Shampoo icon.png|frameless|link=Schaman shampoo]] x2&lt;br/&gt;[[Schaman shampoo]]&lt;br/&gt;+&lt;br/&gt;[[File:Pile of meds icon.png|frameless|link=Pile of meds]] x1&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 3]]&lt;/big&gt;&lt;br/&gt;55 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT Vaseline Icon.png|frameless|link=Vaseline]] x2&lt;br/&gt;[[Vaseline]]
+|-
+![[File:Pile of meds icon.png|frameless|link=Pile of meds]] x8&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 3]]&lt;/big&gt;&lt;br/&gt;1 h 14 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:EFT Grizzly Icon.png|frameless|link=Grizzly First Aid Kit]] x2&lt;br/&gt;[[Grizzly First Aid Kit]]
+|-
+![[File:Pile of meds icon.png|frameless|link=Pile of meds]] x6&lt;br/&gt;[[Pile of meds]]&lt;br/&gt;+&lt;br/&gt;[[File:Toolsicon.png|frameless|link=A set of tools]] x1&lt;br/&gt;[[A set of tools]]&lt;br/&gt;+&lt;br/&gt;[[File:TournIcon.png|frameless|link=Esmarch tourniquet]] x1&lt;br/&gt;[[Esmarch tourniquet]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 3]]&lt;/big&gt;&lt;br/&gt;1 h 17 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Surv12 icon.png|frameless|link=Surv12 field surgical kit]] x2&lt;br/&gt;[[Surv12 field surgical kit]]
+|-
+![[File:Combat stimulant SJ1 icon.png|frameless|link=Combat stimulant injector SJ1 TGLabs]] x1&lt;br/&gt;[[Combat stimulant injector SJ1 TGLabs]]&lt;br/&gt;+&lt;br/&gt;[[File:Pile of meds icon.png|frameless|link=Pile of meds]] x2&lt;br/&gt;[[Pile of meds]]&lt;br/&gt;+&lt;br/&gt;[[File:Saline Solution icon.png|frameless|link=Saline solution]] x1&lt;br/&gt;[[Saline solution]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 3]]&lt;/big&gt;&lt;br/&gt;1 h 25 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Combat stimulant SJ6 icon.png|frameless|link=Combat stimulant injector SJ6 TGLabs]] x2&lt;br/&gt;[[Combat stimulant injector SJ6 TGLabs]]
+|-
+![[File:Ibuprofen painkiller icon.png|frameless|link=Ibuprofen painkillers]] x1&lt;br/&gt;[[Ibuprofen painkillers]]&lt;br/&gt;+&lt;br/&gt;[[File:Golden Star Balm Icon.png|frameless|link=Golden Star Balm]] x1&lt;br/&gt;[[Golden Star Balm]]&lt;br/&gt;+&lt;br/&gt;[[File:Pile of meds icon.png|frameless|link=Pile of meds]] x2&lt;br/&gt;[[Pile of meds]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 3]]&lt;/big&gt;&lt;br/&gt;1 h 55 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:PropitalIcon.png|frameless|link=Propital]] x7&lt;br/&gt;[[Propital]]
+|-
+![[File:Ophthalmoscopeicon.png|frameless|link=Ophthalmoscope]] x2&lt;br/&gt;[[Ophthalmoscope]]&lt;br/&gt;+&lt;br/&gt;[[File:Magnet Icon.png|frameless|link=Magnet]] x3&lt;br/&gt;[[Magnet]]&lt;br/&gt;+&lt;br/&gt;[[File:UHFRFIDIcon.png|frameless|link=UHF RFID Reader]] x3&lt;br/&gt;[[UHF RFID Reader]]&lt;br/&gt;+&lt;br/&gt;[[File:PowerbankIcon.png|frameless|link=Powerbank]] x3&lt;br/&gt;[[Powerbank]]&lt;br/&gt;+&lt;br/&gt;[[File:Defibrillatoricon.png|frameless|link=Portable defibrillator]] x2&lt;br/&gt;[[Portable defibrillator]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Medstation level 3]]&lt;/big&gt;&lt;br/&gt;38 h 53 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:TransilluminatorIcon.png|frameless|link=LEDX Skin Transilluminator]] x1&lt;br/&gt;[[LEDX Skin Transilluminator]]
+|}
+
+===Nutrition unit===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Needed items
+!colspan =3 style="width:Auto;"|Module and time
+!style="width:Auto;"|Produced items
+|-
+![[File:Army Crackers icon.png|frameless|link=Army Crackers]] x2&lt;br/&gt;[[Army Crackers]]&lt;br/&gt;+&lt;br/&gt;[[File:Can of beef stew Icon.png|frameless|link=Can of beef stew]] x1&lt;br/&gt;[[Can of beef stew]]&lt;br/&gt;+&lt;br/&gt;[[File:Squash Spread icon.png|frameless|link=Squash spread]] x1&lt;br/&gt;[[Squash spread]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 1]]&lt;/big&gt;&lt;br/&gt;48 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Lunchbox icon.png|frameless|link=Iskra lunch box]] x2&lt;br/&gt;[[Iskra lunch box]]
+|-
+![[File:Water icon.png|frameless|link=0.6L water bottle]] x2&lt;br/&gt;[[0.6L water bottle]]&lt;br/&gt;+&lt;br/&gt;[[File:Emeyla Croutons.png|frameless|link=Emelya rye croutons]] x4&lt;br/&gt;[[Emelya rye croutons]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 1]]&lt;/big&gt;&lt;br/&gt;1h 3 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:kvass icon.png|frameless|link=Premium Kvass "Norvinskiy Yadreniy" 0.6L bottle]] x2&lt;br/&gt;[[Premium Kvass "Norvinskiy Yadreniy" 0.6L bottle]]
+|-
+![[File:Can of beef stew alt Icon.png|frameless|link=Can of delicious beef stew]] x1&lt;br/&gt;[[Can of delicious beef stew]]&lt;br/&gt;+&lt;br/&gt;[[File:Squash Spread icon.png|frameless|link=Squash spread]] x1&lt;br/&gt;[[Squash spread]]&lt;br/&gt;+&lt;br/&gt;[[File:Rye Croutons.png|frameless|link=Rye croutons]] x1&lt;br/&gt;[[Rye croutons]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 1]]&lt;/big&gt;&lt;br/&gt;1 h 19 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Can of beef stew Icon.png|frameless|link=Can of beef stew]] x2&lt;br/&gt;[[Can of beef stew]]
+|-
+![[File:Tar Cola icon.png|frameless|link=TarCola]] x1&lt;br/&gt;[[TarCola]]&lt;br/&gt;+&lt;br/&gt;[[File:Coffeicon.png|frameless|link=Coffee Majaica]] x1&lt;br/&gt;[[Coffee Majaica]]&lt;br/&gt;+&lt;br/&gt;[[File:Water icon.png|frameless|link=0.6L water bottle]] x1&lt;br/&gt;[[0.6L water bottle]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 1]]&lt;/big&gt;&lt;br/&gt;1 h 48 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:NRG Drink icon.png|frameless|link=Max energy]] x4&lt;br/&gt;[[Max energy]]
+|-
+![[File:Alyonka Chocolate Bar icon.png|frameless|link=Alyonka chocolate bar]] x1&lt;br/&gt;[[Alyonka chocolate bar]]&lt;br/&gt;+&lt;br/&gt;[[File:Oatflakes icon.png|frameless|link=Pack of oat flakes]] x1&lt;br/&gt;[[Pack of oat flakes]]&lt;br/&gt;+&lt;br/&gt;[[File:Army Crackers icon.png|frameless|link=Army Crackers]] x1&lt;br/&gt;[[Army Crackers]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 2]]&lt;/big&gt;&lt;br/&gt;1 h 12 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Slickers bar icon.png|frameless|link=Slickers bar]] x7&lt;br/&gt;[[Slickers bar]]
+|-
+![[File:Sugar icon.png|frameless|link=Pack of sugar]] x1&lt;br/&gt;[[Pack of sugar]]&lt;br/&gt;+&lt;br/&gt;[[File:Pack ofMilk icon.png|frameless|link=Pack of milk]] x1&lt;br/&gt;[[Pack of milk]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 2]]&lt;/big&gt;&lt;br/&gt;1 h 22 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:condmilkicon.png|frameless|link=Condensed milk]] x3&lt;br/&gt;[[Condensed milk]]
+|-
+![[File:Alyonka Chocolate Bar icon.png|frameless|link=Alyonka chocolate bar]] x2&lt;br/&gt;[[Alyonka chocolate bar]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 2]]&lt;/big&gt;&lt;br/&gt;1 h 23 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Sugar icon.png|frameless|link=Pack of sugar]] x1&lt;br/&gt;[[Pack of sugar]]
+|-
+![[File:Apollon Soyuz cigarettes Icon.png|frameless|link=Apollon Soyuz cigarettes]] x1&lt;br/&gt;[[Apollon Soyuz cigarettes]]&lt;br/&gt;+&lt;br/&gt;[[File:EnglishTeaIcon.png|frameless|link=42nd Signature Blend English Tea]] x1&lt;br/&gt;[[42nd Signature Blend English Tea]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 2]]&lt;/big&gt;&lt;br/&gt;1 h 42 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Wilstonicon.png|frameless|link=Wilston cigarettes]] x5&lt;br/&gt;[[Wilston cigarettes]]
+|-
+![[File:Fiece hatchling moonshine icon.png|frameless|link="Fierce Hatchling" moonshine]] x1&lt;br/&gt;[["Fierce Hatchling" moonshine]]&lt;br/&gt;+&lt;br/&gt;[[File:Water icon.png|frameless|link=0.6L water bottle]] x5&lt;br/&gt;[[0.6L water bottle]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 3]]&lt;/big&gt;&lt;br/&gt;1 h 36 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x10&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]
+|-
+![[File:Water icon.png|frameless|link=0.6L water bottle]] x2&lt;br/&gt;[[0.6L water bottle]]&lt;br/&gt;+&lt;br/&gt;[[File:VodkaIcon.png|frameless|link=Bottle of vodka Tarkovskaya]] x2&lt;br/&gt;[[Bottle of vodka Tarkovskaya]]&lt;br/&gt;+&lt;br/&gt;[[File:Alyonka Chocolate Bar icon.png|frameless|link=Alyonka chocolate bar]] x1&lt;br/&gt;[[Alyonka chocolate bar]]&lt;br/&gt;+&lt;br/&gt;[[File:EnglishTeaIcon.png|frameless|link=42nd Signature Blend English Tea]] x1&lt;br/&gt;[[42nd Signature Blend English Tea]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 3]]&lt;/big&gt;&lt;br/&gt;1 h 47 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Whiskey icon.png|frameless|link=Bottle of Dan Jackiel Whiskey]] x3&lt;br/&gt;[[Bottle of Dan Jackiel Whiskey]]
+|-
+![[File:Purified water icon.png|frameless|link=Purified water]] x1&lt;br/&gt;[[Purified water]]&lt;br/&gt;+&lt;br/&gt;[[File:SiliconeTubeIcon.png|frameless|link=Silicone tube]] x1&lt;br/&gt;[[Silicone tube]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 3]]&lt;/big&gt;&lt;br/&gt;1 h 51 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Aquamari icon.png|frameless|link=Water bottle with a filter Aquamari]] x8&lt;br/&gt;[[Water bottle with a filter Aquamari]]
+|-
+![[File:Purified water icon.png|frameless|link=Purified water]] x1&lt;br/&gt;[[Purified water]]&lt;br/&gt;+&lt;br/&gt;[[File:Sugar icon.png|frameless|link=Pack of sugar]] x1&lt;br/&gt;[[Pack of sugar]]&lt;br/&gt;+&lt;br/&gt;[[File:Coffeicon.png|frameless|link=Coffee Majaica]] x1&lt;br/&gt;[[Coffee Majaica]]&lt;br/&gt;+&lt;br/&gt;[[File:EnglishTeaIcon.png|frameless|link=42nd Signature Blend English Tea]] x1&lt;br/&gt;[[42nd Signature Blend English Tea]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Nutrition unit level 3]]&lt;/big&gt;&lt;br/&gt;5 h 15 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Hor Rod icon.png|frameless|link=Hot Rod]] x20&lt;br/&gt;[[Hot Rod]]
+|}
+
+===Workbench===
+{| class="wikitable mw-collapsible" style="text-align: center;" sortable" width: auto;"
+|+ class="nowrap" | 
+!style="width:Auto;"|Needed items
+!colspan =3 style="width:Auto;"|Module and time
+!style="width:Auto;"|Produced items
+|-
+![[File:Working LCD Icon.png|frameless|link=Working LCD]] x4&lt;br/&gt;[[Working LCD]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwdriver Icon.png|frameless|link=Screwdriver]] x1&lt;br/&gt;[[Screwdriver]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;22 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Lcd-icon.PNG|frameless|link=Broken LCD]] x4&lt;br/&gt;[[Broken LCD]]
+|-
+![[File:Flat Screwdriver Icon.PNG|frameless|link=Flat screwdriver]] x1&lt;br/&gt;[[Flat screwdriver]]&lt;br/&gt;+&lt;br/&gt;[[File:DVD drive Icon.png|frameless|link=DVD drive]] x1&lt;br/&gt;[[DVD drive]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;33 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Circuit Icon.png|frameless|link=Printed circuit board]] x2&lt;br/&gt;[[Printed circuit board]]
+|-
+![[File:T-Shaped Plug Icon.png|frameless|link=T-Shaped Plug]] x2&lt;br/&gt;[[T-Shaped Plug]]&lt;br/&gt;+&lt;br/&gt;[[File:Wiresicon.png|frameless|link=Wires]] x2&lt;br/&gt;[[Wires]]&lt;br/&gt;+&lt;br/&gt;[[File:Insulating tape Icon.png|frameless|link=Insulating tape]] x1&lt;br/&gt;[[Insulating tape]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;35 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Powercord icon.png|frameless|link=Powercord]] x2&lt;br/&gt;[[Powercord]]
+|-
+![[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x1&lt;br/&gt;&lt;br/&gt;[[Gunpowder "Eagle"]]&lt;br/&gt;+&lt;br/&gt;[[File:Matches Icon.png|frameless|link=Classic matches]] x1&lt;br/&gt;[[Classic matches]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;36 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x2&lt;br/&gt;[[Gunpowder "Hawk"]]
+|-
+![[File:Damaged Hard Drive Icon.png|frameless|link=Damaged hard drive]] x1&lt;br/&gt;[[Damaged hard drive]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;43 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Magnet Icon.png|frameless|link=Magnet]] x1&lt;br/&gt;[[Magnet]]
+|-
+![[File:Gas Analyzer Icon.png|frameless|link=Gas analyzer]] x1&lt;br/&gt;[[Gas analyzer]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwdriver Icon.png|frameless|link=Screwdriver]] x1&lt;br/&gt;[[Screwdriver]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;48 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Circuit Icon.png|frameless|link=Printed circuit board]] x2&lt;br/&gt;[[Printed circuit board]]
+|-
+![[File:Nailsicon.png|frameless|link=A pack of nails]] x1&lt;br/&gt;[[A pack of nails]]&lt;br/&gt;+&lt;br/&gt;[[File:Powercord icon.png|frameless|link=Powercord]] x1&lt;br/&gt;[[Powercord]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;57 minutes
+!&lt;big&gt;→&lt;/big&gt;
+![[File:T-Shaped Plug Icon.png|frameless|link=T-Shaped Plug]] x1&lt;br/&gt;[[T-Shaped Plug]]
+|-
+![[File:40 VOG-25.png|frameless|link=40 mm VOG-25]] x5&lt;br/&gt;[[40 mm VOG-25]]&lt;br/&gt;+&lt;br/&gt;[[File:Fuze icon.png|frameless|link=UZRGM grenade fuze]] x5&lt;br/&gt;[[UZRGM grenade fuze]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;1 h 7 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Vog-25 icon.png|frameless|link=VOG-25 Khattabka grenade]] x8&lt;br/&gt;[[VOG-25 Khattabka grenade]]
+|-
+![[File:VPO-209 icon.png|frameless|link=Vepr AKM / VPO-209 366TKM carbine]] x1&lt;br/&gt;[[Vepr AKM / VPO-209 366TKM carbine]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;1 h 18 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x2&lt;br/&gt;[[Weapon parts]]
+|-
+![[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x1&lt;br/&gt;[[Weapon parts]]&lt;br/&gt;+&lt;br/&gt;[[File:6p20sb6.png|frameless|link=Wooden AK-74 handguard (6P20 Sb.6)]] x1&lt;br/&gt;[[Wooden AK-74 handguard (6P20 Sb.6)]]&lt;br/&gt;+&lt;br/&gt;[[File:6p20sb5icon.png|frameless|link=Izhmash wooden AK-74 stock (6P20 Sb.5)]] x1&lt;br/&gt;[[Izhmash wooden AK-74 stock (6P20 Sb.5)]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;1 h 22 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AK-74N icon.png|frameless|link=AK-74N 5.45x39 assault rifle]] x1&lt;br/&gt;[[AK-74N 5.45x39 assault rifle]]
+|-
+![[File:VPO 136 icon.png|frameless|link=Vepr KM / VPO-136 7.62x39 carbine]] x1&lt;br/&gt;[[Vepr KM / VPO-136 7.62x39 carbine]]&lt;br/&gt;+&lt;br/&gt;[[File:Multitoolicon.png|frameless|link=Leatherman Multitool]] x1&lt;br/&gt;[[Leatherman Multitool]]&lt;br/&gt;+&lt;br/&gt;[[File:6p1.png|frameless|link=Izhmash 7.62x39 AKM muzzle brake &amp; compensator (6P1 0-14)]] x1&lt;br/&gt;[[Izhmash 7.62x39 AKM muzzle brake &amp; compensator (6P1 0-14)|Izhmash 7.62x39 AKM&lt;br/&gt;muzzlebrake &amp; compensator (6P1 0-14)]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;1 h 25 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AKM icon.png|frameless|link=AKM 7.62x39 assault rifle]] x1&lt;br/&gt;[[AKM 7.62x39 assault rifle]]
+|-
+![[File:74PSICON.png|frameless|link=5.45x39 mm PS]] x70&lt;br/&gt;[[5.45x39 mm PS]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;1 h 29 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]
+|-
+![[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:Matches Icon.png|frameless|link=Classic matches]] x1&lt;br/&gt;[[Classic matches]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;1 h 32 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:127065ExpressMagnumIcon.png|frameless|link=12/70 8.5 mm "Magnum" Buckshot]] x120&lt;br/&gt;[[12/70 8.5 mm "Magnum" Buckshot]]
+|-
+![[File:Broken GPhone x Icon.png|frameless|link=Broken GPhone X]] x1&lt;br/&gt;[[Broken GPhone X]]&lt;br/&gt;+&lt;br/&gt;[[File:Lcd-icon.PNG|frameless|link=Broken LCD]] x1&lt;br/&gt;[[Broken LCD]]&lt;br/&gt;+&lt;br/&gt;[[File:Long screwdriver icon.png|frameless|link=Long flat screwdriver]] x1&lt;br/&gt;[[Long flat screwdriver]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;1 h 39 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Broken GPhone Icon.png|frameless|link=Broken GPhone]] x1&lt;br/&gt;[[Broken GPhone]]
+|-
+![[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;1 h 43 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:9x18RG028GZH.png|frameless|link=9x18 PM mm RG028 gzh]] x140&lt;br/&gt;[[9x18 PM mm RG028 gzh]]
+|-
+![[File:Powercord icon.png|frameless|link=Powercord]] x2&lt;br/&gt;[[Powercord]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;1 h 58 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Wiresicon.png|frameless|link=Wires]] x8&lt;br/&gt;[[Wires]]
+|-
+![[File:Psuicon.png|frameless|link=Power supply unit]] x1&lt;br/&gt;[[Power supply unit]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwdriver Icon.png|frameless|link=Screwdriver]] x1&lt;br/&gt;[[Screwdriver]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 1]]&lt;/big&gt;&lt;br/&gt;2 h 4 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Capacitorsicon.png|frameless|link=Capacitors]] x8&lt;br/&gt;[[Capacitors]]
+|-
+![[File:Flat Screwdriver Icon.PNG|frameless|link=Flat screwdriver]] x1&lt;br/&gt;[[Flat screwdriver]]&lt;br/&gt;+&lt;br/&gt;[[File:PowerbankIcon.png|frameless|link=Powerbank]] x1&lt;br/&gt;[[Powerbank]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;1 h 13 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:recicon.png|frameless|link=Rechargeable battery]] x2&lt;br/&gt;[[Rechargeable battery]]
+|-
+![[File:Fuze icon.png|frameless|link=UZRGM grenade fuze]] x5&lt;br/&gt;[[UZRGM grenade fuze]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:RDG-2B Smoke grenade icon.png|frameless|link=RDG-2B Smoke grenade]] x1&lt;br/&gt;[[RDG-2B Smoke grenade]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;1 h 18 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Zarya stun grenade icon.png|frameless|link=Zarya stun grenade]] x5&lt;br/&gt;[[Zarya stun grenade]]
+|-
+![[File:Electric Drill icon.png|frameless|link=Electric drill]] x2&lt;br/&gt;[[Electric drill]]&lt;br/&gt;+&lt;br/&gt;[[File:Flat Screwdriver Icon.PNG|frameless|link=Flat screwdriver]] x1&lt;br/&gt;[[Flat screwdriver]]&lt;br/&gt;+&lt;br/&gt;[[File:Screwdriver Icon.png|frameless|link=Screwdriver]] x1&lt;br/&gt;[[Screwdriver]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;1 h 20 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Electric motor icon.png|frameless|link=Electric motor]] x1&lt;br/&gt;[[Electric motor]]
+|-
+![[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x1&lt;br/&gt;[[Weapon parts]]&lt;br/&gt;+&lt;br/&gt;[[File:6p20sb9.png|frameless|link=Polymer AK-74 foregrip (6P20 Sb.9)]] x1&lt;br/&gt;[[Polymer AK-74 foregrip (6P20 Sb.9)]]&lt;br/&gt;+&lt;br/&gt;[[File:6p45sb15icon.png|frameless|link=Polymer stock for AK-74M (6P34 Sb.15)]] x1&lt;br/&gt;[[Polymer stock for AK-74M (6P34 Sb.15)]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;1 h 23 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:AK-74M icon.png|frameless|link=AK-74M 5.45x39 assault rifle]] x1&lt;br/&gt;[[AK-74M 5.45x39 assault rifle]]
+|-
+![[File:Gas Analyzer Icon.png|frameless|link=Gas analyzer]] x1&lt;br/&gt;[[Gas analyzer]]&lt;br/&gt;+&lt;br/&gt;[[File:Wiresicon.png|frameless|link=Wires]] x1&lt;br/&gt;[[Wires]]&lt;br/&gt;+&lt;br/&gt;[[File:Capacitorsicon.png|frameless|link=Capacitors]] x1&lt;br/&gt;[[Capacitors]]&lt;br/&gt;+&lt;br/&gt;[[File:AA Battery Icon 2.png|frameless|link=AA Battery]] x1&lt;br/&gt;[[AA Battery]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;1 h 32 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Geiger-Mueller counter Icon.png|frameless|link=Geiger-Muller counter]] x1&lt;br/&gt;[[Geiger-Muller counter]]
+|-
+![[File:M67icon.png|frameless|link=M67 Hand grenade]] x2&lt;br/&gt;[[M67 Hand grenade]]&lt;br/&gt;+&lt;br/&gt;[[File:RDG-2B Smoke grenade icon.png|frameless|link=RDG-2B Smoke grenade]] x1&lt;br/&gt;[[RDG-2B Smoke grenade]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;1 h 38 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x1&lt;br/&gt;[[Gunpowder "Eagle"]]
+|-
+![[File:30x160mmShellicon.png|frameless|link=OFZ 30x160mm shell]] x1&lt;br/&gt;[[OFZ 30x160mm shell]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x2&lt;br/&gt;[[Gunpowder "Kite"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;1 h 53 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x2&lt;br/&gt;[[Gunpowder "Hawk"]]
+|-
+![[File:Screwnuticon.png|frameless|link=Screw nut]] x1&lt;br/&gt;[[Screw nut]]&lt;br/&gt;+&lt;br/&gt;[[File:Boltsicon.png|frameless|link=Bolts]] x1&lt;br/&gt;[[Bolts]]&lt;br/&gt;+&lt;br/&gt;[[File:SurvL Icon.png|frameless|link=SurvL Survivor Lighter]] x1&lt;br/&gt;[[SurvL Survivor Lighter]]&lt;br/&gt;+&lt;br/&gt;[[File:Plier Icon.png|frameless|link=Pliers]] x1&lt;br/&gt;[[Pliers]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;1 h 55 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Spark Plug Icon .png|frameless|link=Spark plug]] x1&lt;br/&gt;[[Spark plug]]
+|-
+![[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x1&lt;br/&gt;[[Gunpowder "Hawk"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;1 h 58 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SNBICON.png|frameless|link=7.62x54R SNB]] x80&lt;br/&gt;[[7.62x54R SNB]]
+|-
+![[File:Metal-fuel-tank-icon.png|frameless|link=Metal fuel tank]] x1&lt;br/&gt;[[Metal fuel tank]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;2 h 5 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:12-70 Flechette icon.png|frameless|link=12/70 Flechette]] x120&lt;br/&gt;[[12/70 Flechette]]
+|-
+![[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x2&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:9x18PSTGZH.png|frameless|link=9x18 mm PM Pst gzh]] x200&lt;br/&gt;[[9x18 mm PM Pst gzh]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;2 h 13 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:9x18PBM.png|frameless|link=9x18 mm PM PBM]] x200&lt;br/&gt;[[9x18 mm PM PBM]]
+|-
+![[File:lada manual icon.png|frameless|link=Technical documentation]] x1&lt;br/&gt;[[Technical documentation]]&lt;br/&gt;+&lt;br/&gt;[[File:WeaponPartsIcon.png|frameless|link=Weapon parts]] x1&lt;br/&gt;[[Weapon parts]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;2 h 13 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:12-70 HP SF icon.png|frameless|link=12/70 HP Slug "SuperFormance"]] x120&lt;br/&gt;[[12/70 HP Slug "SuperFormance"]]
+|-
+![[File:Circuit Icon.png|frameless|link=Printed circuit board]] x6&lt;br/&gt;[[Printed circuit board]]&lt;br/&gt;+&lt;br/&gt;[[File:PC CPU Icon.png|frameless|link=PC CPU]] x2&lt;br/&gt;[[PC CPU]]&lt;br/&gt;+&lt;br/&gt;[[File:Capacitorsicon.png|frameless|link=Capacitors]] x5&lt;br/&gt;[[Capacitors]]&lt;br/&gt;+&lt;br/&gt;[[File:ramicon.png|frameless|link=RAM]] x2&lt;br/&gt;[[RAM]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;2 h 17 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:MilitaryCircuitBoardIcon.png|frameless|link=Military circuit board]] x1&lt;br/&gt;[[Military circuit board]]
+|-
+![[File:WIFI Camera Icon.png|frameless|link=WIFI Camera]] x1&lt;br/&gt;[[WIFI Camera]]&lt;br/&gt;+&lt;br/&gt;[[File:plexicon.png|frameless|link=Piece of plexiglas]] x1&lt;br/&gt;[[Piece of plexiglas]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;2 h 32 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:NIXXOR lens icon.png|frameless|link=NIXXOR lens]] x2&lt;br/&gt;[[NIXXOR lens]]
+|-
+![[File:SP6ICON.png|frameless|link=9x39 mm SP-6]] x50&lt;br/&gt;[[9x39 mm SP-6]]&lt;br/&gt;+&lt;br/&gt;[[File:7.62x39PS.png|frameless|link=7.62x39 mm PS]] x100&lt;br/&gt;[[7.62x39 mm PS]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;2 h 33 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:366APIcon.png|frameless|link=.366 AP]] x100&lt;br/&gt;[[.366 AP]]
+|-
+![[File:Mil Batt icon.png|frameless|link=6-STEN-140-M military battery]] x1&lt;br/&gt;[[6-STEN-140-M military battery]]&lt;br/&gt;+&lt;br/&gt;[[File:Multitoolicon.png|frameless|link=Leatherman Multitool]] x1&lt;br/&gt;[[Leatherman Multitool]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;2 h 47 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:Car Battery Icon.png|frameless|link=Car battery]] x5&lt;br/&gt;[[Car battery]]
+|-
+![[File:74PSICON.png|frameless|link=5.45x39 mm PS]] x200&lt;br/&gt;[[5.45x39 mm PS]]&lt;br/&gt;+&lt;br/&gt;[[File:Boltsicon.png|frameless|link=Bolts]] x2&lt;br/&gt;[[Bolts]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;3 h 35 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:74PPICON.png|frameless|link=5.45x39 mm PP]] x480&lt;br/&gt;[[5.45x39 mm PP]]
+|-
+![[File:9x19pst.png|frameless|link=9x19 mm Pst gzh]] x200&lt;br/&gt;[[9x19 mm Pst gzh]]&lt;br/&gt;+&lt;br/&gt;[[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x2&lt;br/&gt;[[Gunpowder "Hawk"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;3 h 45 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:9x19ap.png|frameless|link=9x19 mm AP 6.3]] x200&lt;br/&gt;[[9x19 mm AP 6.3]]
+|-
+![[File:7.62x39HP.png|frameless|link=7.62x39 mm HP]] x120&lt;br/&gt;[[7.62x39 mm HP]]&lt;br/&gt;+&lt;br/&gt;[[File:gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x2&lt;br/&gt;[[Gunpowder "Eagle"]]&lt;br/&gt;+&lt;br/&gt;[[File:Xenoicon.png|frameless|link=Xenomorph sealing foam]] x2&lt;br/&gt;[[Xenomorph sealing foam]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;4 h 30 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:SP6ICON.png|frameless|link=9x39 mm SP-6]] x400&lt;br/&gt;[[9x39 mm SP-6]]
+|-
+![[File:M855ICON.png|frameless|link=5.56x45 mm M855]] x180&lt;br/&gt;[[5.56x45 mm M855]]&lt;br/&gt;+&lt;br/&gt;[[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x2&lt;br/&gt;[[Gunpowder "Hawk"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;4 h 58 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M856A1ICON.png|frameless|link=5.56x45 mm M856A1]] x360&lt;br/&gt;[[5.56x45 mm M856A1]]
+|-
+![[File:NIXXOR lens icon.png|frameless|link=NIXXOR lens]] x3&lt;br/&gt;[[NIXXOR lens]]&lt;br/&gt;+&lt;br/&gt;[[File:Mil thervis.png|frameless|link=Military thermal vision module Iridium]] x2&lt;br/&gt;[[Military thermal vision module Iridium]]&lt;br/&gt;+&lt;br/&gt;[[File:Virtex programmable processor Icon.png|frameless|link=Virtex programmable processor]] x1&lt;br/&gt;[[Virtex programmable processor]]&lt;br/&gt;+&lt;br/&gt;[[File:sas icon.png|frameless|link=SAS drive]] x2&lt;br/&gt;[[SAS drive]]&lt;br/&gt;+&lt;br/&gt;[[File:PowerbankIcon.png|frameless|link=Powerbank]] x1&lt;br/&gt;[[Powerbank]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 2]]&lt;/big&gt;&lt;br/&gt;6 h 10 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:FLIR RS-32 Icon.png|frameless|link=FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope]] x1&lt;br/&gt;[[FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope]]
+|-
+![[File:30x160mmShellicon.png|frameless|link=OFZ 30x160mm shell]] x1&lt;br/&gt;[[OFZ 30x160mm shell]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;1 h 28 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:RGD-5 grenade icon.png|frameless|link=RGD-5 hand grenade]] x10&lt;br/&gt;[[RGD-5 hand grenade]]
+|-
+![[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x1&lt;br/&gt;[[Gunpowder "Hawk"]]&lt;br/&gt;+&lt;br/&gt;[[File:Wiresicon.png|frameless|link=Wires]] x4&lt;br/&gt;[[Wires]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;2 h 5 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:9x19ripicon.png|frameless|link=9x19 mm RIP]] x180&lt;br/&gt;[[9x19 mm RIP]]
+|-
+![[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x1&lt;br/&gt;[[Gunpowder "Hawk"]]&lt;br/&gt;+&lt;br/&gt;[[File:Damaged Hard Drive Icon.png|frameless|link=Damaged hard drive]] x2&lt;br/&gt;[[Damaged hard drive]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;2 h 28 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:12-70 AP-20 icon.png|frameless|link=12/70 AP-20 Slug]] x120&lt;br/&gt;[[12/70 AP-20 Slug]]
+|-
+![[File:Gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x1&lt;br/&gt;[[Gunpowder "Eagle"]]&lt;br/&gt;+&lt;br/&gt;[[File:SurvL Icon.png|frameless|link=SurvL Survivor Lighter]] x5&lt;br/&gt;[[SurvL Survivor Lighter]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:Zarya stun grenade icon.png|frameless|link=Zarya stun grenade]] x1&lt;br/&gt;[[Zarya stun grenade]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;3 h 28 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:23x75 Star icon.png|frameless|link=23x75mm "Star"]] x7&lt;br/&gt;[[23x75mm "Star"]]
+|-
+![[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x4&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x2&lt;br/&gt;[[Gunpowder "Eagle"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;4 h 43 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:556warmageicon.png|frameless|link=5.56x45 mm Warmage]] x400&lt;br/&gt;[[5.56x45 mm Warmage]]
+|-
+![[File:9x21sp13.png|frameless|link=9x21 mm SP13]] x150&lt;br/&gt;[[9x21 mm SP13]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:Multitoolicon.png|frameless|link=Leatherman Multitool]] x1&lt;br/&gt;[[Leatherman Multitool]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;4 h 57 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:7n9icon.png|frameless|link=9x39 mm 7N9 SPP]] x200&lt;br/&gt;[[9x39 mm 7N9 SPP]]
+|-
+![[File:Gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x2&lt;br/&gt;[[Gunpowder "Eagle"]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x1&lt;br/&gt;[[Gunpowder "Kite"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;5 hours
+!&lt;big&gt;→&lt;/big&gt;
+![[File:7.62x39BP.png|frameless|link=7.62x39 mm BP]] x260&lt;br/&gt;[[7.62x39 mm BP]]
+|-
+![[File:Mil Filter Icon.png|frameless|link=Military power filter]] x2&lt;br/&gt;[[Military power filter]]&lt;br/&gt;+&lt;br/&gt;[[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x2&lt;br/&gt;[[Gunpowder "Hawk"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;5 h 20 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:7n12icon.png|frameless|link=9x39 mm 7N12 BP]] x160&lt;br/&gt;[[9x39 mm 7N12 BP]]
+|-
+![[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x6&lt;br/&gt;[[Gunpowder "Hawk"]]&lt;br/&gt;+&lt;br/&gt;[[File:RadiatorHelixIcon.png|frameless|link=Radiator helix]] x2&lt;br/&gt;[[Radiator helix]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;5 h 49 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M61ICON.png|frameless|link=7.62x51 mm M61]] x300&lt;br/&gt;[[7.62x51 mm M61]]
+|-
+![[File:Gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x2&lt;br/&gt;[[Gunpowder "Eagle"]]&lt;br/&gt;+&lt;br/&gt;[[File:30x160mmShellicon.png|frameless|link=OFZ 30x160mm shell]] x2&lt;br/&gt;[[OFZ 30x160mm shell]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;5 h 43 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:M995ICON.png|frameless|link=5.56x45 mm M995]] x300&lt;br/&gt;[[5.56x45 mm M995]]
+|-
+![[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x2&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x2&lt;br/&gt;[[Gunpowder "Eagle"]]&lt;br/&gt;+&lt;br/&gt;[[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x2&lt;br/&gt;[[Gunpowder "Hawk"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;6 h 11 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:7n39icon.png|frameless|link=5.45x39 mm 7N39 "Igolnik"]] x260&lt;br/&gt;[[5.45x39 mm 7N39 "Igolnik"]]
+|-
+![[File:Bronze Lion Icon.png|frameless|link=Bronze lion]] x1&lt;br/&gt;[[Bronze lion]]&lt;br/&gt;+&lt;br/&gt;[[File:RDG-2B Smoke grenade icon.png|frameless|link=RDG-2B Smoke grenade]] x5&lt;br/&gt;[[RDG-2B Smoke grenade]]&lt;br/&gt;+&lt;br/&gt;[[File:GunpowderHawkIcon.png|frameless|link=Gunpowder "Hawk"]] x2&lt;br/&gt;[[Gunpowder "Hawk"]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x1&lt;br/&gt;[[Gunpowder "Eagle"]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;6 h 40 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:30x160mmShellicon.png|frameless|link=OFZ 30x160mm shell]] x2&lt;br/&gt;[[OFZ 30x160mm shell]]
+|-
+![[File:Gunpowder eagle icon.png|frameless|link=Gunpowder "Eagle"]] x3&lt;br/&gt;[[Gunpowder "Eagle"]]&lt;br/&gt;+&lt;br/&gt;[[File:Gunpowder Icon.png|frameless|link=Gunpowder "Kite"]] x4&lt;br/&gt;[[Gunpowder "Kite"]]&lt;br/&gt;+&lt;br/&gt;[[File:9x19pst.png|frameless|link=9x19 mm Pst gzh]] x300&lt;br/&gt;[[9x19 mm Pst gzh]]&lt;br/&gt;+&lt;br/&gt;[[File:Nailsicon.png|frameless|link=A pack of nails]] x4&lt;br/&gt;[[A pack of nails]]
+!&lt;big&gt;→&lt;/big&gt;
+!&lt;big&gt;[[Hideout#Modules|Workbench level 3]]&lt;/big&gt;&lt;br/&gt;7 h 32 min
+!&lt;big&gt;→&lt;/big&gt;
+![[File:7N31Icon.png|frameless|link=9x19 mm 7N31]] x300&lt;br/&gt;[[9x19 mm 7N31]]
+|}
+
+[[Category:Escape from Tarkov]]
+
+[[cs:Výroba]]
+[[fr:Liste des recettes]]</text>
+      <sha1>q430fy674zxl7ftsb9lmlio3oks9upo</sha1>
+    </revision>
+  </page>
+</mediawiki>

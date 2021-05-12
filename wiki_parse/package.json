@@ -1,0 +1,14 @@
+{
+  "name": "wiki_parse",
+  "version": "1.0.0",
+  "description": "parses wiki xml info into json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nader",
+  "license": "ISC",
+  "dependencies": {
+    "json-hash": "^1.2.0"
+  }
+}
